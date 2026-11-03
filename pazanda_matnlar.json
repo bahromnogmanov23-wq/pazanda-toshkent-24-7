@@ -255,5 +255,101 @@
    "videoretsept",
    "yoqtiruvchilar"
   ]
+ },
+ {
+  "prefiks": "channelcreated",
+  "sozlar": [
+   "channel",
+   "created"
+  ]
+ },
+ {
+  "prefiks": "channelphotoupdated",
+  "sozlar": [
+   "channel",
+   "photo",
+   "updated"
+  ]
+ },
+ {
+  "prefiks": "чойшабларнитахлашучунлайфхакпазандасариштабекажонбилиб",
+  "sozlar": [
+   "бекажон",
+   "билиб",
+   "бўлган",
+   "жуда",
+   "керак",
+   "кўринг",
+   "лайфхак",
+   "олинг",
+   "пазанда",
+   "саришта",
+   "сақлаб",
+   "синаб",
+   "тахлаш",
+   "усул",
+   "учун",
+   "фойдали",
+   "чойшабларни",
+   "қўйиши"
+  ]
+ },
+ {
+  "prefiks": "judayamosontayyorladiganpechonniyretseptikeraklimasalliqlar",
+  "sozlar": [
+   "judayam",
+   "kerakli",
+   "ladigan",
+   "masalliqlar",
+   "oson",
+   "pechonniy",
+   "razrexlitel",
+   "retsepti",
+   "saryog",
+   "shakar",
+   "tayyor",
+   "tuxum",
+   "vanelin",
+   "yaqinlarizga",
+   "yuboring"
+  ]
+ },
+ {
+  "prefiks": "pochkabaklavalikyufkasoussaryonachnkasyoki",
+  "sozlar": [
+   "ajrat",
+   "avval",
+   "baklavalik",
+   "chunk",
+   "eslatma",
+   "kartoshkal",
+   "ladi",
+   "lsang",
+   "masalan",
+   "mayda",
+   "mazzali",
+   "mumkun",
+   "nach",
+   "nkas",
+   "olas",
+   "pochka",
+   "qizart",
+   "qogan",
+   "qovur",
+   "ralgan",
+   "rovarlar",
+   "saryo",
+   "sous",
+   "tavada",
+   "tayyorlash",
+   "tovuql",
+   "tovuqli",
+   "yanayam",
+   "ymal",
+   "yoki",
+   "yufka",
+   "yufkadan",
+   "yufkan"
+  ]
  }
 ]

@@ -109,6 +109,18 @@ YT_QIDIRUVLAR = [
     "oson tort va pishiriq tayyorlash",
     "mazali salat tayyorlash retsepti",
     "nonushta uchun oson va mazali retsept",
+    "uy sharoitida somsa tayyorlash sirlari",
+    "oson pirog va keks tayyorlash uzbekcha",
+    "pechenye tayyorlash oson va kamxarj",
+    "duxovkasiz shirinlik tayyorlash",
+    "milliy taomlar tayyorlash retseptlari",
+    "uy bekasi uchun foydali layfxaklar",
+    "kechki ovqat uchun oson va mazali taom",
+    "chizkeyk va desert tayyorlash uzbek",
+    "qatlama va bulochka tayyorlash retsepti",
+    "bayram dasturxoni uchun salatlar",
+    "tovuq go'shtidan mazali taom tayyorlash",
+    "oshxona tozalash sirlari va layfxaklar",
 ]
 
 # 3) SAYT MANBALARI (Zira.uz o'zbekcha videoretseptlar bo'limi)
@@ -540,27 +552,25 @@ def korishlar_soni(s):
 
 
 # ==================== 1) TELEGRAM MANBALARDAN VIDEO OLISH ====================
-def tg_kanal_oqi(kanal_nomi):
-    url = f"https://t.me/s/{kanal_nomi}"
-    r = requests.get(url, headers=HEADERS, timeout=25)
-    r.raise_for_status()
-    qismlar = re.split(r'(?=<div class="tgme_widget_message\b)', r.text)
+def tg_sahifa_ajrat(html_matn, kanal_nomi):
+    qismlar = re.split(r'(?=<div class="tgme_widget_message\b)', html_matn)
     natija = []
+    eng_kichik_raqam = None
     for p in qismlar:
         m = re.search(r'data-post="([^"]+)"', p)
         if not m:
             continue
         post_id = m.group(1)
+        try:
+            raqam = int(post_id.split("/")[-1])
+            if eng_kichik_raqam is None or raqam < eng_kichik_raqam:
+                eng_kichik_raqam = raqam
+        except Exception:
+            pass
 
-        # FAQAT VIDEOLI xabarlarni olamiz! (Telegram video yoki Instagram Reel ssilkasi)
+        # FAQAT VIDEOLI xabarlarni olamiz!
         vm = re.search(r'<video[^>]+src="([^"]+)"', p)
         video = vm.group(1) if vm else None
-        manba_turi = "telegram"
-        if not video:
-            igm = re.search(r'(https?://(?:www\.)?instagram\.com/(?:reel|p)/[A-Za-z0-9_\-]+)', p)
-            if igm:
-                video = igm.group(1)
-                manba_turi = "instagram"
         if not video:
             continue
 
@@ -579,12 +589,46 @@ def tg_kanal_oqi(kanal_nomi):
         natija.append({
             "id": f"tg:{post_id}",
             "manba": kanal_nomi,
-            "manba_turi": manba_turi,
+            "manba_turi": "telegram",
             "matn": matn,
             "video": video,
             "views": views,
         })
+    return natija, eng_kichik_raqam
+
+
+def tg_kanal_oqi(kanal_nomi, seen=None):
+    url = f"https://t.me/s/{kanal_nomi}"
+    r = requests.get(url, headers=HEADERS, timeout=25)
+    r.raise_for_status()
+    natija, eng_kichik = tg_sahifa_ajrat(r.text, kanal_nomi)
+
+    # Agar 1-sahifadagi barcha videolar ko'rilgan bo'lsa, oldingi sahifalardan ham olamiz
+    if seen is not None and eng_kichik and all(x["id"] in seen for x in natija):
+        for _ in range(2):
+            if not eng_kichik or eng_kichik <= 5:
+                break
+            r2 = requests.get(f"https://t.me/s/{kanal_nomi}?before={eng_kichik}", headers=HEADERS, timeout=25)
+            eski_natija, eng_kichik = tg_sahifa_ajrat(r2.text, kanal_nomi)
+            natija.extend(eski_natija)
+            if any(x["id"] not in seen for x in eski_natija):
+                break
     return natija
+
+
+def tg_yangi_video_ssilka_ol(tg_post_id):
+    """
+    tg:kanal/12345 uchun eskirgan CDN token o'rniga yangi video ssilkasini oladi.
+    """
+    toza_id = tg_post_id.replace("tg:", "", 1)
+    try:
+        r = requests.get(f"https://t.me/{toza_id}?embed=1&mode=tme", headers=HEADERS, timeout=20)
+        vm = re.search(r'<video[^>]+src="([^"]+)"', r.text)
+        if vm:
+            return vm.group(1)
+    except Exception:
+        pass
+    return None
 
 
 # ==================== 2) SAYTLARDAN (ZIRA.UZ) VIDEORETSEPTLAR OLISH ====================
@@ -869,6 +913,10 @@ def kanalga_video_yubor(post):
     )
 
     vbuf = video_yuklab_ol(video_url, max_mb=45)
+    if not vbuf and str(post.get("id", "")).startswith("tg:"):
+        yangi_url = tg_yangi_video_ssilka_ol(post["id"])
+        if yangi_url:
+            vbuf = video_yuklab_ol(yangi_url, max_mb=45)
     if not vbuf:
         return False
 
@@ -912,7 +960,7 @@ def yangi_videolarni_yig(seen, matn_baza):
     random.shuffle(kanallar)
     for kanal in kanallar:
         try:
-            postlar = tg_kanal_oqi(kanal)
+            postlar = tg_kanal_oqi(kanal, seen=seen)
         except Exception as e:
             log(f"⚠️ TG ({kanal}) xato: {e}")
             continue
@@ -1006,15 +1054,18 @@ def bitta_navbatdagi_videoni_chiqar(seen, matn_baza):
                 navbat.append(y)
                 mavjud_idlar.add(y["id"])
 
-    while navbat:
+    urinish = 0
+    while navbat and urinish < 4:
         p = navbat.pop(0)
         pid = p["id"]
-        seen.add(pid)
         toza = matnni_tozala(p.get("matn") or "")
         if len(toza) < 15 or takroriymi(toza, matn_baza):
+            seen.add(pid)
             continue
 
+        urinish += 1
         if kanalga_video_yubor(p):
+            seen.add(pid)
             matn_baza.append(matn_imzosi(toza))
             matn_bazani_saqlash(matn_baza)
             korilganlarni_saqlash(seen)
@@ -1022,6 +1073,8 @@ def bitta_navbatdagi_videoni_chiqar(seen, matn_baza):
             qisqa = toza.replace("\n", " ")[:65]
             log(f"✅ 🎬 VIDEO [{p.get('manba')}] {qisqa}")
             return True
+        else:
+            seen.add(pid)
 
     korilganlarni_saqlash(seen)
     navbatni_saqlash(navbat)

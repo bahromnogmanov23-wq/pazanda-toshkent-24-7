@@ -128,6 +128,8 @@
  "tg:MILITSIYA_UZB/177264",
  "tg:MILITSIYA_UZB/177266",
  "tg:MILITSIYA_UZB/177267",
+ "tg:MILITSIYA_UZB/177268",
+ "tg:MILITSIYA_UZB/177269",
  "tg:TYUZBEK/137950",
  "tg:TYUZBEK/137954",
  "tg:TYUZBEK/137955",
@@ -172,6 +174,7 @@
  "tg:TYUZBEK/137998",
  "tg:TYUZBEK/137999",
  "tg:TYUZBEK/138000",
+ "tg:TYUZBEK/138001",
  "tg:TezkorxabarUz_official/122363",
  "tg:TezkorxabarUz_official/122365",
  "tg:TezkorxabarUz_official/122366",
@@ -265,6 +268,7 @@
  "tg:darakchi/145451",
  "tg:darakchi/145452",
  "tg:darakchi/145453",
+ "tg:darakchi/145454",
  "tg:effectuz/100001",
  "tg:effectuz/100002",
  "tg:effectuz/100003",
@@ -482,5 +486,6 @@
  "tg:xabaruzofficial/116146",
  "tg:xabaruzofficial/116147",
  "tg:xabaruzofficial/116148",
- "tg:xabaruzofficial/116149"
+ "tg:xabaruzofficial/116149",
+ "tg:xabaruzofficial/116150"
 ]

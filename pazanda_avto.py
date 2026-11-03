@@ -1038,11 +1038,48 @@ def yangi_videolarni_yig(seen, matn_baza):
     return aralash
 
 
+def kanal_oxirgi_holatini_tekshir(matn_baza):
+    """
+    @pazanda_maxorati kanalining jonli holatini tekshiradi:
+      1) Kanaldagi mavjud postlarni matn_baza ga qo'shadi (kompyuter va bulut bir xil post chiqarmasligi uchun).
+      2) Agar oxirgi post 4 daqiqadan kam vaqt oldin chiqqan bo'lsa, False qaytaradi.
+    """
+    from datetime import datetime, timezone
+    try:
+        r = requests.get("https://t.me/s/pazanda_maxorati", headers=HEADERS, timeout=20)
+        qismlar = re.split(r'(?=<div class="tgme_widget_message\b)', r.text)
+        oxirgi_vaqt = None
+        for p in qismlar:
+            tm = re.search(r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>', p, re.S)
+            if tm:
+                m_txt = html.unescape(re.sub(r"<[^>]+>", " ", tm.group(1))).strip()
+                toza = matnni_tozala(m_txt)
+                if len(toza) >= 15 and not takroriymi(toza, matn_baza):
+                    matn_baza.append(matn_imzosi(toza))
+            dt_m = re.search(r'<time[^>]+datetime="([^"]+)"', p)
+            if dt_m:
+                try:
+                    oxirgi_vaqt = datetime.fromisoformat(dt_m.group(1))
+                except Exception:
+                    pass
+        if oxirgi_vaqt is not None:
+            farq = (datetime.now(timezone.utc) - oxirgi_vaqt).total_seconds()
+            if 0 <= farq < 240:
+                log(f"⏳ Kanalda {int(farq)} soniya oldin video chiqqan — navbatdagi siklni kutamiz.")
+                return False
+    except Exception:
+        pass
+    return True
+
+
 def bitta_navbatdagi_videoni_chiqar(seen, matn_baza):
     """
     Navbatdan yoki yangi manbalardan FAQAT 1 TA eng sifatli videoni kanalga chiqaradi.
     Har 5-10 daqiqada 1 tadan video chiqishi uchun xizmat qiladi.
     """
+    if not kanal_oxirgi_holatini_tekshir(matn_baza):
+        return False
+
     navbat = navbatni_yukla()
     navbat = [p for p in navbat if p.get("id") not in seen]
 

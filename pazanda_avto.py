@@ -327,9 +327,26 @@ def navbatni_saqlash(navbat):
         pass
 
 
-def matn_imzosi(matn):
+KIRILL_LOTIN = {
+    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "yo", "ж": "j",
+    "з": "z", "и": "i", "й": "y", "к": "k", "л": "l", "м": "m", "н": "n", "о": "o",
+    "п": "p", "р": "r", "с": "s", "т": "t", "у": "u", "ф": "f", "х": "x", "ц": "ts",
+    "ч": "ch", "ш": "sh", "щ": "sh", "ъ": "", "ь": "", "э": "e", "ю": "yu", "я": "ya",
+    "ў": "o", "қ": "q", "ғ": "g", "ҳ": "h",
+    # Ayrim manbalar turkiy harflarda ham yozadi (ş, ç, ğ, ö, ü, ı)
+    "ş": "sh", "ç": "ch", "ğ": "g", "ö": "o", "ü": "u", "ı": "i", "ţ": "t", "ý": "y",
+}
+
+
+def matnni_imzo_uchun_standartlash(matn):
+    """Kirill va turkiy harflarni lotinga o'tkazib, lotin/kirill versiyalarni birlashtiradi."""
     k = matn.lower()
-    harflar = re.sub(r"[^a-zа-яёўқғҳ0-9\s]", " ", k)
+    return "".join(KIRILL_LOTIN.get(c, c) for c in k)
+
+
+def matn_imzosi(matn):
+    k = matnni_imzo_uchun_standartlash(matn)
+    harflar = re.sub(r"[^a-z0-9\s]", " ", k)
     sozlar = [s for s in harflar.split() if len(s) >= 4]
     prefiks = "".join(sozlar[:8])
     return {"prefiks": prefiks, "sozlar": sorted(set(sozlar[:35]))}

@@ -247,10 +247,27 @@ def matn_bazani_saqlash(matnlar):
         pass
 
 
+KIRILL_LOTIN = {
+    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "yo", "ж": "j",
+    "з": "z", "и": "i", "й": "y", "к": "k", "л": "l", "м": "m", "н": "n", "о": "o",
+    "п": "p", "р": "r", "с": "s", "т": "t", "у": "u", "ф": "f", "х": "x", "ц": "ts",
+    "ч": "ch", "ш": "sh", "щ": "sh", "ъ": "", "ь": "", "э": "e", "ю": "yu", "я": "ya",
+    "ў": "o", "қ": "q", "ғ": "g", "ҳ": "h",
+    # Ayrim manbalar turkiy harflarda ham yozadi (ş, ç, ğ, ö, ü, ı)
+    "ş": "sh", "ç": "ch", "ğ": "g", "ö": "o", "ü": "u", "ı": "i", "ţ": "t", "ý": "y",
+}
+
+
+def matnni_imzo_uchun_standartlash(matn):
+    """Kirill va turkiy harflarni lotinga o'tkazib, lotin/kirill versiyalarni birlashtiradi."""
+    k = matn.lower()
+    return "".join(KIRILL_LOTIN.get(c, c) for c in k)
+
+
 def matn_imzosi(matn):
     """Takroriy xabarlarni tutish uchun matnning asosiy so'zlari to'plami."""
-    k = matn.lower()
-    harflar = re.sub(r"[^a-zа-яёўқғҳ0-9\s]", " ", k)
+    k = matnni_imzo_uchun_standartlash(matn)
+    harflar = re.sub(r"[^a-z0-9\s]", " ", k)
     sozlar = [s for s in harflar.split() if len(s) >= 4]
     prefiks = "".join(sozlar[:8])
     return {"prefiks": prefiks, "sozlar": sorted(set(sozlar[:35]))}
@@ -740,6 +757,69 @@ def barcha_manbalarni_tekshir(seen, matn_baza, birinchi_marta=False):
     return nomzodlar
 
 
+def kanal_oxirgi_holatini_tekshir(matn_baza):
+    """
+    @Toshkent_2200 kanalining jonli holatini tekshiradi:
+      1) Kanaldagi oxirgi ~60 ta post matnini matn_baza ga qo'shadi
+         (kompyuter va bulut bir xil xabarni ikki marta chiqarmasligi uchun).
+      2) Agar oxirgi post 4 daqiqadan kam vaqt oldin chiqqan bo'lsa, False qaytaradi.
+    """
+    from datetime import datetime, timezone
+    qoshilgan = 0
+    oxirgi_vaqt = None
+    try:
+        sahifalar = [None, None, None]
+        eng_kichik = None
+        for sahifa in sahifalar:
+            url = "https://t.me/s/Toshkent_2200"
+            if eng_kichik:
+                try:
+                    url += f"?before={int(eng_kichik.split('/')[-1])}"
+                except (ValueError, AttributeError):
+                    break
+            r = requests.get(url, headers=HEADERS, timeout=20)
+            qismlar = re.split(r'(?=<div class="tgme_widget_message\b)', r.text)
+            sahifa_idlar = []
+            for p in qismlar:
+                pm = re.search(r'data-post="([^"]+)"', p)
+                if not pm:
+                    continue
+                post_id = pm.group(1)
+                sahifa_idlar.append(post_id)
+                tm = re.search(
+                    r'<div class="tgme_widget_message_text[^"]*"[^>]*>(.*?)</div>',
+                    p, re.S
+                )
+                m_txt = html.unescape(re.sub(r"<br\s*/?>", "\n", tm.group(1) if tm else ""))
+                m_txt = re.sub(r"<[^>]+>", " ", m_txt)
+                toza = matnni_tozala(m_txt.strip())
+                if len(toza) >= 20 and not takroriymi(toza, matn_baza):
+                    matn_baza.append(matn_imzosi(toza))
+                    qoshilgan += 1
+                dt_m = re.search(r'<time[^>]+datetime="([^"]+)"', p)
+                if dt_m and sahifa is None:
+                    try:
+                        oxirgi_vaqt = datetime.fromisoformat(dt_m.group(1))
+                    except ValueError:
+                        pass
+            if sahifa_idlar:
+                eng_kichik = sahifa_idlar[0]
+    except Exception:
+        pass
+    if qoshilgan:
+        matn_bazani_saqlash(matn_baza)
+        log(f"🔄 Kanal bilan sinxronlashdi: bazaga {qoshilgan} ta yangi imzo qo'shildi.")
+    if oxirgi_vaqt is not None:
+        try:
+            farq = (datetime.now(timezone.utc) - oxirgi_vaqt).total_seconds()
+            if 0 <= farq < 240:
+                log(f"⏳ Kanalda {int(farq)} soniya oldin post chiqqan — siklni kutamiz.")
+                return False
+        except Exception:
+            pass
+    return True
+
+
 def asosiy():
     seen = korilganlarni_yukla()
     matn_baza = matn_bazani_yukla()
@@ -748,6 +828,11 @@ def asosiy():
 
     while True:
         try:
+            if not kanal_oxirgi_holatini_tekshir(matn_baza):
+                if "--once" in sys.argv:
+                    break
+                time.sleep(REJAL_SONIYA)
+                continue
             yangi_postlar = barcha_manbalarni_tekshir(seen, matn_baza, birinchi_marta=birinchi_marta)
             birinchi_marta = False
             korilganlarni_saqlash(seen)

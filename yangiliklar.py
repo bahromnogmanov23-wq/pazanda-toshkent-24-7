@@ -13,6 +13,7 @@ Qoidalar:
   7) Har bir xabarga reaksiya va muhokama guruhiga kamida 2 ta munosabat yoziladi.
 """
 
+import email.utils
 import html
 import io
 import json
@@ -23,6 +24,7 @@ import socket
 import sys
 import time
 import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
 
 import requests
 import telebot
@@ -45,6 +47,7 @@ PAPKA = os.path.dirname(os.path.abspath(__file__))
 TOKEN_FILE = os.path.join(PAPKA, "@Toshknet_bot.txt")
 SEEN_FILE = os.path.join(PAPKA, "korilganlar.json")
 TEXT_SEEN_FILE = os.path.join(PAPKA, "korilgan_matnlar.json")
+RUHSAT_FILE = os.path.join(PAPKA, "ruhsat_keyingi_post.json")
 LOG_FILE = os.path.join(PAPKA, "yangiliklar_log.txt")
 
 KANAL = "@Toshkent_2200"
@@ -548,6 +551,15 @@ def tg_kanal_oqi(kanal_nomi):
         vw = re.search(r'<span class="tgme_widget_message_views">([^<]+)</span>', p)
         views = korishlar_soni(vw.group(1) if vw else "")
 
+        # Postning e'lon qilingan vaqti (0-soniyali yangilik filtri uchun)
+        vt = re.search(r'<time[^>]+datetime="([^"]+)"', p)
+        vaqt = None
+        if vt:
+            try:
+                vaqt = datetime.fromisoformat(vt.group(1)).timestamp()
+            except ValueError:
+                vaqt = None
+
         natija.append({
             "id": f"tg:{post_id}",
             "manba": kanal_nomi,
@@ -555,6 +567,7 @@ def tg_kanal_oqi(kanal_nomi):
             "rasm": rasm,
             "video": video,
             "views": views,
+            "vaqt": vaqt,
         })
     return natija
 
@@ -568,6 +581,13 @@ def kun_uz_oqi():
     for it in list(negiz.iter("item"))[:8]:
         title = html.unescape((it.findtext("title") or "").strip())
         link = (it.findtext("link") or "").strip()
+        vaqt = None
+        pub = (it.findtext("pubDate") or "").strip()
+        if pub:
+            try:
+                vaqt = email.utils.parsedate_to_datetime(pub).timestamp()
+            except Exception:
+                vaqt = None
         if not title or not link:
             continue
         natija.append({
@@ -575,6 +595,7 @@ def kun_uz_oqi():
             "manba": "kun.uz",
             "link": link,
             "title": title,
+            "vaqt": vaqt,
         })
     natija.reverse()
     return natija
@@ -718,6 +739,9 @@ def kanalga_yubor(post):
 def barcha_manbalarni_tekshir(seen, matn_baza, birinchi_marta=False):
     nomzodlar = []
 
+    # FAQAT OXIRGI 10 DAQIQADA chiqqan xabarlar yangi hisoblanadi
+    yangi_chegara = time.time() - 600
+
     for kanal in TG_MANBALAR:
         try:
             postlar = tg_kanal_oqi(kanal)
@@ -734,6 +758,9 @@ def barcha_manbalarni_tekshir(seen, matn_baza, birinchi_marta=False):
 
         for p in yangilar:
             seen.add(p["id"])
+            # ⏰ Faqat oxirgi 10 daqiqada chiqqan yangi xabarlar qabul qilinadi
+            if birinchi_marta or p.get("vaqt") is None or p["vaqt"] < yangi_chegara:
+                continue
             matn = p.get("matn") or ""
             if not matn or reklama_mi(matn):
                 continue
@@ -759,6 +786,9 @@ def barcha_manbalarni_tekshir(seen, matn_baza, birinchi_marta=False):
             kun_yangi = kun_yangi[-1:]
         for it in kun_yangi:
             seen.add(it["id"])
+            # ⏰ RSS xabari ham oxirgi 10 daqiqada chiqqan bo'lishi shart
+            if birinchi_marta or it.get("vaqt") is None or it["vaqt"] < yangi_chegara:
+                continue
             p = kun_uz_maqola_boyit(it)
             matn = p.get("matn") or ""
             if not matn or reklama_mi(matn) or not ozbekchami(matn):
@@ -778,14 +808,47 @@ def barcha_manbalarni_tekshir(seen, matn_baza, birinchi_marta=False):
     return nomzodlar
 
 
+def ruhsat_oqi():
+    """Fayldan «keyingi post qaerda» ruhsat ma'lumotini o'qiydi."""
+    try:
+        with open(RUHSAT_FILE, encoding="utf-8") as f:
+            m = json.load(f)
+        # 30 daqiqadan eski yozuv ishonchsiz (masalan, kompyuter uzoq o'chirilgan)
+        if not isinstance(m, dict):
+            return None
+        if time.time() - float(m.get("yozilgan", 0)) > 1800:
+            return None
+        return float(m.get("keyingi", 0))
+    except Exception:
+        return None
+
+
+def ruhsat_yoz():
+    """Post yuborilgach, keyingi postga 10-20 daqiqa savat qo'yiladi."""
+    hozir = time.time()
+    try:
+        with open(RUHSAT_FILE, "w", encoding="utf-8") as f:
+            json.dump(
+                {"keyingi": hozir + random.randint(600, 1200), "yozilgan": hozir},
+                f, ensure_ascii=False
+            )
+    except OSError:
+        pass
+
+
 def kanal_oxirgi_holatini_tekshir(matn_baza):
     """
     @Toshkent_2200 kanalining jonli holatini tekshiradi:
-      1) Kanaldagi oxirgi ~60 ta post matnini matn_baza ga qo'shadi
-         (kompyuter va bulut bir xil xabarni ikki marta chiqarmasligi uchun).
-      2) Agar oxirgi post 4 daqiqadan kam vaqt oldin chiqqan bo'lsa, False qaytaradi.
+      1) Kompyuter va bulut bir vaqtda ishlamay qolsin — oxirgi post 10 daqiqadan
+         kam vaqt oldin chiqqan bo'lsa, bu sikl o'tkazib yuboriladi.
+      2) Ruhsat fayli bo'yicha keyingi post 10-20 daqiqa oralig'ida chiqadi.
+      3) Kanaldagi oxirgi ~60 ta post matni matn_baza ga qo'shiladi (takror mudofaasi).
     """
-    from datetime import datetime, timezone
+    keyingi_ruhsat = ruhsat_oqi()
+    if keyingi_ruhsat and time.time() < keyingi_ruhsat:
+        log(f"⏳ Keyingi postga ruhsat yana {int(keyingi_ruhsat - time.time())} soniya.")
+        return False
+
     qoshilgan = 0
     oxirgi_vaqt = None
     try:
@@ -833,8 +896,8 @@ def kanal_oxirgi_holatini_tekshir(matn_baza):
     if oxirgi_vaqt is not None:
         try:
             farq = (datetime.now(timezone.utc) - oxirgi_vaqt).total_seconds()
-            if 0 <= farq < 240:
-                log(f"⏳ Kanalda {int(farq)} soniya oldin post chiqqan — siklni kutamiz.")
+            if 0 <= farq < 600:
+                log(f"⏳ Kanalda {int(farq)} soniya oldin post chiqqan — keyingi post 10+ daqiqada bo'ladi.")
                 return False
         except Exception:
             pass
@@ -860,7 +923,8 @@ def asosiy():
 
             if yangi_postlar:
                 log(f"🔔 {len(yangi_postlar)} ta saralangan xabar topildi...")
-                for p in yangi_postlar:
+                # ⭐ Har sekilda FAQAT eng dolzarb (balli eng yuqori) 1 ta xabar yuboriladi
+                for p in yangi_postlar[:2]:
                     toza = matnni_tozala(p["matn"])
                     if takroriymi(toza, matn_baza):
                         continue
@@ -869,10 +933,11 @@ def asosiy():
                             matn_baza.append(matn_imzosi(toza))
                             matn_bazani_saqlash(matn_baza)
                             korilganlarni_saqlash(seen)
+                            ruhsat_yoz()
                             tur = "🎬 VIDEO" if p.get("video") else "📸 POST"
                             qisqa = toza.replace("\n", " ")[:60]
                             log(f"✅ {tur} [{p['manba']}] {qisqa}")
-                            time.sleep(3)
+                            break  # 1 sikl = 1 xabar, keyingi xabar 10-20 daqiqadan keyin
                     except Exception as e:
                         log(f"❌ Yuborishda xato [{p['manba']}]: {e}")
             else:

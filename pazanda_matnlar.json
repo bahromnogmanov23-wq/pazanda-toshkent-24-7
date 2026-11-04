@@ -1262,6 +1262,25 @@
   ]
  },
  {
+  "prefiks": "tuxumxamirdanjudayammazalipishiriktayyorlashusuli",
+  "sozlar": [
+   "judayam",
+   "mazali",
+   "pishirik",
+   "tayyorlash",
+   "tuxum",
+   "usuli",
+   "xamirdan"
+  ]
+ },
+ {
+  "prefiks": "yoqimliishtaxa",
+  "sozlar": [
+   "ishtaxa",
+   "yoqimli"
+  ]
+ },
+ {
   "prefiks": "videoretseptmazaliruletrulettayyorlashnibilasizmiagarunda",
   "sozlar": [
    "agar",
@@ -1277,15 +1296,20 @@
   ]
  },
  {
-  "prefiks": "tuxumxamirdanjudayammazalipishiriktayyorlashusuli",
+  "prefiks": "pitstsayoqimliishtaxa",
   "sozlar": [
-   "judayam",
-   "mazali",
-   "pishirik",
-   "tayyorlash",
-   "tuxum",
-   "usuli",
-   "xamirdan"
+   "ishtaxa",
+   "pitstsa",
+   "yoqimli"
+  ]
+ },
+ {
+  "prefiks": "ishiningustalarixuddixakikiydek",
+  "sozlar": [
+   "ishining",
+   "ustalari",
+   "xakikiydek",
+   "xuddi"
   ]
  },
  {
@@ -1304,6 +1328,14 @@
   ]
  },
  {
+  "prefiks": "shaurmayoqimliishtaxa",
+  "sozlar": [
+   "ishtaxa",
+   "shaurma",
+   "yoqimli"
+  ]
+ },
+ {
   "prefiks": "mikrotolqinlipechdapishirilganshokoladlipudingnechadaqiqa",
   "sozlar": [
    "daqiqa",
@@ -1317,6 +1349,36 @@
    "puding",
    "shokoladli",
    "tayyor"
+  ]
+ },
+ {
+  "prefiks": "duxovkatozalashningosonyuli",
+  "sozlar": [
+   "duxovka",
+   "oson",
+   "tozalashning",
+   "yuli"
+  ]
+ },
+ {
+  "prefiks": "olmadolchinlibulochkalaroddiymasalliqlardanjudamazalibulochkalar",
+  "sozlar": [
+   "bulochkalar",
+   "dolchinli",
+   "juda",
+   "masalliqlardan",
+   "mazali",
+   "oddiy",
+   "olma"
+  ]
+ },
+ {
+  "prefiks": "makaronlarkandaytayerlanishinikurganmisiz",
+  "sozlar": [
+   "kanday",
+   "kurganmisiz",
+   "makaronlar",
+   "tayerlanishini"
   ]
  },
  {
@@ -1341,6 +1403,14 @@
   ]
  },
  {
+  "prefiks": "mushuksayrgachikdi",
+  "sozlar": [
+   "chikdi",
+   "mushuk",
+   "sayrga"
+  ]
+ },
+ {
   "prefiks": "videoretseptshokoladlibezenafaqattortlarnibezatishgabalkichoy",
   "sozlar": [
    "balki",
@@ -1356,6 +1426,17 @@
    "shokoladli",
    "tortlarni",
    "videoretsept"
+  ]
+ },
+ {
+  "prefiks": "tuxumnisevadiganlaruchunajoyibsanatasari",
+  "sozlar": [
+   "ajoyib",
+   "asari",
+   "sanat",
+   "sevadiganlar",
+   "tuxumni",
+   "uchun"
   ]
  },
  {
@@ -1378,10 +1459,170 @@
   ]
  },
  {
-  "prefiks": "yoqimliishtaxa",
+  "prefiks": "bodringdanokkushyasashusuli",
   "sozlar": [
-   "ishtaxa",
-   "yoqimli"
+   "bodringdan",
+   "okkush",
+   "usuli",
+   "yasash"
+  ]
+ },
+ {
+  "prefiks": "videoretseptolmalirollnoodatiyrinishdaajoyibmlarunligiga",
+  "sozlar": [
+   "ajoyib",
+   "mlar",
+   "munosib",
+   "noodatiy",
+   "olmali",
+   "pirog",
+   "rinishda",
+   "roll",
+   "unligiga",
+   "videoretsept"
+  ]
+ },
+ {
+  "prefiks": "farzandlaringizgakulingizbilanuyinchokyasabbering",
+  "sozlar": [
+   "bering",
+   "bilan",
+   "farzandlaringizga",
+   "kulingiz",
+   "uyinchok",
+   "yasab"
+  ]
+ },
+ {
+  "prefiks": "videoretseptapelsinlimaffinlarapelsinsharbatisolibpishirilganmaffinlardan",
+  "sozlar": [
+   "apelsin",
+   "apelsinli",
+   "iste",
+   "maffinlar",
+   "maffinlardan",
+   "oling",
+   "pishirilgan",
+   "qilishni",
+   "retseptni",
+   "saqlab",
+   "sharbati",
+   "solib",
+   "unda",
+   "videoretsept",
+   "xohlaysizmi"
+  ]
+ },
+ {
+  "prefiks": "pomidordanajoyibatirgulyasashnibilasizmi",
+  "sozlar": [
+   "ajoyib",
+   "atirgul",
+   "bilasizmi",
+   "pomidordan",
+   "yasashni"
+  ]
+ },
+ {
+  "prefiks": "bizningoshxonadamanabundayngilsizliklarturadisizdachi",
+  "sozlar": [
+   "bizning",
+   "bunday",
+   "mana",
+   "ngilsizliklar",
+   "oshxonada",
+   "sizdachi",
+   "turadi"
+  ]
+ },
+ {
+  "prefiks": "kodlikulfnijinnisiekan",
+  "sozlar": [
+   "ekan",
+   "jinnisi",
+   "kodli",
+   "kulfni"
+  ]
+ },
+ {
+  "prefiks": "ikkitaarkonnibirigamustaxkamboglashniishonchliusuli",
+  "sozlar": [
+   "arkonni",
+   "biriga",
+   "boglashni",
+   "ikkita",
+   "ishonchli",
+   "mustaxkam",
+   "usuli"
+  ]
+ },
+ {
+  "prefiks": "kafelchiustalaruchunajoyibkuroliekan",
+  "sozlar": [
+   "ajoyib",
+   "ekan",
+   "kafelchi",
+   "kuroli",
+   "uchun",
+   "ustalar"
+  ]
+ },
+ {
+  "prefiks": "donatuxumdanosonchocopirogkeraklimasalliqlartuxumshakar",
+  "sozlar": [
+   "batafsil",
+   "chocopirog",
+   "choy",
+   "dona",
+   "gazga",
+   "iliq",
+   "joylab",
+   "kakao",
+   "kerakli",
+   "masalliqlar",
+   "massadan",
+   "mayda",
+   "olovga",
+   "oson",
+   "piyolalarni",
+   "qaraladi",
+   "qatiq",
+   "quyuq",
+   "razrexlitel",
+   "rsatilgan",
+   "salat",
+   "shakar",
+   "shokoladlar",
+   "soda",
+   "solamiz",
+   "solib",
+   "suyuqligiga",
+   "tayyorlanishi",
+   "tovaga",
+   "tuxum",
+   "tuxumdan",
+   "videoda",
+   "xohishga",
+   "yana"
+  ]
+ },
+ {
+  "prefiks": "shokoladnachinkalipankeykmazzalitaomlar",
+  "sozlar": [
+   "mazzali",
+   "nachinkali",
+   "pankeyk",
+   "shokolad",
+   "taomlar"
+  ]
+ },
+ {
+  "prefiks": "pechenyelarniajoyibrreinishlardapishiramiz",
+  "sozlar": [
+   "ajoyib",
+   "pechenyelarni",
+   "pishiramiz",
+   "rreinishlarda"
   ]
  }
 ]

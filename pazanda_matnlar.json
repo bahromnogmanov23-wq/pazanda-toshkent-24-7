@@ -1872,5 +1872,51 @@
    "salati",
    "yoqimli"
   ]
+ },
+ {
+  "prefiks": "mazaliosonsezarkeraklimasalliqlartovuqqaynatilgantuxum",
+  "sozlar": [
+   "karom",
+   "kerakli",
+   "masalliqlar",
+   "mazali",
+   "moyanez",
+   "oson",
+   "qaynatilgan",
+   "sezar",
+   "toster",
+   "tovuq",
+   "tuxum"
+  ]
+ },
+ {
+  "prefiks": "ozishdayordamberadiganpechenyekeraklimasalliqlartuxumtvorog",
+  "sozlar": [
+   "beradigan",
+   "guruch",
+   "kerakli",
+   "margarin",
+   "masalliqlar",
+   "ozishda",
+   "pechenye",
+   "razrexritel",
+   "rniga",
+   "shakarni",
+   "shokolad",
+   "stevia",
+   "tuxum",
+   "tvorog",
+   "yordam"
+  ]
+ },
+ {
+  "prefiks": "snikerstortimazzaliretseptmazzalitaomlar",
+  "sozlar": [
+   "mazzali",
+   "retsept",
+   "snikers",
+   "taomlar",
+   "torti"
+  ]
  }
 ]

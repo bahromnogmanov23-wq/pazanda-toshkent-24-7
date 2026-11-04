@@ -413,33 +413,54 @@ def matnni_tozala(matn):
 
 def bitta_hashtag_tanla(matn, manba):
     """
-    Xabar uchun FAQAT 1 DONA #hashtag qaytaradi.
-    1-ustuvorlik: Toshkent tumani (#Sergeli, #Chilonzor, #Yunusobod...)
-    2-ustuvorlik: Mavzu (#Ана_бўлмаса, #daxshat, #avto, #Foydali, #kayfiyat, #Tarqating, #Tezkor, #jahon)
-    3-ustuvorlik: #o'zbekiston
+    Xabar uchun FAQAT 1 DONA #hashtag, FAQAT ruxsat etilgan ro'yxatdan:
+    #Tezkor, #Jahon, #Ана_бўлмаса, #Salomatlik, #Foydali
     """
-    k = matn.lower()
+    def t(s):
+        # Matn va kalit so'zlar bir xil tarzda transibiratsiya qilib, apostroflarni olib tashlaymiz
+        return matnni_imzo_uchun_standartlash(s).replace("'", "").replace("ʻ", "").replace("`", "")
 
-    # 1) Toshkent tumani aniq tilga olingan bo'lsa
-    for tum_teg, kalitlar in TUMANLAR:
-        if any(s in k for s in kalitlar):
-            return tum_teg
+    k = t(matn)
 
-    # 2) Mavzu bo'yicha
-    for teg, kalitlar in MAVZULAR:
-        if any(s in k for s in kalitlar):
-            return teg
+    SALOMATLIK_KALITLAR = [
+        "sog", "sogolm", "sogliq", "саломатлик", "salomatlik",
+        "shifokor", "шифокор", "dori", "дори", "vitamin", "витамин",
+        "doktor", "доктор", "kasallik", "касаллик",
+        "qandli", "қандли", "diabet", "диабет", "yurak", "юрак",
+        "xolesterol", "холестерин", "infeks", "инфекс", "иммунитет",
+        "fitnes", "фитнес", "parhez", "пархез", "vazn", "вазн",
+        "tibbiyot", "тиббиёт", "davolash", "даволаш", "ogriq", "оғриқ",
+        "revmatolog", "ревматолог", "davolan", "даволан"
+    ]
+    FOYDALI_KALITLAR = [
+        "foydali", "фойдали", "maslahat", "маслаҳат", "eslatma", "эслатма",
+        "diqqat", "диққат", "ogoh", "огоҳ", "ob-havo", "об-ҳаво", "kurs", "курс",
+        "dollar", "доллар", "imtiyoz", "имтиёз", "qonun", "қонун", "qaror", "қарор",
+        "dam olish", "дам олиш", "tatil", "таътил"
+    ]
+    JAHON_KALITLAR = [
+        "tramp", "трамп", "putin", "путин", "rossiya", "россия",
+        "ukraina", "украина", "aqsh", "ақш", "xitoy", "хитой",
+        "isroil", "исроил", "gazo", "ғазо", "eron", "эрон",
+        "turkiya", "туркия", "yevropa", "европа", "zelenskiy", "зеленский",
+        "bmt", "бмт", "nato", "нато", "qozogiston", "қозоғистон", "germaniya", "германия"
+    ]
+    ANA_BOLMASA_KALITLAR = [
+        "ана бўлмаса", "ana bolmasa", "ана булмаса",
+        "garoyib", "ғаройиб", "antiqa", "антиқа", "sharmanda", "шарманда",
+        "hayrat", "ҳайрат", "kutilmagan", "кутилмаган"
+    ]
 
-    # 3) Manba bo'yicha standart
-    if manba == "TYUZBEK":
-        return "#kayfiyat"
-    if manba == "yhxx_uz":
-        return "#avto"
-    if manba == "MILITSIYA_UZB":
-        return "#Tezkor"
-    if any(s in k for s in TOSHKENT_SOZLAR):
-        return "#Tezkor"
-    return "#o'zbekiston"
+    if any(t(s) in k for s in SALOMATLIK_KALITLAR):
+        return "#Salomatlik"
+    if any(t(s) in k for s in ANA_BOLMASA_KALITLAR):
+        return "#Ана_бўлмаса"
+    if any(t(s) in k for s in JAHON_KALITLAR):
+        return "#Jahon"
+    if any(t(s) in k for s in FOYDALI_KALITLAR):
+        return "#Foydali"
+    # Shoshilinch/dolzarb yangilik hamda boshqalar — #Tezkor
+    return "#Tezkor"
 
 
 def sarlavha_va_izohga_ajrat(toza_matn):

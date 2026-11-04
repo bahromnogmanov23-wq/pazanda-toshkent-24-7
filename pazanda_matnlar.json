@@ -257,41 +257,12 @@
   ]
  },
  {
-  "prefiks": "channelcreated",
+  "prefiks": "чойшабларнитахлашучунлайфхак",
   "sozlar": [
-   "channel",
-   "created"
-  ]
- },
- {
-  "prefiks": "channelphotoupdated",
-  "sozlar": [
-   "channel",
-   "photo",
-   "updated"
-  ]
- },
- {
-  "prefiks": "чойшабларнитахлашучунлайфхакпазандасариштабекажонбилиб",
-  "sozlar": [
-   "бекажон",
-   "билиб",
-   "бўлган",
-   "жуда",
-   "керак",
-   "кўринг",
    "лайфхак",
-   "олинг",
-   "пазанда",
-   "саришта",
-   "сақлаб",
-   "синаб",
    "тахлаш",
-   "усул",
    "учун",
-   "фойдали",
-   "чойшабларни",
-   "қўйиши"
+   "чойшабларни"
   ]
  },
  {
@@ -381,269 +352,6 @@
    "unda",
    "yangilik",
    "zira"
-  ]
- },
- {
-  "prefiks": "pancakekeraklimasalliqlartuxum40grshakar20grasal",
-  "sozlar": [
-   "10gr",
-   "20gr",
-   "40gr",
-   "90gr",
-   "asal",
-   "kerakli",
-   "masalliqlar",
-   "pancake",
-   "razrixlitel",
-   "shakar",
-   "tuxum"
-  ]
- },
- {
-  "prefiks": "videoretseptbashoratqiluvchipechenyelarsehrlixitoychapechenyelarzida",
-  "sozlar": [
-   "bashorat",
-   "bayram",
-   "bilan",
-   "pechenyelar",
-   "qiluvchi",
-   "qizitib",
-   "saqlashi",
-   "sehrli",
-   "tadbirlaringizni",
-   "tilaklarni",
-   "videoretsept",
-   "xitoycha",
-   "yanada",
-   "yuboradi",
-   "zida"
-  ]
- },
- {
-  "prefiks": "нонуштадастурхонигатайёрлабкўрингмазасигаyaqinlarizgayuboring",
-  "sozlar": [
-   "yaqinlarizga",
-   "yuboring",
-   "дастурхонига",
-   "кўринг",
-   "мазасига",
-   "нонушта",
-   "тайёрлаб"
-  ]
- },
- {
-  "prefiks": "fruitsmoxitoapelsinolmalimonqulupnayshakarxoxishga",
-  "sozlar": [
-   "apelsin",
-   "barglarini",
-   "fruits",
-   "gazli",
-   "kora",
-   "ladi",
-   "limon",
-   "moxito",
-   "myata",
-   "olma",
-   "qulupnay",
-   "shakar",
-   "solsangiz",
-   "sprite",
-   "unutmang",
-   "xoxishga"
-  ]
- },
- {
-  "prefiks": "zgachaosonginatayyorladigantaomkeraklimasalliqlar400gr",
-  "sozlar": [
-   "100gr",
-   "150gr",
-   "1dona",
-   "3osh",
-   "400gr",
-   "500gr",
-   "5cho",
-   "5osh",
-   "alanga",
-   "guruchi",
-   "kerakli",
-   "ladigan",
-   "makaron",
-   "masalliqlar",
-   "mayda",
-   "mich",
-   "motsarella",
-   "osongina",
-   "pastasi",
-   "piyoz",
-   "qiyma",
-   "qoshiq",
-   "roltin",
-   "talqini",
-   "taom",
-   "tayyor",
-   "tomat",
-   "tuxum",
-   "unversal",
-   "yaqinlarizga",
-   "zgacha",
-   "zirasi",
-   "ziravorlar"
-  ]
- },
- {
-  "prefiks": "tabiiyusuldasharoitidahechqandaydorilarsizkundagemoglabin",
-  "sozlar": [
-   "cooking",
-   "dona",
-   "dorilarsiz",
-   "gemoglabin",
-   "hech",
-   "home",
-   "kerakli",
-   "kunda",
-   "masalliqlar",
-   "mayiz",
-   "qanday",
-   "qaynagan",
-   "qaynoq",
-   "sedana",
-   "sharoitida",
-   "tabiiy",
-   "taramiz",
-   "turshak",
-   "usulda",
-   "zoza"
-  ]
- },
- {
-  "prefiks": "nimasovgberishnibilmasangizmevaliguldastatayyorlangpazanda",
-  "sozlar": [
-   "bekajon",
-   "berishni",
-   "bilib",
-   "bilmasangiz",
-   "foydali",
-   "guldasta",
-   "juda",
-   "kerak",
-   "lgan",
-   "mevali",
-   "nima",
-   "oling",
-   "pazanda",
-   "ring",
-   "saqlab",
-   "sarishta",
-   "sinab",
-   "sovg",
-   "tayyorlang",
-   "usul",
-   "yishi"
-  ]
- },
- {
-  "prefiks": "voydodrinishinibilanishtahaniochibtashladikechganima",
-  "sozlar": [
-   "ayni",
-   "bilan",
-   "ekan",
-   "ishtahani",
-   "kechga",
-   "lsangiz",
-   "muddao",
-   "nima",
-   "ochib",
-   "ovqat",
-   "qilsam",
-   "rinishini",
-   "tashladi",
-   "voydod",
-   "ylanayotgan"
-  ]
- },
- {
-  "prefiks": "turkchasimitlarsimitlarustishirinqarsildoqichimomiqdek",
-  "sozlar": [
-   "aynan",
-   "aytiladi",
-   "baho",
-   "bering",
-   "boshlanadi",
-   "ichi",
-   "momiqdek",
-   "nonushta",
-   "pishiriqlarga",
-   "qarsildoq",
-   "ring",
-   "shirin",
-   "shunday",
-   "simitlar",
-   "simitlardan",
-   "turkcha",
-   "turkiyada",
-   "usti",
-   "videoretseptni",
-   "xuddi",
-   "yumshoq"
-  ]
- },
- {
-  "prefiks": "aссаломуалайкумдушанбатонгимуборакбўлсинкирибкелган",
-  "sozlar": [
-   "aссалому",
-   "алайкум",
-   "бахт",
-   "бўлсин",
-   "душанба",
-   "келган",
-   "кириб",
-   "меҳр",
-   "муборак",
-   "муваффақият",
-   "муҳаббат",
-   "омад",
-   "омадли",
-   "тонги",
-   "учун",
-   "файзли",
-   "янги",
-   "ҳамиша",
-   "ҳаммамиз",
-   "ҳамроҳингиз",
-   "ҳафта"
-  ]
- },
- {
-  "prefiks": "turplimazalisalatdasturxoningizladiganjudamazalioson",
-  "sozlar": [
-   "dasturxoningiz",
-   "juda",
-   "ladigan",
-   "mazali",
-   "oson",
-   "retsept",
-   "ring",
-   "salat",
-   "tayyorlab",
-   "tayyorlanadigan",
-   "turpli",
-   "uchun",
-   "yaqinlaringiz"
-  ]
- },
- {
-  "prefiks": "keldidevchonkiiiiqilibtiktiribkiyvolamizdateeeeezdaaafasonlarnirtolarmizga",
-  "sozlar": [
-   "devchonkiiii",
-   "fasonlarni",
-   "keldi",
-   "kiyvolamizda",
-   "qilib",
-   "qoyamiz",
-   "rtolarmizga",
-   "teeeeezdaaa",
-   "tiktirib",
-   "uzatish"
   ]
  },
  {
@@ -786,6 +494,42 @@
   ]
  },
  {
+  "prefiks": "pancakekeraklimasalliqlartuxum40grshakar20grasal",
+  "sozlar": [
+   "10gr",
+   "20gr",
+   "40gr",
+   "90gr",
+   "asal",
+   "kerakli",
+   "masalliqlar",
+   "pancake",
+   "razrixlitel",
+   "shakar",
+   "tuxum"
+  ]
+ },
+ {
+  "prefiks": "videoretseptbashoratqiluvchipechenyelarsehrlixitoychapechenyelarzida",
+  "sozlar": [
+   "bashorat",
+   "bayram",
+   "bilan",
+   "pechenyelar",
+   "qiluvchi",
+   "qizitib",
+   "saqlashi",
+   "sehrli",
+   "tadbirlaringizni",
+   "tilaklarni",
+   "videoretsept",
+   "xitoycha",
+   "yanada",
+   "yuboradi",
+   "zida"
+  ]
+ },
+ {
   "prefiks": "гиламювишучунажойиблайфхак",
   "sozlar": [
    "ажойиб",
@@ -793,6 +537,114 @@
    "лайфхак",
    "учун",
    "ювиш"
+  ]
+ },
+ {
+  "prefiks": "нонуштадастурхонигатайёрлабкўрингмазасигаyaqinlarizgayuboring",
+  "sozlar": [
+   "yaqinlarizga",
+   "yuboring",
+   "дастурхонига",
+   "кўринг",
+   "мазасига",
+   "нонушта",
+   "тайёрлаб"
+  ]
+ },
+ {
+  "prefiks": "fruitsmoxitoapelsinolmalimonqulupnayshakarxoxishga",
+  "sozlar": [
+   "apelsin",
+   "barglarini",
+   "fruits",
+   "gazli",
+   "kora",
+   "ladi",
+   "limon",
+   "moxito",
+   "myata",
+   "olma",
+   "qulupnay",
+   "shakar",
+   "solsangiz",
+   "sprite",
+   "unutmang",
+   "xoxishga"
+  ]
+ },
+ {
+  "prefiks": "zgachaosonginatayyorladigantaomkeraklimasalliqlar400gr",
+  "sozlar": [
+   "100gr",
+   "150gr",
+   "1dona",
+   "3osh",
+   "400gr",
+   "500gr",
+   "5cho",
+   "5osh",
+   "alanga",
+   "guruchi",
+   "kerakli",
+   "ladigan",
+   "makaron",
+   "masalliqlar",
+   "mayda",
+   "mich",
+   "motsarella",
+   "osongina",
+   "pastasi",
+   "piyoz",
+   "qiyma",
+   "qoshiq",
+   "roltin",
+   "talqini",
+   "taom",
+   "tayyor",
+   "tomat",
+   "tuxum",
+   "unversal",
+   "yaqinlarizga",
+   "zgacha",
+   "zirasi",
+   "ziravorlar"
+  ]
+ },
+ {
+  "prefiks": "tabiiyusuldasharoitidahechqandaydorilarsizkundagemoglabin",
+  "sozlar": [
+   "cooking",
+   "dona",
+   "dorilarsiz",
+   "gemoglabin",
+   "hech",
+   "home",
+   "kerakli",
+   "kunda",
+   "masalliqlar",
+   "mayiz",
+   "qanday",
+   "qaynagan",
+   "qaynoq",
+   "sedana",
+   "sharoitida",
+   "tabiiy",
+   "taramiz",
+   "turshak",
+   "usulda",
+   "zoza"
+  ]
+ },
+ {
+  "prefiks": "nimasovgberishnibilmasangizmevaliguldastatayyorlang",
+  "sozlar": [
+   "berishni",
+   "bilmasangiz",
+   "guldasta",
+   "mevali",
+   "nima",
+   "sovg",
+   "tayyorlang"
   ]
  },
  {
@@ -808,6 +660,26 @@
   ]
  },
  {
+  "prefiks": "voydodrinishinibilanishtahaniochibtashladikechganima",
+  "sozlar": [
+   "ayni",
+   "bilan",
+   "ekan",
+   "ishtahani",
+   "kechga",
+   "lsangiz",
+   "muddao",
+   "nima",
+   "ochib",
+   "ovqat",
+   "qilsam",
+   "rinishini",
+   "tashladi",
+   "voydod",
+   "ylanayotgan"
+  ]
+ },
+ {
   "prefiks": "королевскийватрушкаёқимлииштаха",
   "sozlar": [
    "ватрушка",
@@ -817,10 +689,70 @@
   ]
  },
  {
+  "prefiks": "turkchasimitlarsimitlarustishirinqarsildoqichimomiqdek",
+  "sozlar": [
+   "aynan",
+   "aytiladi",
+   "baho",
+   "bering",
+   "boshlanadi",
+   "ichi",
+   "momiqdek",
+   "nonushta",
+   "pishiriqlarga",
+   "qarsildoq",
+   "ring",
+   "shirin",
+   "shunday",
+   "simitlar",
+   "simitlardan",
+   "turkcha",
+   "turkiyada",
+   "usti",
+   "videoretseptni",
+   "xuddi",
+   "yumshoq"
+  ]
+ },
+ {
   "prefiks": "лайфхаклартуплами",
   "sozlar": [
    "лайфхаклар",
    "туплами"
+  ]
+ },
+ {
+  "prefiks": "aссаломуалайкумдушанбатонгимуборакбўлсинкирибкелган",
+  "sozlar": [
+   "aссалому",
+   "алайкум",
+   "бахт",
+   "бўлсин",
+   "душанба",
+   "келган",
+   "кириб",
+   "меҳр",
+   "муборак",
+   "муваффақият",
+   "муҳаббат",
+   "омад",
+   "омадли",
+   "тонги",
+   "учун",
+   "файзли",
+   "янги",
+   "ҳамиша",
+   "ҳаммамиз",
+   "ҳамроҳингиз",
+   "ҳафта"
+  ]
+ },
+ {
+  "prefiks": "turplimazalisalat",
+  "sozlar": [
+   "mazali",
+   "salat",
+   "turpli"
   ]
  },
  {
@@ -833,11 +765,47 @@
   ]
  },
  {
+  "prefiks": "keldidevchonkiiiiqilibtiktiribkiyvolamizdateeeeezdaaafasonlarnirtolarmizga",
+  "sozlar": [
+   "devchonkiiii",
+   "fasonlarni",
+   "keldi",
+   "kiyvolamizda",
+   "qilib",
+   "qoyamiz",
+   "rtolarmizga",
+   "teeeeezdaaa",
+   "tiktirib",
+   "uzatish"
+  ]
+ },
+ {
   "prefiks": "печеньеёқимлииштаха",
   "sozlar": [
    "иштаха",
    "печенье",
    "ёқимли"
+  ]
+ },
+ {
+  "prefiks": "лайфхаклартупламипазандасариштабекажонбилибқўйишикерак",
+  "sozlar": [
+   "бекажон",
+   "билиб",
+   "бўлган",
+   "жуда",
+   "керак",
+   "кўринг",
+   "лайфхаклар",
+   "олинг",
+   "пазанда",
+   "саришта",
+   "сақлаб",
+   "синаб",
+   "туплами",
+   "усул",
+   "фойдали",
+   "қўйиши"
   ]
  },
  {
@@ -849,6 +817,402 @@
    "рецепти",
    "салат",
    "таомлар"
+  ]
+ },
+ {
+  "prefiks": "videoretseptyopiqpitsahozirgikundafastfoodtaomlar",
+  "sozlar": [
+   "biri",
+   "bormoqda",
+   "chuqur",
+   "fast",
+   "food",
+   "hayotimizga",
+   "hozirgi",
+   "kirib",
+   "kunda",
+   "pitsa",
+   "pitsadir",
+   "shulardan",
+   "taomlar",
+   "tobora",
+   "videoretsept",
+   "yopiq"
+  ]
+ },
+ {
+  "prefiks": "жудаямисибкетгандабекалариучунлайфхак",
+  "sozlar": [
+   "бекалари",
+   "жудаям",
+   "исиб",
+   "кетганда",
+   "лайфхак",
+   "учун"
+  ]
+ },
+ {
+  "prefiks": "kaysareajoyibtaomhamiriuchun300mliliqqoshiq",
+  "sozlar": [
+   "300ml",
+   "ajoyib",
+   "bulg",
+   "droja",
+   "hamiri",
+   "iliq",
+   "kaysare",
+   "keragicha",
+   "mayda",
+   "nachinkasi",
+   "piyoz",
+   "qiyma",
+   "qizil",
+   "qoshiq",
+   "ralgan",
+   "shakar",
+   "tamat",
+   "taom",
+   "uchun",
+   "yaqinlarizga",
+   "yashil",
+   "yuboring",
+   "ziravorlar"
+  ]
+ },
+ {
+  "prefiks": "zavarnoyxamiriuchunsaryogchimdimdonatuxumchiz",
+  "sozlar": [
+   "candy",
+   "chimdim",
+   "chiz",
+   "dona",
+   "krem",
+   "nibur",
+   "qaymoq",
+   "saryog",
+   "shakar",
+   "tuxum",
+   "tvorojniy",
+   "uchun",
+   "upasi",
+   "vanilin",
+   "xamiri",
+   "zavarnoy"
+  ]
+ },
+ {
+  "prefiks": "хайрлитонгассаломуалайкумхафтанингбиринчикунидушанба",
+  "sozlar": [
+   "алайкум",
+   "аллоҳнинг",
+   "ассалому",
+   "бизларни",
+   "биринчи",
+   "бўлинг",
+   "бўлсин",
+   "душанба",
+   "куни",
+   "муборак",
+   "паноҳида",
+   "роббимизга",
+   "саломат",
+   "саҳифа",
+   "тонг",
+   "тонги",
+   "уйғотган",
+   "учун",
+   "фойдали",
+   "хайрли",
+   "хафтанинг",
+   "қизларимиз",
+   "ҳамдлар",
+   "ҳамиша"
+  ]
+ },
+ {
+  "prefiks": "мазалиёқимлииштаха",
+  "sozlar": [
+   "иштаха",
+   "мазали",
+   "ёқимли"
+  ]
+ },
+ {
+  "prefiks": "товуқданмазалидимламатайёрлашрецептимаззалитаомлар",
+  "sozlar": [
+   "димлама",
+   "мазали",
+   "маззали",
+   "рецепти",
+   "тайёрлаш",
+   "таомлар",
+   "товуқдан"
+  ]
+ },
+ {
+  "prefiks": "videoretsepttvorogkatlisomsalartvorogkatlarshibtayyorlanilgan",
+  "sozlar": [
+   "charchamang",
+   "katlar",
+   "katli",
+   "qiling",
+   "retseptlarni",
+   "rganishdan",
+   "shib",
+   "somsalar",
+   "tayyorlanilgan",
+   "tomosha",
+   "tvorog",
+   "videoretsept",
+   "videoretseptimizni",
+   "yangi",
+   "yangidan"
+  ]
+ },
+ {
+  "prefiks": "ажойибширинликтухумчомичсимликқошиқичимликдаси",
+  "sozlar": [
+   "yaqinlarizga",
+   "yuboring",
+   "ажойиб",
+   "банан",
+   "даси",
+   "ичимлик",
+   "сгушонка",
+   "симлик",
+   "табга",
+   "тухум",
+   "чомич",
+   "ширинлик",
+   "қошиқ",
+   "қулупнои"
+  ]
+ },
+ {
+  "prefiks": "aссаломуалайкумсешанбатонгимуборакбўлсинхайрлитонг",
+  "sozlar": [
+   "aссалому",
+   "алайкум",
+   "аллоҳ",
+   "баракотли",
+   "бошланиши",
+   "бошласак",
+   "бўладиган",
+   "бўлсин",
+   "гўзал",
+   "давом",
+   "дуолар",
+   "дуоларла",
+   "ижобат",
+   "иншааллаҳ",
+   "кунни",
+   "лозим",
+   "мазмунли",
+   "муборак",
+   "насиб",
+   "сешанба",
+   "таоло",
+   "тонг",
+   "тонги",
+   "файзли",
+   "хайрли",
+   "шундай",
+   "этади",
+   "этсин",
+   "қандай",
+   "ҳузурли"
+  ]
+ },
+ {
+  "prefiks": "ассаломуалайкумсешанбатонгимуборакбўлсинбугунгибошланаётган",
+  "sozlar": [
+   "алайкум",
+   "ассалому",
+   "барокатли",
+   "бошланаётган",
+   "бугунги",
+   "бўлсин",
+   "кайфият",
+   "кунингиз",
+   "муборак",
+   "сешанба",
+   "тарк",
+   "тонги",
+   "файзли",
+   "этмасин",
+   "янги",
+   "яхши",
+   "яқинларингизни"
+  ]
+ },
+ {
+  "prefiks": "кокосовоесуфлеёқимлииштаха",
+  "sozlar": [
+   "иштаха",
+   "кокосовое",
+   "суфле",
+   "ёқимли"
+  ]
+ },
+ {
+  "prefiks": "videoretseptamerikanchapankeyklarxuddisotuvdagidekundanmazaliroqlgan",
+  "sozlar": [
+   "amerikancha",
+   "haqiqiy",
+   "lgan",
+   "mazaliroq",
+   "pankeyklar",
+   "sotuvdagidek",
+   "undan",
+   "videoretsept",
+   "videoretsepti",
+   "xuddi"
+  ]
+ },
+ {
+  "prefiks": "ажойибмантитайёрлашусули",
+  "sozlar": [
+   "ажойиб",
+   "манти",
+   "тайёрлаш",
+   "усули"
+  ]
+ },
+ {
+  "prefiks": "layfxaklartuplamipazandasarishtabekajonbilibqoyishikerak",
+  "sozlar": [
+   "bekajon",
+   "bilib",
+   "bolgan",
+   "foydali",
+   "juda",
+   "kerak",
+   "koring",
+   "layfxaklar",
+   "oling",
+   "pazanda",
+   "qoyishi",
+   "saqlab",
+   "sarishta",
+   "sinab",
+   "tuplami",
+   "usul"
+  ]
+ },
+ {
+  "prefiks": "xayrlitongassalomualaykumxaftaningbirinchikunidushanba",
+  "sozlar": [
+   "alaykum",
+   "allohning",
+   "assalomu",
+   "ayol",
+   "birinchi",
+   "bizlarni",
+   "boling",
+   "bolsin",
+   "dushanba",
+   "foydali",
+   "hamdlar",
+   "hamisha",
+   "kuni",
+   "muborak",
+   "panohida",
+   "qizlarimiz",
+   "robbimizga",
+   "sahifa",
+   "salomat",
+   "tong",
+   "tongi",
+   "uchun",
+   "uygotgan",
+   "xaftaning",
+   "xayrli"
+  ]
+ },
+ {
+  "prefiks": "ajoyibshirinliktuxumchomichsimlikchoiqoshiqichimlik",
+  "sozlar": [
+   "ajoyib",
+   "banan",
+   "choi",
+   "chomich",
+   "dasi",
+   "ichimlik",
+   "qoshiq",
+   "qulupnoi",
+   "sgushonka",
+   "shirinlik",
+   "simlik",
+   "tabga",
+   "tuxum",
+   "yaqinlarizga",
+   "yuboring"
+  ]
+ },
+ {
+  "prefiks": "assalomualaykumseshanbatongimuborakbolsinxayrlitong",
+  "sozlar": [
+   "alaykum",
+   "alloh",
+   "assalomu",
+   "barakotli",
+   "boladigan",
+   "bolsin",
+   "boshlanishi",
+   "boshlasak",
+   "davom",
+   "duolar",
+   "duolarla",
+   "etadi",
+   "etsin",
+   "fayzli",
+   "gozal",
+   "huzurli",
+   "ijobat",
+   "inshaallah",
+   "kunni",
+   "lozim",
+   "mazmunli",
+   "muborak",
+   "nasib",
+   "qanday",
+   "seshanba",
+   "shunday",
+   "taolo",
+   "tong",
+   "tongi",
+   "xayrli"
+  ]
+ },
+ {
+  "prefiks": "assalomualaykumseshanbatongimuborakbolsinbugungiboshlanayotgan",
+  "sozlar": [
+   "alaykum",
+   "assalomu",
+   "barokatli",
+   "bolsin",
+   "boshlanayotgan",
+   "bugungi",
+   "etmasin",
+   "fayzli",
+   "kayfiyat",
+   "kuningiz",
+   "muborak",
+   "seshanba",
+   "tark",
+   "tongi",
+   "yangi",
+   "yaqinlaringizni",
+   "yaxshi"
+  ]
+ },
+ {
+  "prefiks": "shokoladnpirojnyoqimliishtaxa",
+  "sozlar": [
+   "ishtaxa",
+   "pirojn",
+   "shokoladn",
+   "yoqimli"
   ]
  }
 ]

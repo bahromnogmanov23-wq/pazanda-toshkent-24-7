@@ -1,27 +1,5 @@
 [
  {
-  "prefiks": "эроннингкешморолидагирадарларракетаучиришқурилмаларигазарба",
-  "sozlar": [
-   "newsnation",
-   "берди",
-   "журналисти",
-   "зарба",
-   "келли",
-   "кешм",
-   "маълум",
-   "мейер",
-   "оролидаги",
-   "радарлар",
-   "ракета",
-   "телеканали",
-   "учириш",
-   "эроннинг",
-   "қилди",
-   "қурилмаларига",
-   "ҳақда"
-  ]
- },
- {
   "prefiks": "нимаучунқишдакўпроқкасалбўламизбунингсабаби",
   "sozlar": [
    "билиб",
@@ -14146,6 +14124,42 @@
    "yashirin",
    "yaxshi",
    "yubormang"
+  ]
+ },
+ {
+  "prefiks": "eronatomenergiyasitashkilotirahbarimuhammadeslamiisroil",
+  "sozlar": [
+   "atom",
+   "birinchi",
+   "boldi",
+   "bombardimon",
+   "chiqaradigan",
+   "chiqarishga",
+   "energiyasi",
+   "eron",
+   "eslami",
+   "fabrika",
+   "faqat",
+   "haqidagi",
+   "ishlab",
+   "isroil",
+   "malumotlar",
+   "moljallangan",
+   "muhammad",
+   "obekt",
+   "plastinali",
+   "preparatlar",
+   "qilgan",
+   "radiofarmatsevtik",
+   "rahbari",
+   "reaktor",
+   "reaktori",
+   "tashkiloti",
+   "tehron",
+   "uchun",
+   "ushbu",
+   "xalqaro",
+   "yoqilgi"
   ]
  }
 ]

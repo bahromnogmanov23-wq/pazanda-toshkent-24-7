@@ -1,34 +1,5 @@
 [
  {
-  "prefiks": "ўзбекистондаэскирганшиналарниқурилишигаишлатишрежалаштирилмоқдабитуминиишлаб",
-  "sozlar": [
-   "битумини",
-   "бўйича",
-   "бўлиб",
-   "венгрия",
-   "долларни",
-   "жорий",
-   "ишлаб",
-   "ишлатиш",
-   "кўзда",
-   "кўриб",
-   "лойиҳа",
-   "режалаштирилмоқда",
-   "ташкил",
-   "технологиясини",
-   "тутилган",
-   "чиқариш",
-   "чиқилаётган",
-   "шиналарни",
-   "эскирган",
-   "этади",
-   "этиш",
-   "ўзбекистонда",
-   "қиймати",
-   "қурилишига"
-  ]
- },
- {
   "prefiks": "tezroqyuradiganlardaxavfifoizpastroqiqdikundalikhayotda",
   "sozlar": [
    "aniqlandi",
@@ -14156,6 +14127,25 @@
    "toshkentdagi",
    "tyuning",
    "yicha"
+  ]
+ },
+ {
+  "prefiks": "ogorodnisugorishendimuammoemasyilitonnagachayomgir",
+  "sozlar": [
+   "boladi",
+   "emas",
+   "endi",
+   "muammo",
+   "ogorodni",
+   "qoyamiz",
+   "sugorish",
+   "suvini",
+   "tonnagacha",
+   "yaqinlarga",
+   "yigsangiz",
+   "yili",
+   "yomgir",
+   "yuborib"
   ]
  }
 ]

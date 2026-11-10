@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "xitoydatikanlarbilanralganmillionyillikjonivorqoldi",
-  "sozlar": [
-   "agan",
-   "angsimon",
-   "atrofida",
-   "avval",
-   "bilan",
-   "darajada",
-   "egiluv",
-   "jonivor",
-   "kovak",
-   "lgan",
-   "million",
-   "mitti",
-   "noodatiy",
-   "plastinkalar",
-   "qoldi",
-   "qoldiqlari",
-   "qoplama",
-   "ralgan",
-   "tanasini",
-   "taxminan",
-   "tikanlar",
-   "tikanlardan",
-   "tikanlari",
-   "tolalar",
-   "topildi",
-   "turgan",
-   "tuzilgan",
-   "uning",
-   "uval",
-   "xitoyda",
-   "yillik"
-  ]
- },
- {
   "prefiks": "onadahaftadaikkioilaningzosigazidanvafotetdi",
   "sozlar": [
    "ahrida",
@@ -14097,6 +14061,26 @@
    "sovuq",
    "tayyorlanamiz",
    "yogishi"
+  ]
+ },
+ {
+  "prefiks": "aynivaqtdaqamchiqdovonidakuchliyogmoqdahavokeskin",
+  "sozlar": [
+   "ayni",
+   "dovonida",
+   "ehtimoli",
+   "elon",
+   "havo",
+   "hududlarda",
+   "keskin",
+   "ketgan",
+   "kuchli",
+   "qamchiq",
+   "qilingan",
+   "sovib",
+   "vaqtda",
+   "yogish",
+   "yogmoqda"
   ]
  }
 ]

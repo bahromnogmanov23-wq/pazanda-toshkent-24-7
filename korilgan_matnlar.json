@@ -1,22 +1,5 @@
 [
  {
-  "prefiks": "тошкентдаижтимоийсоҳаобъектлариқаватлиуйларгабосқичмабосқич",
-  "sozlar": [
-   "айтилмоқда",
-   "босқич",
-   "босқичма",
-   "бошлангани",
-   "ижтимоий",
-   "иссиқлик",
-   "объектлари",
-   "соҳа",
-   "тошкентда",
-   "узатиш",
-   "уйларга",
-   "қаватли"
-  ]
- },
- {
   "prefiks": "киевяқинидаяширинқамоқхонааниқланганпетропавловскаяборшчаговкақишлоғидаги",
   "sozlar": [
    "unian",
@@ -14163,6 +14146,40 @@
    "unday",
    "yaxshi",
    "yuring"
+  ]
+ },
+ {
+  "prefiks": "qatareronbilanurushoqibatidaaqshdansotiboluvchi",
+  "sozlar": [
+   "aqshdan",
+   "aylanmoqda",
+   "bilan",
+   "bogozidagi",
+   "bolgan",
+   "dunyodagi",
+   "eksportchisi",
+   "eksportiga",
+   "endi",
+   "eron",
+   "hurmuz",
+   "ikkinchi",
+   "inqiroz",
+   "jiddiy",
+   "korsatdi",
+   "million",
+   "oluvchi",
+   "oqibatida",
+   "qatar",
+   "qatarning",
+   "sotib",
+   "suyultirilgan",
+   "tabiiy",
+   "tasir",
+   "tonna",
+   "urush",
+   "xaridorga",
+   "yiliga",
+   "yirik"
   ]
  }
 ]

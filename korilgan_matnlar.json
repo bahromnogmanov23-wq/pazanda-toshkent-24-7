@@ -1,38 +1,5 @@
 [
  {
-  "prefiks": "мактабтаътилидафарзандларбиланвақтўтказишучуноналарга",
-  "sozlar": [
-   "берилади",
-   "билан",
-   "бошланади",
-   "бўлган",
-   "вақт",
-   "даврда",
-   "йили",
-   "кодексининг",
-   "кузги",
-   "кўпроқ",
-   "кўра",
-   "мактаб",
-   "мактабларда",
-   "меҳнат",
-   "моддаларига",
-   "мумкин",
-   "ноябрдан",
-   "олиши",
-   "оналар",
-   "оналарга",
-   "таътил",
-   "таътилида",
-   "учун",
-   "фарзандлар",
-   "фарзандлари",
-   "ўтказиш",
-   "ўтказмоқчи",
-   "қўшимча"
-  ]
- },
- {
   "prefiks": "saudiyaningkilometrlikoynavandahrienditalabgaqarabquriladi",
   "sozlar": [
    "ahar",
@@ -14160,6 +14127,43 @@
    "yaqinlaringizga",
    "yaroqlilik",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "ortiqsoxtapravaishiucharlartizimdagituynukqanday",
+  "sozlar": [
+   "2023",
+   "2025",
+   "asosan",
+   "berilgan",
+   "davlat",
+   "foydalanishgan",
+   "guvohnomasi",
+   "haydovchilik",
+   "holat",
+   "hududlaridagi",
+   "hujjatlarga",
+   "ishi",
+   "jinoyat",
+   "markazlari",
+   "mingdan",
+   "odamga",
+   "orqali",
+   "ortiq",
+   "ozbekistonning",
+   "prava",
+   "qanday",
+   "qozgatilgan",
+   "rasmiylashtirilib",
+   "soxta",
+   "tergovni",
+   "tizimdagi",
+   "turli",
+   "tuynuk",
+   "ucharlar",
+   "xizmatlari",
+   "yillarda",
+   "yuzasidan"
   ]
  }
 ]

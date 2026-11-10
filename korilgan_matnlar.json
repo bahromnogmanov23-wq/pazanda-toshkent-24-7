@@ -1,43 +1,5 @@
 [
  {
-  "prefiks": "кўкчадарвозадакилометрликяшилтўлқинишгатушдикўкча",
-  "sozlar": [
-   "бошлади",
-   "бўлмаган",
-   "вақтда",
-   "вақтни",
-   "дарвоза",
-   "дарвозада",
-   "дақиқа",
-   "имконини",
-   "ишга",
-   "ишлай",
-   "йўлга",
-   "кетадиган",
-   "километрлик",
-   "кўкча",
-   "кўра",
-   "кўчасининг",
-   "светофор",
-   "тартиб",
-   "тежаш",
-   "тизимда",
-   "тиғиз",
-   "тушди",
-   "тўлқин",
-   "фоизга",
-   "ягона",
-   "янги",
-   "яшил",
-   "ўлчовларга",
-   "ўртача",
-   "ўтказилган",
-   "қатновда",
-   "қисмида",
-   "қисқартириб"
-  ]
- },
- {
   "prefiks": "электрэнергияситабиийучункомпенсацияникимлароладипрезидентнинг",
   "sozlar": [
    "2026",
@@ -14084,6 +14046,44 @@
    "yaqinlashmoqda",
    "yogmoqda",
    "yomgir"
+  ]
+ },
+ {
+  "prefiks": "bugunnoyabrboydoqlarkunibugunulfatlarsinfdoshkurcdoshlar",
+  "sozlar": [
+   "bayrami",
+   "berish",
+   "bitta",
+   "boladigan",
+   "bolsa",
+   "boydoq",
+   "boydoqlar",
+   "boyniga",
+   "bugun",
+   "chiroyli",
+   "doimo",
+   "ichida",
+   "kasb",
+   "kuni",
+   "kurcdoshlar",
+   "navbati",
+   "noyabr",
+   "olahurjun",
+   "osha",
+   "otirish",
+   "qilib",
+   "shunday",
+   "sinfdosh",
+   "sizda",
+   "soqqaboshlarning",
+   "tabriklashni",
+   "tanish",
+   "tanishingizda",
+   "tema",
+   "tushganlarga",
+   "ulfatlar",
+   "unutmang",
+   "yoki"
   ]
  }
 ]

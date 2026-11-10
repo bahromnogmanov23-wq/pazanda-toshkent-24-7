@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "перевалдансадоқатгатушишдааянчлиавариякишивафотэтгани",
-  "sozlar": [
-   "авария",
-   "автотранспорти",
-   "айтилмоқда",
-   "аллоҳ",
-   "асрасин",
-   "аянчли",
-   "бориб",
-   "бўлган",
-   "вафот",
-   "довонидан",
-   "инсон",
-   "ичида",
-   "киши",
-   "машина",
-   "натижада",
-   "нафар",
-   "оникс",
-   "ониксдаги",
-   "орқасига",
-   "патир",
-   "перевалдан",
-   "садоқат",
-   "садоқатга",
-   "томон",
-   "тушишда",
-   "урилган",
-   "этган",
-   "этгани",
-   "қамчиқ",
-   "ҳайдовчилар",
-   "ҳурматли"
-  ]
- },
- {
   "prefiks": "дуэтларсизўтганшоҳрухконцертиқандайўтдиижрочисишоҳрух",
   "sozlar": [
    "darakchi",
@@ -14172,6 +14136,41 @@
    "ularning",
    "xitoyda",
    "xitoyliklarning"
+  ]
+ },
+ {
+  "prefiks": "elektrminotinitiklashyichatezkorishlarolibborilmoqda",
+  "sozlar": [
+   "avval",
+   "berganimizdek",
+   "borilmoqda",
+   "bugun",
+   "chgan",
+   "chirchiq",
+   "elektr",
+   "himoyasi",
+   "holat",
+   "hududiy",
+   "ishlar",
+   "kelgan",
+   "kuchlanishli",
+   "liniyasi",
+   "magistral",
+   "minotini",
+   "olib",
+   "orqali",
+   "podstansiyasida",
+   "shahar",
+   "soat",
+   "tarmoqlari",
+   "teplichnaya",
+   "tezkor",
+   "tiklash",
+   "toshkent",
+   "uzatish",
+   "xabar",
+   "yicha",
+   "yuzaga"
   ]
  }
 ]

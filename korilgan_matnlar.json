@@ -1,38 +1,5 @@
 [
  {
-  "prefiks": "onadahaftadaikkioilaningzosigazidanvafotetdi",
-  "sozlar": [
-   "ahrida",
-   "etdi",
-   "gazidan",
-   "germaniyaning",
-   "haftada",
-   "halok",
-   "hoziroq",
-   "ikki",
-   "imyon",
-   "isiti",
-   "konturli",
-   "kuni",
-   "lgan",
-   "noyabr",
-   "oilaning",
-   "oktabr",
-   "onada",
-   "qozonini",
-   "rnatganlarni",
-   "rusumli",
-   "tumani",
-   "vafot",
-   "vaillant",
-   "viloyati",
-   "vositadan",
-   "xonadoniga",
-   "zaharlanib",
-   "zosi"
-  ]
- },
- {
   "prefiks": "кўкчадарвозадакилометрликяшилтўлқинишгатушдикўкча",
   "sozlar": [
    "бошлади",
@@ -14081,6 +14048,42 @@
    "vaqtda",
    "yogish",
    "yogmoqda"
+  ]
+ },
+ {
+  "prefiks": "farzandlaringizniissiqkiyintiringsovuqyomgirqorlihavotoshkentga",
+  "sozlar": [
+   "amirsoy",
+   "bilan",
+   "bolishi",
+   "cdan",
+   "darajadagi",
+   "ertadek",
+   "ertaga",
+   "farzandlaringizni",
+   "hamma",
+   "harorat",
+   "havo",
+   "huddi",
+   "issiq",
+   "kiyintiring",
+   "kuchli",
+   "kunduzgi",
+   "minus",
+   "oppoq",
+   "poytaxtda",
+   "qish",
+   "qoplangan",
+   "qorli",
+   "sovuq",
+   "sovuqroq",
+   "toglarida",
+   "toshkentga",
+   "tushishi",
+   "yanada",
+   "yaqinlashmoqda",
+   "yogmoqda",
+   "yomgir"
   ]
  }
 ]

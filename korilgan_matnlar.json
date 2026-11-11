@@ -1,21 +1,5 @@
 [
  {
-  "prefiks": "осиёкубогимуддатикечиктирилдибунгаяқиншарқдагисиёсий",
-  "sozlar": [
-   "бунга",
-   "бўлди",
-   "вазият",
-   "кечиктирилди",
-   "кубоги",
-   "муддати",
-   "осиё",
-   "сабаб",
-   "сиёсий",
-   "шарқдаги",
-   "яқин"
-  ]
- },
- {
   "prefiks": "оқовасувлартозаланмасданочиқжойгаташланаётганлигимаълумбўлди",
   "sozlar": [
    "бошқармаси",
@@ -14047,6 +14031,37 @@
    "yaqinlarga",
    "yogmoqda",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "shahzodbekxolmurodovyoshlarolimpiadasidakumushmedalniqolgakiritdi",
+  "sozlar": [
+   "2026",
+   "bahsida",
+   "beshinchi",
+   "boldi",
+   "bronza",
+   "dakar",
+   "hatlab",
+   "kiritdi",
+   "kumush",
+   "medali",
+   "medalni",
+   "metrga",
+   "olimpiadasida",
+   "oyinlaridagi",
+   "ozbekistonlik",
+   "ozbekistonning",
+   "qolga",
+   "rekordini",
+   "sakrab",
+   "sakrash",
+   "shahzodbek",
+   "shaxsiy",
+   "sportchi",
+   "xolmurodov",
+   "yangilagan",
+   "yoshlar"
   ]
  }
 ]

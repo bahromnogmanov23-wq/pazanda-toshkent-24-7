@@ -1,36 +1,5 @@
 [
  {
-  "prefiks": "оқовасувлартозаланмасданочиқжойгаташланаётганлигимаълумбўлди",
-  "sozlar": [
-   "бошқармаси",
-   "бўлди",
-   "вилояти",
-   "жойга",
-   "иқлим",
-   "корхоналарда",
-   "маълум",
-   "очиқ",
-   "оқова",
-   "рейд",
-   "сувлар",
-   "тадбирлари",
-   "ташланаётганлиги",
-   "тозаланмасдан",
-   "томонидан",
-   "тошкент",
-   "туманида",
-   "фаолият",
-   "ходимлари",
-   "чирчиқ",
-   "экология",
-   "экополиция",
-   "юритаётган",
-   "юқори",
-   "ўзгариши",
-   "ўтказилди"
-  ]
- },
- {
   "prefiks": "президентнингбухорогаташрифибаҳоуддиннақшбандмақбарасизиёратиданбошланди",
   "sozlar": [
    "амалга",
@@ -14062,6 +14031,36 @@
    "xolmurodov",
    "yangilagan",
    "yoshlar"
+  ]
+ },
+ {
+  "prefiks": "bolgariyadatumantufayliyirikavariyaberdikishihalok",
+  "sozlar": [
+   "avariya",
+   "avtomobil",
+   "berdi",
+   "bolgan",
+   "bolgariyada",
+   "bolib",
+   "dastlabki",
+   "etgan",
+   "halok",
+   "hodisaga",
+   "ishtirok",
+   "jarohatlandi",
+   "kishi",
+   "kora",
+   "malumotlarga",
+   "qalin",
+   "sabab",
+   "tosatdan",
+   "tufayli",
+   "tuman",
+   "tushgan",
+   "yana",
+   "yaqin",
+   "yirik",
+   "ythda"
   ]
  }
 ]

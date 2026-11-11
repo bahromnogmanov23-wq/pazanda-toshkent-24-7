@@ -1,25 +1,5 @@
 [
  {
-  "prefiks": "эболавирусибиланкасалланганларнингярмиданкўпивафотэтмоқда",
-  "sozlar": [
-   "билан",
-   "вафот",
-   "вируси",
-   "даражаси",
-   "демократик",
-   "етди",
-   "касалланганларнинг",
-   "конго",
-   "кўпи",
-   "республикасида",
-   "фоизга",
-   "эбола",
-   "этмоқда",
-   "ярмидан",
-   "ўлим"
-  ]
- },
- {
   "prefiks": "кексаларучунпулликхизматларбозоришаклланмоқдаҳиндистонпрогнозларига",
   "sozlar": [
    "2050",
@@ -14028,6 +14008,20 @@
    "qarang",
    "soni",
    "soniyada"
+  ]
+ },
+ {
+  "prefiks": "amirsoydachangisezoniboshlanganixabarqilinmoqdayaqinlargatashab",
+  "sozlar": [
+   "amirsoyda",
+   "boshlangani",
+   "changi",
+   "qilinmoqda",
+   "qoyamiz",
+   "sezoni",
+   "tashab",
+   "xabar",
+   "yaqinlarga"
   ]
  }
 ]

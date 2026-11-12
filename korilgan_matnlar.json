@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "эронисроилҳужумигажавобантуркиямисрдагиҳарбийбазаларга",
-  "sozlar": [
-   "базаларга",
-   "базаларини",
-   "бериши",
-   "жавобан",
-   "зарба",
-   "ииқк",
-   "инжирлик",
-   "инқилоби",
-   "ислом",
-   "исроил",
-   "корпуси",
-   "маълум",
-   "мисрдаги",
-   "мумкин",
-   "нишонга",
-   "олиши",
-   "расман",
-   "тақдирда",
-   "туркия",
-   "туркиядаги",
-   "эрон",
-   "ғарб",
-   "қилган",
-   "қоҳира",
-   "қўриқчилари",
-   "ҳамда",
-   "ҳарбий",
-   "ҳужум",
-   "ҳужумига"
-  ]
- },
- {
   "prefiks": "эронҳаликелишувгаяқинлашганиreutersэронликюқорилавозимли",
   "sozlar": [
    "reuters",
@@ -13928,6 +13894,38 @@
    "xitoyning",
    "yaqinlarga",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "ukrainaboyichatomonlamamuzokaralarningyangiraundikelishildiuitkoff",
+  "sozlar": [
+   "aqsh",
+   "bilan",
+   "boyicha",
+   "etish",
+   "haqda",
+   "kelishildi",
+   "kremldagi",
+   "maxsus",
+   "muzokaralarning",
+   "ortasida",
+   "otkaziladi",
+   "prezidentining",
+   "putin",
+   "qildi",
+   "raundi",
+   "rossiya",
+   "song",
+   "stiv",
+   "tomonlama",
+   "uchrashuvdan",
+   "uitkoff",
+   "ukraina",
+   "ukrainadagi",
+   "urushni",
+   "vakili",
+   "vladimir",
+   "yangi"
   ]
  }
 ]

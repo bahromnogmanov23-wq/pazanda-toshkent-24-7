@@ -1,77 +1,5 @@
 [
  {
-  "prefiks": "лукашенкоукраинадагиурушяқинойлардатугайдиагартўхтамасак",
-  "sozlar": [
-   "агар",
-   "бошланади",
-   "жаҳон",
-   "лукашенко",
-   "ойларда",
-   "тугайди",
-   "тўхтамасак",
-   "украинадаги",
-   "уруш",
-   "уруши",
-   "учинчи",
-   "яқин"
-  ]
- },
- {
-  "prefiks": "трампнингаёлларорасидагиобрўсикескинпасайдиҳақдаbild",
-  "sozlar": [
-   "bild",
-   "аёллар",
-   "берди",
-   "кескин",
-   "обрўси",
-   "орасидаги",
-   "пасайди",
-   "сўровномаларга",
-   "таяниб",
-   "трампнинг",
-   "хабар",
-   "ҳақда"
-  ]
- },
- {
-  "prefiks": "ноябрькунларикелишихавфикутилаётганкучлиёмғирларсабабли",
-  "sozlar": [
-   "айниқса",
-   "андижон",
-   "вилоятларида",
-   "жиззах",
-   "жумладан",
-   "келиши",
-   "кунлари",
-   "кутилаётган",
-   "кучли",
-   "мумкин",
-   "навоий",
-   "наманган",
-   "ноябрь",
-   "олди",
-   "республиканинг",
-   "сабабли",
-   "самарқанд",
-   "сурхондарё",
-   "тошкент",
-   "тошқинлари",
-   "тоғли",
-   "фарғона",
-   "фуқаролардан",
-   "хавфи",
-   "эҳтиёткорлик",
-   "юзага",
-   "яшовчилар",
-   "ёмғирлар",
-   "қатор",
-   "қашқадарё",
-   "ҳайдовчилардан",
-   "ҳудудларда",
-   "ҳудудларида"
-  ]
- },
- {
   "prefiks": "kentdaqozoistonliklarovqatdanzaharlaniyuzasidanjinoyatatildi",
   "sozlar": [
    "atildi",
@@ -13945,6 +13873,61 @@
    "ushbu",
    "xusanov",
    "yigit"
+  ]
+ },
+ {
+  "prefiks": "postxabibnurmagomedovnijiyaniusmanlarkishibolibsobiq",
+  "sozlar": [
+   "avvaldan",
+   "bolib",
+   "chempioni",
+   "divalishvilini",
+   "dolzarb",
+   "hayotiga",
+   "jiyani",
+   "kelishmovchilik",
+   "kishi",
+   "merab",
+   "muammo",
+   "nurmagomedovni",
+   "orasida",
+   "ozbekiston",
+   "post",
+   "qilib",
+   "sobiq",
+   "tashlashdi",
+   "televizorda",
+   "tolpa",
+   "toshkent",
+   "ular",
+   "usmanlar",
+   "xabarlar",
+   "xabib"
+  ]
+ },
+ {
+  "prefiks": "mahsuskuchlarburgutbssoqalqonmoonbularkimlar",
+  "sozlar": [
+   "bsso",
+   "bular",
+   "burgut",
+   "kimlar",
+   "kuchlar",
+   "mahsus",
+   "moon",
+   "qalqon",
+   "qanday",
+   "vazifalari"
+  ]
+ },
+ {
+  "prefiks": "saidamirziyoevafrantsiyadanimaqildi",
+  "sozlar": [
+   "frantsiyada",
+   "mirziyoeva",
+   "nima",
+   "qildi",
+   "saida"
   ]
  }
 ]

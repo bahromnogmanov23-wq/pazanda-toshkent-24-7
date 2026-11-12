@@ -1,42 +1,5 @@
 [
  {
-  "prefiks": "эронҳаликелишувгаяқинлашганиreutersэронликюқорилавозимли",
-  "sozlar": [
-   "reuters",
-   "амалдорга",
-   "асосий",
-   "бири",
-   "бўлиб",
-   "бўғози",
-   "вашингтоннинг",
-   "жиддий",
-   "келишувга",
-   "кўра",
-   "лавозимли",
-   "музокараларда",
-   "сақланиб",
-   "талаблари",
-   "ташқари",
-   "теҳрон",
-   "томонлар",
-   "фарқлар",
-   "шартларидан",
-   "шартларини",
-   "эрон",
-   "эронлик",
-   "эроннинг",
-   "юқори",
-   "яқинлашгани",
-   "ўртасидаги",
-   "қабул",
-   "қилмайди",
-   "қолмоқда",
-   "ҳeрмуз",
-   "ҳаддан",
-   "ҳали"
-  ]
- },
- {
   "prefiks": "mlikoylikmehnatbozoridagirealholatnirsataoladimi",
   "sozlar": [
    "aholining",
@@ -13926,6 +13889,20 @@
    "vakili",
    "vladimir",
    "yangi"
+  ]
+ },
+ {
+  "prefiks": "amerikaozbekfilmlarixaqidamarxumqiziqchixojiboytojiboev",
+  "sozlar": [
+   "amerika",
+   "fikrlari",
+   "filmlari",
+   "marxum",
+   "ozbek",
+   "qiziqchi",
+   "tojiboev",
+   "xaqida",
+   "xojiboy"
   ]
  }
 ]

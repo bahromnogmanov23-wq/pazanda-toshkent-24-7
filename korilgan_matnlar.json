@@ -1,43 +1,5 @@
 [
  {
-  "prefiks": "mlikoylikmehnatbozoridagirealholatnirsataoladimi",
-  "sozlar": [
-   "aholining",
-   "ammo",
-   "band",
-   "barobarga",
-   "bilan",
-   "bozoridagi",
-   "foizi",
-   "haqining",
-   "holatni",
-   "idan",
-   "ikki",
-   "inson",
-   "laydigan",
-   "lgan",
-   "mehnat",
-   "mlik",
-   "nggi",
-   "oladimi",
-   "orqada",
-   "ortiq",
-   "oylik",
-   "qariyb",
-   "qolyapti",
-   "rasmiy",
-   "real",
-   "respublikadagi",
-   "rsata",
-   "rsatki",
-   "sektorlarda",
-   "tarmoqlarda",
-   "uningdek",
-   "yilda",
-   "zbekistonda"
-  ]
- },
- {
   "prefiks": "floridadagiaviahalokatqurbonlarimilliarderoilazolarilganikkin",
   "sozlar": [
    "aviahalokat",
@@ -13903,6 +13865,30 @@
    "tojiboev",
    "xaqida",
    "xojiboy"
+  ]
+ },
+ {
+  "prefiks": "sinfdoshlaryigilibbirgalikdaumraziyoratigaborishibdimanashunday",
+  "sozlar": [
+   "ahil",
+   "alloh",
+   "birgalikda",
+   "borishibdi",
+   "gruppasiga",
+   "kopaysin",
+   "mana",
+   "oqibatli",
+   "qabul",
+   "qilsin",
+   "qoyamiz",
+   "shunday",
+   "sinfdoshlar",
+   "umra",
+   "videoni",
+   "yigilib",
+   "yuborib",
+   "ziyoratiga",
+   "ziyoratlarini"
   ]
  }
 ]

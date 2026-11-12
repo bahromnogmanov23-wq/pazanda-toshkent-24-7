@@ -1,31 +1,5 @@
 [
  {
-  "prefiks": "qozoistonzbekistonegarasidainalarnavbatikilometrgazildi",
-  "sozlar": [
-   "bilan",
-   "egaradagi",
-   "egarasida",
-   "inalar",
-   "inalari",
-   "iston",
-   "istonning",
-   "kilometrga",
-   "kiraveri",
-   "navbati",
-   "nazorat",
-   "planib",
-   "punktiga",
-   "qoldi",
-   "qonisbayev",
-   "qozo",
-   "tkazi",
-   "turkiston",
-   "viloyatida",
-   "zbekiston",
-   "zildi"
-  ]
- },
- {
   "prefiks": "rossiyadaautoegalarimasterakkauntirliklarigaradirossiyadagi",
   "sozlar": [
    "akkaunt",
@@ -13900,6 +13874,23 @@
    "tayyorgarlik",
    "urushning",
    "zarurligi"
+  ]
+ },
+ {
+  "prefiks": "aytishlarichazarafshonshahriningkichiktumanidayonginsodirbolibti",
+  "sozlar": [
+   "aytishlaricha",
+   "bartaraf",
+   "bolibti",
+   "etilgan",
+   "hozirda",
+   "kichik",
+   "shahrining",
+   "sodir",
+   "toliq",
+   "tumanida",
+   "yongin",
+   "zarafshon"
   ]
  }
 ]

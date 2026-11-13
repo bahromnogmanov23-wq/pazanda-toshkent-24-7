@@ -1,30 +1,5 @@
 [
  {
-  "prefiks": "centrumтошкентданчелябинсктюменгатўғридантўғрирейсларнийўлга",
-  "sozlar": [
-   "centrum",
-   "амалга",
-   "жума",
-   "икки",
-   "йўлга",
-   "кунлари",
-   "марта",
-   "оширилади",
-   "рейслар",
-   "рейсларни",
-   "сешанба",
-   "тошкентдан",
-   "тюменга",
-   "тўғри",
-   "тўғридан",
-   "челябинск",
-   "челябинскка",
-   "якшанба",
-   "қўяди",
-   "ҳафтасига"
-  ]
- },
- {
   "prefiks": "бухородаянгитуризммарказифарғонаданмудҳишхабармаҳаллий",
   "sozlar": [
    "development",
@@ -13897,6 +13872,28 @@
    "toshkentda",
    "toshkentdagi",
    "yolovchilarining"
+  ]
+ },
+ {
+  "prefiks": "saunagaborishningbilmaganfoydalariborliginibilarmidingizvideonikorib",
+  "sozlar": [
+   "batafsil",
+   "bilarmidingiz",
+   "bilib",
+   "bilmagan",
+   "birga",
+   "bolgan",
+   "borishning",
+   "borligini",
+   "bormoqchi",
+   "foydalari",
+   "korib",
+   "oling",
+   "qoyamiz",
+   "saunaga",
+   "videoni",
+   "yaqinlaringizga",
+   "yuborib"
   ]
  }
 ]

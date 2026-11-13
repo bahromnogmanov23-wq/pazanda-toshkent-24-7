@@ -1,61 +1,5 @@
 [
  {
-  "prefiks": "трамписроилҳақидаэндиисроилгамаблағажратмаймизжорий",
-  "sozlar": [
-   "агар",
-   "ажратмаймиз",
-   "берамиз",
-   "билдирмаяпти",
-   "бунга",
-   "бўлса",
-   "жорий",
-   "исроил",
-   "исроилга",
-   "керак",
-   "кўрсатишни",
-   "маблағ",
-   "молиявий",
-   "охирига",
-   "трамп",
-   "тўхтатамиз",
-   "улар",
-   "унга",
-   "энди",
-   "эътироз",
-   "ёрдам",
-   "қадар",
-   "ҳақида"
-  ]
- },
- {
-  "prefiks": "долларкурсинингпастлашидавомэтадимарказийбанквалюталар",
-  "sozlar": [
-   "банк",
-   "валюталар",
-   "давом",
-   "доллар",
-   "курсини",
-   "курсининг",
-   "марказий",
-   "пастлаши",
-   "этади",
-   "эълон",
-   "қилди"
-  ]
- },
- {
-  "prefiks": "иманхатолариниочибташлаганмаҳмудусмонданмурожаат",
-  "sozlar": [
-   "иман",
-   "маҳмуд",
-   "мурожаат",
-   "очиб",
-   "ташлаган",
-   "усмондан",
-   "хатоларини"
-  ]
- },
- {
   "prefiks": "saylovlarlanditrampmistervetoaylanadimibenzinqimmatla",
   "sozlar": [
    "amerikaliklar",
@@ -13949,6 +13893,68 @@
    "qoyamiz",
    "uchun",
    "ulashib"
+  ]
+ },
+ {
+  "prefiks": "aeroportdagituzoqbirovningnarsasigategmangqolingizgaolmangyaqinlarga",
+  "sozlar": [
+   "aeroportdagi",
+   "birovning",
+   "narsasiga",
+   "olmang",
+   "qolingizga",
+   "qoying",
+   "tegmang",
+   "tuzoq",
+   "yaqinlarga",
+   "yuborib"
+  ]
+ },
+ {
+  "prefiks": "farzandinibogchayokimaktabganavbatgaqoymoqchibolganlargakerakli",
+  "sozlar": [
+   "ariza",
+   "bogcha",
+   "bolganlarga",
+   "bolmaydi",
+   "buning",
+   "echimi",
+   "farzandini",
+   "foydadan",
+   "ilovasiga",
+   "juda",
+   "kerakli",
+   "kirasiz",
+   "kiritib",
+   "maktabga",
+   "malumotlarni",
+   "navbatga",
+   "oson",
+   "qabul",
+   "qoymoqchi",
+   "tanlaysiz",
+   "ulashing",
+   "video",
+   "xizmatini",
+   "xoli",
+   "yaqinlarga",
+   "yoki",
+   "yuborasiz"
+  ]
+ },
+ {
+  "prefiks": "avstraliyadaoltiormondaqolibketganosmirtiriktopildi",
+  "sozlar": [
+   "avstraliyada",
+   "instagram",
+   "ketgan",
+   "olti",
+   "ormonda",
+   "osmir",
+   "qolib",
+   "tirik",
+   "topildi",
+   "youtube"
   ]
  }
 ]

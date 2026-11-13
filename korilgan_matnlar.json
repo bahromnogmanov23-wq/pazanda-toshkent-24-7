@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "сингапуртокиокиотодунёнингхавфсизшаҳарлариworldstatistics",
-  "sozlar": [
-   "statistics",
-   "world",
-   "дунёнинг",
-   "киото",
-   "рўйхатини",
-   "сингапур",
-   "тақдим",
-   "токио",
-   "хавфсиз",
-   "шаҳарлари",
-   "этди"
-  ]
- },
- {
-  "prefiks": "фаррухабдураимоволийраисинингбиринчиўринбосариэтибсайланди",
-  "sozlar": [
-   "абдураимов",
-   "алишер",
-   "билан",
-   "бирга",
-   "биринчи",
-   "лавозимидан",
-   "озод",
-   "олий",
-   "раисининг",
-   "сайланди",
-   "усманов",
-   "фаррух",
-   "этиб",
-   "этилди",
-   "ўринбосари"
-  ]
- },
- {
   "prefiks": "ўлимтўшагидагиотахоннингхаёлиҳалиямрўзғордаэркакларучун",
   "sozlar": [
    "деган",
@@ -13888,6 +13852,75 @@
    "vaziyat",
    "xaybar",
    "xorramshaxr"
+  ]
+ },
+ {
+  "prefiks": "odinbaribiryozamandeganiekanundaxaydovchiposhel",
+  "sozlar": [
+   "abdumalikovich",
+   "advokat",
+   "baribir",
+   "bilan",
+   "bolgan",
+   "degani",
+   "desa",
+   "ekan",
+   "inspektorlar",
+   "ishlatinglar",
+   "janob",
+   "kelishmadim",
+   "mano",
+   "manosida",
+   "odin",
+   "orniga",
+   "poshel",
+   "qabul",
+   "qanday",
+   "qilasizlarmi",
+   "sozini",
+   "taqdirda",
+   "unda",
+   "xaydovchi",
+   "yozaman"
+  ]
+ },
+ {
+  "prefiks": "vertolyotorninibosuvchi2000kilometrlikdroniyaratildiskyways",
+  "sozlar": [
+   "2000",
+   "arzon",
+   "bajara",
+   "baravar",
+   "bilan",
+   "biroq",
+   "bosuvchi",
+   "bunday",
+   "droni",
+   "dronini",
+   "etdi",
+   "faqat",
+   "gibrid",
+   "kilogramm",
+   "kilometrdan",
+   "kilometrlik",
+   "kompaniyaga",
+   "kora",
+   "masofa",
+   "moljallangan",
+   "oladi",
+   "ornida",
+   "ornini",
+   "ortiq",
+   "parvozlarni",
+   "qariyb",
+   "skyreach",
+   "skyways",
+   "startapi",
+   "taqdim",
+   "tashishga",
+   "vertolyot",
+   "vertolyotlar",
+   "yaratildi"
   ]
  }
 ]

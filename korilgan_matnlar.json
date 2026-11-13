@@ -1,38 +1,5 @@
 [
  {
-  "prefiks": "мўминовсарвармуродовичтаълимвазирлигидаянгилавозимгатайинланди",
-  "sozlar": [
-   "ахборот",
-   "билан",
-   "бошлиғи",
-   "бошқармаси",
-   "буйруғи",
-   "вазирининг",
-   "вазирлигида",
-   "вазирликнинг",
-   "департаменти",
-   "лавозимга",
-   "лавозимига",
-   "мактаб",
-   "мактабгача",
-   "муродович",
-   "мўминов",
-   "рақамлаштириш",
-   "рақамли",
-   "сарвар",
-   "сиёсати",
-   "тайинланди",
-   "тайинловга",
-   "таркибидаги",
-   "таълим",
-   "тегишли",
-   "трансформация",
-   "ушбу",
-   "янги",
-   "қадар"
-  ]
- },
- {
   "prefiks": "сингапуртокиокиотодунёнингхавфсизшаҳарлариworldstatistics",
   "sozlar": [
    "statistics",
@@ -13896,6 +13863,31 @@
    "texnik",
    "texnologik",
    "yirik"
+  ]
+ },
+ {
+  "prefiks": "tehronmarkaziymaydonlaridanbiridagivaziyatislominqilobiqoriqchilari",
+  "sozlar": [
+   "apparatini",
+   "biridagi",
+   "iiqk",
+   "inqilobi",
+   "islom",
+   "korpusi",
+   "markaziy",
+   "maydonlaridan",
+   "namoyish",
+   "qilmoqda",
+   "qoriqchilari",
+   "raketalari",
+   "shohid",
+   "shuningdek",
+   "tehron",
+   "uchish",
+   "uchuvchisiz",
+   "vaziyat",
+   "xaybar",
+   "xorramshaxr"
   ]
  }
 ]

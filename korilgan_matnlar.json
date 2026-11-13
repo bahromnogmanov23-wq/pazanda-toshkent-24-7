@@ -1,34 +1,5 @@
 [
  {
-  "prefiks": "rossiyadaautoegalarimasterakkauntirliklarigaradirossiyadagi",
-  "sozlar": [
-   "akkaunt",
-   "akkauntlari",
-   "auto",
-   "avtomobillari",
-   "avtomobilning",
-   "ayrim",
-   "bilan",
-   "buzilgandan",
-   "egalari",
-   "funksiyalaridan",
-   "hatto",
-   "haydov",
-   "ilar",
-   "imkoniyatidan",
-   "irlani",
-   "irliklariga",
-   "kelmoqda",
-   "kiberhujumlarga",
-   "mahrum",
-   "master",
-   "mumkin",
-   "radi",
-   "rossiyada",
-   "rossiyadagi"
-  ]
- },
- {
   "prefiks": "мўминовсарвармуродовичтаълимвазирлигидаянгилавозимгатайинланди",
   "sozlar": [
    "ахборот",
@@ -13891,6 +13862,40 @@
    "tumanida",
    "yongin",
    "zarafshon"
+  ]
+ },
+ {
+  "prefiks": "microsoftglobalnosozlikmamlakatniqamraboldimicrosoftservislarida",
+  "sozlar": [
+   "anthropic",
+   "balki",
+   "bergan",
+   "chetlab",
+   "dunyoning",
+   "foydalanuvchilarga",
+   "global",
+   "hududidagi",
+   "kabi",
+   "keng",
+   "kolamli",
+   "kompaniyalarni",
+   "korsatdi",
+   "mamlakat",
+   "mamlakatni",
+   "microsoft",
+   "minglab",
+   "muammo",
+   "nafaqat",
+   "nosozlik",
+   "odamlarni",
+   "oldi",
+   "openai",
+   "otmadi",
+   "qamrab",
+   "servislarida",
+   "texnik",
+   "texnologik",
+   "yirik"
   ]
  }
 ]

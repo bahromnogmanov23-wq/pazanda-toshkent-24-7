@@ -1,25 +1,5 @@
 [
  {
-  "prefiks": "эндиоёқлирадарларниисталганжойгақўйиляптиқанақабелгиларсиз",
-  "sozlar": [
-   "белгиларсиз",
-   "берилди",
-   "жойга",
-   "исталган",
-   "огоҳлантириб",
-   "оёқли",
-   "радарларни",
-   "рухсат",
-   "энди",
-   "юбориб",
-   "яқинларга",
-   "қанақа",
-   "қўйиляпти",
-   "қўйишга",
-   "қўямиз"
-  ]
- },
- {
   "prefiks": "centrumтошкентданчелябинсктюменгатўғридантўғрирейсларнийўлга",
   "sozlar": [
    "centrum",
@@ -13883,6 +13863,40 @@
    "tumanida",
    "tungi",
    "vaziyat"
+  ]
+ },
+ {
+  "prefiks": "ozgarishikutilayotganalimenttoshkentdagiretsidivistquyonlarmahalliydayjest",
+  "sozlar": [
+   "aliment",
+   "avtobus",
+   "avtomobilni",
+   "ayrimlari",
+   "belgilash",
+   "chiqiladi",
+   "dayjest",
+   "haqda",
+   "ishlab",
+   "jarima",
+   "kutilayotgan",
+   "loyihasi",
+   "mahalliy",
+   "martadan",
+   "maydonchasidan",
+   "miqdorini",
+   "mumkin",
+   "olish",
+   "ortiq",
+   "ozgaradi",
+   "ozgarishi",
+   "prezident",
+   "qarori",
+   "quyonlar",
+   "retsidivist",
+   "tartibi",
+   "toshkentda",
+   "toshkentdagi",
+   "yolovchilarining"
   ]
  }
 ]

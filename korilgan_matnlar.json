@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "қўйлиқдаавтомобилиурибкетганпиёдаолганжароҳатлариоқибатида",
-  "sozlar": [
-   "автомобили",
-   "берилмаган",
-   "вафот",
-   "дастлабки",
-   "жароҳатлари",
-   "зарбадан",
-   "изоҳ",
-   "йўналишдаги",
-   "кетган",
-   "кўра",
-   "маълумотларга",
-   "олган",
-   "оқибатида",
-   "пиёда",
-   "расмий",
-   "тафсилотлари",
-   "уриб",
-   "учиб",
-   "этди",
-   "юзасидан",
-   "ўрганилмоқда",
-   "қарама",
-   "қарши",
-   "қатнов",
-   "қисмига",
-   "қўйлиқда",
-   "ҳодиса",
-   "ҳозирча",
-   "ҳолат"
-  ]
- },
- {
   "prefiks": "агармашқнимартақилсангизбўйинданбелгачабўлганоғриқлар",
   "sozlar": [
    "агар",
@@ -13927,6 +13893,43 @@
    "sababdan",
    "shoxrux",
    "tushuntirdi"
+  ]
+ },
+ {
+  "prefiks": "barchingofurovaningozodlikdagisonggiintervyusikuchlibolishgamajburman",
+  "sozlar": [
+   "barchin",
+   "bolib",
+   "bolishga",
+   "chunki",
+   "darakchi",
+   "gofurovaning",
+   "haqidagi",
+   "hayot",
+   "ichki",
+   "insonlarim",
+   "intervyuni",
+   "intervyusi",
+   "intilishi",
+   "kechinmalari",
+   "kuchli",
+   "majburman",
+   "menga",
+   "ozodlikdagi",
+   "qanday",
+   "qarab",
+   "qiling",
+   "qolishga",
+   "sahifamizda",
+   "samimiy",
+   "sinovlari",
+   "songgi",
+   "suhbati",
+   "toliq",
+   "tomosha",
+   "turgan",
+   "vaziyatda",
+   "youtube"
   ]
  }
 ]

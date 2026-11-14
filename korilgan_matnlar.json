@@ -1,23 +1,5 @@
 [
  {
-  "prefiks": "агармашқнимартақилсангизбўйинданбелгачабўлганоғриқлар",
-  "sozlar": [
-   "агар",
-   "белгача",
-   "бели",
-   "бўйиндан",
-   "бўйни",
-   "бўлган",
-   "йўқолади",
-   "марта",
-   "машқни",
-   "оғрийдиганларга",
-   "оғриқлар",
-   "юборинг",
-   "қилсангиз"
-  ]
- },
- {
   "prefiks": "эндирадарларнафақаттезликнибалкивақтниҳисоблабўртача",
   "sozlar": [
    "автомобилнинг",
@@ -13930,6 +13912,41 @@
    "turgan",
    "vaziyatda",
    "youtube"
+  ]
+ },
+ {
+  "prefiks": "darakchidayjestinoyabryangiliklaritoshkentdayoshliqizlarorasida",
+  "sozlar": [
+   "agdarilib",
+   "aniqlandi",
+   "aqshda",
+   "belgilandi",
+   "bilan",
+   "darakchi",
+   "dayjesti",
+   "dorilarni",
+   "holati",
+   "homiladorlik",
+   "infektsiyasining",
+   "joyida",
+   "kemasi",
+   "ketdi",
+   "kruiz",
+   "noyabr",
+   "orasida",
+   "oyda",
+   "ozbekistonda",
+   "qizlar",
+   "shahvoniy",
+   "shilqimlik",
+   "talablar",
+   "tanker",
+   "toqnashgan",
+   "toshkentda",
+   "uchun",
+   "yangi",
+   "yangiliklari",
+   "yoshli"
   ]
  }
 ]

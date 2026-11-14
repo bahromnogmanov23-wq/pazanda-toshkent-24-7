@@ -1,20 +1,5 @@
 [
  {
-  "prefiks": "эрталабгихатоларжигарнибостирадияқинларгаюборибқўямизканалига",
-  "sozlar": [
-   "бостиради",
-   "бўлинг",
-   "жигарни",
-   "каналига",
-   "обуна",
-   "хатолар",
-   "эрталабги",
-   "юбориб",
-   "яқинларга",
-   "қўямиз"
-  ]
- },
- {
   "prefiks": "қўйлиқдаавтомобилиурибкетганпиёдаолганжароҳатлариоқибатида",
   "sozlar": [
    "автомобили",
@@ -13926,6 +13911,22 @@
    "yana",
    "yilning",
    "yordami"
+  ]
+ },
+ {
+  "prefiks": "shoxruxgiyosovishdanketishigablogerlatipovaybdormishoxrux",
+  "sozlar": [
+   "aybdormi",
+   "bloger",
+   "giyosov",
+   "ishdan",
+   "ketayotganini",
+   "ketishiga",
+   "latipov",
+   "nima",
+   "sababdan",
+   "shoxrux",
+   "tushuntirdi"
   ]
  }
 ]

@@ -1,42 +1,5 @@
 [
  {
-  "prefiks": "zbekistondaommaboponlayntopildimilliytadqiqotzbekistondamedia",
-  "sozlar": [
-   "axborot",
-   "ayollar",
-   "degan",
-   "erkaklar",
-   "foizi",
-   "hududlari",
-   "ilik",
-   "iste",
-   "media",
-   "milliy",
-   "moli",
-   "odamlar",
-   "ommabop",
-   "onlayn",
-   "proq",
-   "qaysi",
-   "qilgan",
-   "qiysiz",
-   "ralganlarning",
-   "respublikaning",
-   "rlarni",
-   "rsatdi",
-   "rtasida",
-   "savolga",
-   "tadqiqot",
-   "tadqiqotda",
-   "tkazilgan",
-   "toifalarida",
-   "topildi",
-   "uningdek",
-   "yetak",
-   "zbekistonda"
-  ]
- },
- {
   "prefiks": "kannavaroketimumkinligihaqidaxabartarqaldietdiitaliyalik",
   "sozlar": [
    "2025",
@@ -13875,6 +13838,18 @@
    "vashington",
    "yigilish",
    "yigilishida"
+  ]
+ },
+ {
+  "prefiks": "qorachoyistemolqilganlarqariroqkorinarekan",
+  "sozlar": [
+   "choy",
+   "ekan",
+   "istemol",
+   "korinar",
+   "qariroq",
+   "qilganlar",
+   "qora"
   ]
  }
 ]

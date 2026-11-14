@@ -1,29 +1,5 @@
 [
  {
-  "prefiks": "каннавароўзбекистонтермажамоасинитаркэтишимумкинсабаб",
-  "sozlar": [
-   "вазият",
-   "жамоасини",
-   "йилга",
-   "каннаваро",
-   "кубоги",
-   "мумкин",
-   "мусобақа",
-   "осиё",
-   "романо",
-   "сабаб",
-   "сабабли",
-   "тарк",
-   "терма",
-   "фабрицио",
-   "шарқдаги",
-   "этиши",
-   "яқин",
-   "ўзбекистон",
-   "қолдирилди"
-  ]
- },
- {
   "prefiks": "quruviningosonmoliyaviymanbayiodamlarningpuliimarat",
   "sozlar": [
    "bozorda",
@@ -13868,6 +13844,45 @@
    "toyota",
    "uchun",
    "yashirilgan"
+  ]
+ },
+ {
+  "prefiks": "aeroportbojxonasidanimabolgandiimeivoqeasigaizohlartoshkent",
+  "sozlar": [
+   "aeroport",
+   "aeroportga",
+   "aeroportida",
+   "biri",
+   "bojxona",
+   "bojxonasida",
+   "bolgandi",
+   "choraning",
+   "etilgach",
+   "huquqni",
+   "imei",
+   "izohlar",
+   "jalb",
+   "jarayon",
+   "muhofaza",
+   "mutaxassislari",
+   "necha",
+   "nima",
+   "olib",
+   "organlarning",
+   "qiluvchi",
+   "qolindi",
+   "qomitasi",
+   "rasmiylashtiruvi",
+   "sabablaridan",
+   "telefon",
+   "telefonlarning",
+   "tiklandi",
+   "toshkent",
+   "toxtatilib",
+   "uzimei",
+   "vaqtincha",
+   "voqeasiga",
+   "xodimlarni"
   ]
  }
 ]

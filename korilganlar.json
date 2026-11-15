@@ -1,9 +1,4 @@
 [
- "tg:YHXX_UZ/53981",
- "tg:YHXX_UZ/53982",
- "tg:YHXX_UZ/53983",
- "tg:YHXX_UZ/53984",
- "tg:YHXX_UZ/53985",
  "tg:YHXX_UZ/53986",
  "tg:YHXX_UZ/53987",
  "tg:YHXX_UZ/53988",
@@ -420,6 +415,7 @@
  "tg:darakchi/145836",
  "tg:darakchi/145837",
  "tg:darakchi/145838",
+ "tg:darakchi/145839",
  "tg:effectuz/100001",
  "tg:effectuz/100002",
  "tg:effectuz/100003",
@@ -1109,6 +1105,7 @@
  "tg:kunuzofficial/175799",
  "tg:kunuzofficial/175800",
  "tg:kunuzofficial/175801",
+ "tg:kunuzofficial/175802",
  "tg:poytaxt_uz/54049",
  "tg:poytaxt_uz/54050",
  "tg:poytaxt_uz/54051",
@@ -1270,6 +1267,7 @@
  "tg:poytaxt_uz/54447",
  "tg:poytaxt_uz/54448",
  "tg:poytaxt_uz/54449",
+ "tg:poytaxt_uz/54450",
  "tg:qoraxabar/176539",
  "tg:qoraxabar/176540",
  "tg:qoraxabar/176541",
@@ -1959,6 +1957,7 @@
  "tg:qoraxabar/177368",
  "tg:qoraxabar/177369",
  "tg:qoraxabar/177370",
+ "tg:qoraxabar/177371",
  "tg:toshkentliklar/55707",
  "tg:toshkentliklar/55708",
  "tg:toshkentliklar/55709",
@@ -2498,5 +2497,6 @@
  "tg:xabaruzofficial/116543",
  "tg:xabaruzofficial/116544",
  "tg:xabaruzofficial/116545",
- "tg:xabaruzofficial/116546"
+ "tg:xabaruzofficial/116546",
+ "tg:xabaruzofficial/116547"
 ]

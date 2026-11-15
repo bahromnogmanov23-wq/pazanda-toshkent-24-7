@@ -1,14 +1,5 @@
 [
  {
-  "prefiks": "йигитларқулоғилагақуйибқойила",
-  "sozlar": [
-   "йигитлар",
-   "қойила",
-   "қуйиб",
-   "қулоғилага"
-  ]
- },
- {
   "prefiks": "ижтимоийреестркиритилмадингизмиэндионлайншикоятқилишмумкин",
   "sozlar": [
    "билдириш",
@@ -13927,6 +13918,29 @@
    "qolgan",
    "yoqolib",
    "yosh"
+  ]
+ },
+ {
+  "prefiks": "qishfasliuchunmanabundaysalatlartayyorlabqoying",
+  "sozlar": [
+   "bodring",
+   "bulgor",
+   "bunday",
+   "dona",
+   "fasli",
+   "kerakli",
+   "kokatlar",
+   "mana",
+   "masalliqlar",
+   "pamidor",
+   "piyoz",
+   "qish",
+   "qizil",
+   "qoying",
+   "salatlar",
+   "tayyorlab",
+   "uchun",
+   "yashil"
   ]
  }
 ]

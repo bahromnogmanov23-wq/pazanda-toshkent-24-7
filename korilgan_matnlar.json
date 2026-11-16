@@ -1,42 +1,5 @@
 [
  {
-  "prefiks": "хайрлитонгянгибарчангизгахайрлибаракаликелсинбугунги",
-  "sozlar": [
-   "баракали",
-   "барчангизга",
-   "бизни",
-   "билан",
-   "бирга",
-   "бораётганингиз",
-   "бугунги",
-   "бўлганингиз",
-   "бўлсин",
-   "воқеа",
-   "давом",
-   "етказишда",
-   "кайфият",
-   "келсин",
-   "кузатиб",
-   "кунингиз",
-   "лаҳзаларга",
-   "марказидаги",
-   "муҳим",
-   "омадли",
-   "раҳмат",
-   "сизларга",
-   "тонг",
-   "учун",
-   "хайрли",
-   "хушхабарлар",
-   "этамиз",
-   "эътиборингиз",
-   "янги",
-   "янгиликларни",
-   "яхши",
-   "ўтсин"
-  ]
- },
- {
   "prefiks": "тошкентдагикўкчадарвозакўчасидаяшилтўлқинтизимиишга",
   "sozlar": [
    "вақт",
@@ -13842,6 +13805,41 @@
    "urilgani",
    "xabar",
    "xizmati"
+  ]
+ },
+ {
+  "prefiks": "millionyoshlarkelajakkasblarigajalbqilinadiozbekistonda2031",
+  "sozlar": [
+   "2031",
+   "axborot",
+   "etilishi",
+   "intellekt",
+   "iqtisodiyot",
+   "jalb",
+   "kasblariga",
+   "kelajak",
+   "konikmalar",
+   "kreativ",
+   "kurslari",
+   "maqsad",
+   "million",
+   "muddatli",
+   "nafar",
+   "oquv",
+   "ozbekistonda",
+   "qilinadi",
+   "qilingan",
+   "qilish",
+   "qisqa",
+   "raqamli",
+   "rejalashtirilmoqda",
+   "tashkil",
+   "texnologiyalari",
+   "uchun",
+   "yilgacha",
+   "yonalishlarida",
+   "yoshlar",
+   "yoshni"
   ]
  }
 ]

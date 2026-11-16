@@ -1,44 +1,5 @@
 [
  {
-  "prefiks": "келажакнингкелажагиқандайқурилгандиёхудбункердаўтказилган",
-  "sozlar": [
-   "айниқса",
-   "балки",
-   "бункерда",
-   "бўлаётган",
-   "бўлса",
-   "вазифаларга",
-   "давомида",
-   "даъво",
-   "жорий",
-   "ишлаб",
-   "йиллар",
-   "келажаги",
-   "келажак",
-   "муассасалар",
-   "нафақат",
-   "нинг",
-   "номи",
-   "осон",
-   "пайдо",
-   "тестлар",
-   "тизимни",
-   "тузилма",
-   "унда",
-   "шаклланган",
-   "эмас",
-   "этиш",
-   "янги",
-   "ёхуд",
-   "ўзгаришлар",
-   "ўрнида",
-   "ўтказилган",
-   "қандай",
-   "қурилганди",
-   "ҳақидаги"
-  ]
- },
- {
   "prefiks": "ижтимоийреестрмаҳаллаеттилигиқарорлариборасидаонлайншикоят",
   "sozlar": [
    "апелляция",
@@ -13747,6 +13708,34 @@
    "yoxud",
    "zorlikning",
    "zudlik"
+  ]
+ },
+ {
+  "prefiks": "toshkentdahostellarfaoliyatiboyichareydboshlandiqopolqoidabuzarlikka",
+  "sozlar": [
+   "boling",
+   "bolishiga",
+   "boshlandi",
+   "boyicha",
+   "faoliyati",
+   "gazidan",
+   "hostellar",
+   "kanaliga",
+   "maqsad",
+   "obuna",
+   "oldini",
+   "olish",
+   "qoidabuzarlikka",
+   "qopol",
+   "qoygan",
+   "qoymaslik",
+   "reyd",
+   "sodir",
+   "toshkentda",
+   "toxtatildi",
+   "vaqtincha",
+   "yonginlar",
+   "zaharlanishni"
   ]
  }
 ]

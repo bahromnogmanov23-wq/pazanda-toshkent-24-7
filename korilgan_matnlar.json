@@ -1,30 +1,5 @@
 [
  {
-  "prefiks": "тошкентдагикўкчадарвозакўчасидаяшилтўлқинтизимиишга",
-  "sozlar": [
-   "вақт",
-   "дарвоза",
-   "дақиқа",
-   "ишга",
-   "йўналишда",
-   "кўкча",
-   "кўчасида",
-   "мумкин",
-   "натижада",
-   "тежаши",
-   "тизими",
-   "тошкентдаги",
-   "туширилди",
-   "тўлқин",
-   "ушбу",
-   "яшил",
-   "ўртача",
-   "қатновда",
-   "ҳайдовчилар",
-   "ҳаракатланаётган"
-  ]
- },
- {
   "prefiks": "доҳадаўзбекистондагиисломцивилизациясимарказитақдимотихалқароилмий",
   "sozlar": [
    "барпо",
@@ -13840,6 +13815,35 @@
    "yonalishlarida",
    "yoshlar",
    "yoshni"
+  ]
+ },
+ {
+  "prefiks": "avtomobilingizeshiklaridangalatitovushlarchiqayotganbolsaichidatoplanib",
+  "sozlar": [
+   "avtomobilingiz",
+   "balki",
+   "bolishi",
+   "bolsa",
+   "bordir",
+   "chiqarish",
+   "chiqayotgan",
+   "eshiklaridan",
+   "eshikning",
+   "galati",
+   "holat",
+   "ichida",
+   "koring",
+   "mashinangizda",
+   "mumkin",
+   "pastki",
+   "qismidagi",
+   "qolgan",
+   "shunday",
+   "sizning",
+   "tekshirib",
+   "teshiklarini",
+   "toplanib",
+   "tovushlar"
   ]
  }
 ]

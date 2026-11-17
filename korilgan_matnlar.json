@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "ижтимоийреестрмаҳаллаеттилигиқарорлариборасидаонлайншикоят",
-  "sozlar": [
-   "апелляция",
-   "борасида",
-   "бўлган",
-   "бўлди",
-   "еттилиги",
-   "ижтимоий",
-   "имкониятига",
-   "кенгашига",
-   "киритиш",
-   "маҳалла",
-   "мумкин",
-   "мурожаат",
-   "норози",
-   "онлайн",
-   "расмийлаштирилган",
-   "реестр",
-   "тақдирда",
-   "томонидан",
-   "уйдан",
-   "фуқаролар",
-   "чиқмаган",
-   "шикоят",
-   "этилгани",
-   "қарорлари",
-   "қилиш",
-   "ҳокимликлар",
-   "ҳолда",
-   "ҳужжатлардан",
-   "ҳузуридаги"
-  ]
- },
- {
   "prefiks": "ўзбекистондасолиқтўлаганхорижийкомпаниялариapplegoogleхусусан",
   "sozlar": [
    "apple",
@@ -13736,6 +13702,43 @@
    "vaqtincha",
    "yonginlar",
    "zaharlanishni"
+  ]
+ },
+ {
+  "prefiks": "xitoymaktablaridadaftarlarnisuniyintellekttekshirmoqdaxitoymaktablarida",
+  "sozlar": [
+   "asoslangan",
+   "aytilishicha",
+   "baho",
+   "chizadi",
+   "daftarlarini",
+   "daftarlarni",
+   "daftarni",
+   "dasta",
+   "foydalanilmoqda",
+   "intellekt",
+   "intellektga",
+   "javoblarni",
+   "joylaydi",
+   "maktablarida",
+   "maxsus",
+   "oqituvchi",
+   "oquvchilarning",
+   "qoyadi",
+   "qurilma",
+   "qurilmaga",
+   "qurilmalardan",
+   "sahifalarni",
+   "skanerlab",
+   "suniy",
+   "tagiga",
+   "tekshiradi",
+   "tekshirish",
+   "tekshirmoqda",
+   "texnologiya",
+   "uchun",
+   "xatolarning",
+   "xitoy"
   ]
  }
 ]

@@ -1,19 +1,5 @@
 [
  {
-  "prefiks": "ўзбекистондасолиқтўлаганхорижийкомпаниялариapplegoogleхусусан",
-  "sozlar": [
-   "apple",
-   "google",
-   "компаниялари",
-   "миллиард",
-   "солиқ",
-   "тўлаган",
-   "хорижий",
-   "хусусан",
-   "ўзбекистонда"
-  ]
- },
- {
   "prefiks": "оналарфарзандларикелажагининегакелажакишонмаяптикелажакмарказлари",
   "sozlar": [
    "аввалги",
@@ -13739,6 +13725,27 @@
    "uchun",
    "xatolarning",
    "xitoy"
+  ]
+ },
+ {
+  "prefiks": "tongqaraboynagadeymansiragamimsoglommanzorman",
+  "sozlar": [
+   "boling",
+   "deyman",
+   "gamim",
+   "kanaliga",
+   "obuna",
+   "oynaga",
+   "qarab",
+   "qilishga",
+   "sher",
+   "shukr",
+   "sira",
+   "soglomman",
+   "tashvishim",
+   "tong",
+   "undovchi",
+   "zorman"
   ]
  }
 ]

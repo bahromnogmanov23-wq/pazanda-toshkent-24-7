@@ -1,37 +1,5 @@
 [
  {
-  "prefiks": "ijtimoiytarmoqlardaxodimlariniobrosizlantiruvchivideotarqatganfuqaroganisbatan",
-  "sozlar": [
-   "boston",
-   "boyicha",
-   "chiqildi",
-   "fuqaroga",
-   "hujjatlari",
-   "huquqbuzarga",
-   "ijtimoiy",
-   "ishlari",
-   "jazosi",
-   "jinoyat",
-   "kora",
-   "korib",
-   "mamuriy",
-   "nisbatan",
-   "obrosizlantiruvchi",
-   "qamoq",
-   "qaroriga",
-   "sudi",
-   "sutka",
-   "tarmoqlarda",
-   "tarqatgan",
-   "tayinlandi",
-   "tomonidan",
-   "toplangan",
-   "tumani",
-   "video",
-   "xodimlarini"
-  ]
- },
- {
   "prefiks": "zbekistonprezidentkambagaloilaqolmadideganhisobototmaydi",
   "sozlar": [
    "daromadli",
@@ -13726,6 +13694,23 @@
    "uchrashuvi",
    "uning",
    "zarba"
+  ]
+ },
+ {
+  "prefiks": "afgonistonningtogliqishloqlaridanbiridachangiuchayotganbolalarqish",
+  "sozlar": [
+   "afgonistonning",
+   "ancha",
+   "birida",
+   "bolalar",
+   "changi",
+   "erta",
+   "keladiganga",
+   "oxshaydi",
+   "qish",
+   "qishloqlaridan",
+   "togli",
+   "uchayotgan"
   ]
  }
 ]

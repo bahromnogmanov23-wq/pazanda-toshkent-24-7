@@ -1,35 +1,5 @@
 [
  {
-  "prefiks": "zbekistonozbekistondakundamillionsoatelektrenergiyasiishlab",
-  "sozlar": [
-   "chiqarildi",
-   "chiqarish",
-   "davriga",
-   "elektr",
-   "energetika",
-   "energiyasi",
-   "hajmi",
-   "ishlab",
-   "jami",
-   "kora",
-   "kunda",
-   "kuni",
-   "malumotiga",
-   "mamlakatda",
-   "million",
-   "nisbatan",
-   "noyabr",
-   "oshdi",
-   "otgan",
-   "ozbekistonda",
-   "soat",
-   "soatga",
-   "vazirligi",
-   "yilning",
-   "zbekiston"
-  ]
- },
- {
   "prefiks": "tramperondarejimniozgartirmoqchibolibkongressdagiorinlariniberib",
   "sozlar": [
    "berib",
@@ -13724,6 +13694,18 @@
    "xonali",
    "yerparchin",
    "yoki"
+  ]
+ },
+ {
+  "prefiks": "insonmazzaqilibuhlashuchunbittaqoida",
+  "sozlar": [
+   "bitta",
+   "inson",
+   "mazza",
+   "qilib",
+   "qoida",
+   "uchun",
+   "uhlash"
   ]
  }
 ]

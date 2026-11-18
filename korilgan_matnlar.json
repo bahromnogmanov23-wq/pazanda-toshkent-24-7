@@ -1,20 +1,5 @@
 [
  {
-  "prefiks": "diqqathaydovchilarogohbolingpolosadaxodimlaritomonidanreyd",
-  "sozlar": [
-   "boling",
-   "diqqat",
-   "haydovchilar",
-   "ogoh",
-   "otkazilmoqda",
-   "polosada",
-   "reyd",
-   "tadbirlari",
-   "tomonidan",
-   "xodimlari"
-  ]
- },
- {
   "prefiks": "isroilsiyosatchilaritrampningbayonotidantaajjubdagazabdamuxolifatbuning",
   "sozlar": [
    "ayblamoqda",
@@ -13650,6 +13635,33 @@
    "xususan",
    "yashil",
    "yilning"
+  ]
+ },
+ {
+  "prefiks": "isroilbuldozerlariiordandaryosininggarbiysohilidafalastinlikdehqonlarning",
+  "sozlar": [
+   "arafasida",
+   "bardala",
+   "bilan",
+   "boshlanishi",
+   "buldozerlari",
+   "daryosining",
+   "dehqonlarning",
+   "falastinlik",
+   "garbiy",
+   "hosilsiz",
+   "iordan",
+   "isroil",
+   "issiqxonalarini",
+   "kunlar",
+   "oilalar",
+   "onlab",
+   "qildi",
+   "qishlogidagi",
+   "qoladi",
+   "sohilida",
+   "sovuq",
+   "yakson"
   ]
  }
 ]

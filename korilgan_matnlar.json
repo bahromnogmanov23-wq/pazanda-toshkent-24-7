@@ -1,14 +1,5 @@
 [
  {
-  "prefiks": "uchastkavoyningaqlliechimi",
-  "sozlar": [
-   "aqlli",
-   "echimi",
-   "ning",
-   "uchastkavoy"
-  ]
- },
- {
   "prefiks": "ulugtoshkentdagiayrimxonadonlardaissiqloyqalashibundanyoqimsiz",
   "sozlar": [
    "aholidan",
@@ -13685,6 +13676,45 @@
    "uchun",
    "ulashing",
    "yaqinlarga"
+  ]
+ },
+ {
+  "prefiks": "bolangizshapkakiyishdanboshtortyaptimiolimlarisbotlaganburun",
+  "sozlar": [
+   "atigi",
+   "barobar",
+   "berilib",
+   "boladi",
+   "bolalar",
+   "bolangiz",
+   "bosh",
+   "burun",
+   "daraja",
+   "echim",
+   "himoyasi",
+   "ichi",
+   "ikki",
+   "isbotlagan",
+   "kattalarga",
+   "kiyishdan",
+   "oddiy",
+   "olimlar",
+   "oyinga",
+   "qaraganda",
+   "qarshi",
+   "quloqda",
+   "quloqni",
+   "sezmaydi",
+   "shapka",
+   "soviydi",
+   "sovqotganini",
+   "sovuq",
+   "sovusa",
+   "susayadi",
+   "tortyaptimi",
+   "uning",
+   "urishi",
+   "virusga"
   ]
  }
 ]

@@ -1,36 +1,5 @@
 [
  {
-  "prefiks": "metropolitenfarroshlarinioyligiberilmayotganekanopamizrasmiylardanyordam",
-  "sozlar": [
-   "ahir",
-   "arzimas",
-   "atash",
-   "berilmayotgan",
-   "bermayotgan",
-   "bular",
-   "ekan",
-   "farishtalarini",
-   "farroshlarini",
-   "metropoliten",
-   "mumkin",
-   "opamiz",
-   "oylab",
-   "oyligi",
-   "oyligini",
-   "qolayotgan",
-   "rahbariyatni",
-   "rasmiylardan",
-   "savobli",
-   "sharafli",
-   "sohiblariku",
-   "soramoqda",
-   "tozalik",
-   "ushlab",
-   "vijdonsiz",
-   "yordam"
-  ]
- },
- {
   "prefiks": "uchastkavoyningaqlliechimi",
   "sozlar": [
    "aqlli",
@@ -13701,6 +13670,21 @@
    "sogliq",
    "uchun",
    "zararli"
+  ]
+ },
+ {
+  "prefiks": "sharoitidaozishuchundietologdanfoydalioltingatengtavsiya",
+  "sozlar": [
+   "dietologdan",
+   "foydali",
+   "oltinga",
+   "ozish",
+   "sharoitida",
+   "tavsiya",
+   "teng",
+   "uchun",
+   "ulashing",
+   "yaqinlarga"
   ]
  }
 ]

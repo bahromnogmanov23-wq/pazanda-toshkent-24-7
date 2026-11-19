@@ -1,74 +1,5 @@
 [
  {
-  "prefiks": "bugunnoyabrsaidamirziyoevaningtugulgankunikanalnomidan",
-  "sozlar": [
-   "bugun",
-   "kanal",
-   "kuni",
-   "mirziyoevaning",
-   "nomidan",
-   "noyabr",
-   "saida",
-   "tabriklaymiz",
-   "tugulgan"
-  ]
- },
- {
-  "prefiks": "negasoatuyqumuhimbuningsababiuyquningsoatlarida",
-  "sozlar": [
-   "ajralib",
-   "bilib",
-   "buning",
-   "chiqadi",
-   "gormonlar",
-   "korib",
-   "malumotni",
-   "muhim",
-   "nega",
-   "oling",
-   "qoyamiz",
-   "sababi",
-   "shifokordan",
-   "soat",
-   "soatlarida",
-   "toliq",
-   "uchun",
-   "uyqu",
-   "uyquning",
-   "videoni",
-   "yaqinlarga",
-   "yuborib"
-  ]
- },
- {
-  "prefiks": "abdulsayedaqshsenatigasaylanganmusulmonboldiaqshda",
-  "sozlar": [
-   "abdul",
-   "aqsh",
-   "aqshda",
-   "birinchi",
-   "boldi",
-   "demokrat",
-   "kirdi",
-   "lavozimga",
-   "mamlakat",
-   "michigan",
-   "musulmon",
-   "oraliq",
-   "otkazilgan",
-   "sayed",
-   "saylangan",
-   "saylanib",
-   "saylovlarda",
-   "senatga",
-   "senatiga",
-   "shtatidan",
-   "sifatida",
-   "tarixga",
-   "tarixida"
-  ]
- },
- {
   "prefiks": "ozbekhunarmandchiligirivojigahissangizniqoshinguzbekgiftcontest",
   "sozlar": [
    "amaliy",
@@ -13812,6 +13743,86 @@
    "ukraina",
    "zarbaga",
    "zarbalardan"
+  ]
+ },
+ {
+  "prefiks": "hurmatlierkaklarayolingizhomiladorlikpaytidakongligaqarangyaxshi",
+  "sozlar": [
+   "asabiylashib",
+   "ayolingiz",
+   "bolasida",
+   "boling",
+   "ekan",
+   "erkaklar",
+   "gapiring",
+   "gaplar",
+   "homiladorlik",
+   "hurmatli",
+   "kanaliga",
+   "kongliga",
+   "mana",
+   "nechta",
+   "nuqson",
+   "obuna",
+   "ogohlantirib",
+   "paytida",
+   "qarang",
+   "qoyamiz",
+   "sababli",
+   "stressda",
+   "tugiladigan",
+   "yaqinlarga",
+   "yaxshi",
+   "yuborib",
+   "yurgani"
+  ]
+ },
+ {
+  "prefiks": "lamborghinimingdollarliktemerariospydergiperkarinitaqdimetdi",
+  "sozlar": [
+   "bolib",
+   "chiqish",
+   "dollarlik",
+   "etdi",
+   "gibrid",
+   "giperkarini",
+   "imkoniyatini",
+   "kompaniyasi",
+   "kuch",
+   "kuchiga",
+   "lamborghini",
+   "ming",
+   "model",
+   "ochiq",
+   "qattiq",
+   "qoldi",
+   "qurilmasi",
+   "saqlab",
+   "soat",
+   "soniyada",
+   "spyder",
+   "superkarining",
+   "taqdim",
+   "temerario",
+   "tezlikka",
+   "tomga",
+   "usti",
+   "versiyasini",
+   "yangi",
+   "yigiladigan"
+  ]
+ },
+ {
+  "prefiks": "paxtakormetrosidayashirinbunkerbormiyaqinlargayuboribqoyamiz",
+  "sozlar": [
+   "bormi",
+   "bunker",
+   "metrosida",
+   "paxtakor",
+   "qoyamiz",
+   "yaqinlarga",
+   "yashirin",
+   "yuborib"
   ]
  }
 ]

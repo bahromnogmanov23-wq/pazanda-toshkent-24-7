@@ -1,30 +1,5 @@
 [
  {
-  "prefiks": "tojikistonprezidentiogligayangitoshkentloyihalarinamoyishetildi",
-  "sozlar": [
-   "bilan",
-   "dushanbe",
-   "etildi",
-   "imomali",
-   "keldi",
-   "loyihalari",
-   "meri",
-   "namoyish",
-   "ogli",
-   "ogliga",
-   "ozbekistonga",
-   "prezidenti",
-   "rahmonning",
-   "rasmiy",
-   "rustam",
-   "shahri",
-   "tashrif",
-   "tojikiston",
-   "toshkent",
-   "yangi"
-  ]
- },
- {
   "prefiks": "toshkentdagixonadondanafarchetellikdaniboratjinoiyguruh",
   "sozlar": [
    "bilan",
@@ -13810,6 +13785,17 @@
    "uyga",
    "yangi",
    "yashash"
+  ]
+ },
+ {
+  "prefiks": "uynieslaganlarbormiyaqinlargayuboribqoying",
+  "sozlar": [
+   "bormi",
+   "eslaganlar",
+   "qoying",
+   "uyni",
+   "yaqinlarga",
+   "yuborib"
   ]
  }
 ]

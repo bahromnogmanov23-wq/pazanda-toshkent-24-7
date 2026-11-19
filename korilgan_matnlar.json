@@ -1,47 +1,5 @@
 [
  {
-  "prefiks": "polshaboshvaziridonaldtuskkonstitutsiyaviyinqirozdarossiya",
-  "sozlar": [
-   "armiyani",
-   "aybladi",
-   "bilan",
-   "bolgani",
-   "bosh",
-   "botlar",
-   "chaqirdi",
-   "chegarada",
-   "chiroq",
-   "donald",
-   "etishga",
-   "inqirozda",
-   "kaliningrad",
-   "konstitutsiyaviy",
-   "odamlar",
-   "paydo",
-   "polsha",
-   "qolida",
-   "rossiya",
-   "sababli",
-   "safarbar",
-   "shuningdek",
-   "tarmogi",
-   "toliq",
-   "tusk",
-   "ushlagan",
-   "vaziri",
-   "viloyati"
-  ]
- },
- {
-  "prefiks": "kachoklarnimashinasinitosibqoyishibdi",
-  "sozlar": [
-   "kachoklarni",
-   "mashinasini",
-   "qoyishibdi",
-   "tosib"
-  ]
- },
- {
   "prefiks": "ozbekistondamingtasanoatkorxonasifaoliyatyuritmoqdamamlakatdagisanoat",
   "sozlar": [
    "chiqarishga",
@@ -13759,6 +13717,77 @@
    "vazifalaridan",
    "yetkazish",
    "yovvoyi"
+  ]
+ },
+ {
+  "prefiks": "toshkentshaharyhxbdaamalgaoshirilganorganishlaryakuniboyicha",
+  "sozlar": [
+   "amalga",
+   "bolib",
+   "boshqarmasi",
+   "boyicha",
+   "faoliyati",
+   "guruh",
+   "harakati",
+   "iborat",
+   "iibb",
+   "ishchi",
+   "jarayonlarini",
+   "masul",
+   "organilib",
+   "organishlar",
+   "oshirilgan",
+   "oshirish",
+   "otdi",
+   "samaradorligini",
+   "shahar",
+   "takomillashtirish",
+   "tomonidan",
+   "toshkent",
+   "xavfsizligi",
+   "xizmat",
+   "xizmati",
+   "xodimlari",
+   "xodimlaridan",
+   "yakuni",
+   "yanada",
+   "yhxbda",
+   "yigilish"
+  ]
+ },
+ {
+  "prefiks": "chirchiqdacobaltavtomobilidaryogatushibketdinoyabrkuni",
+  "sozlar": [
+   "avtomobili",
+   "bosh",
+   "boshqarmasiga",
+   "boshqaruvni",
+   "chirchiq",
+   "chirchiqda",
+   "cobalt",
+   "daryoga",
+   "daryosiga",
+   "favqulodda",
+   "haydovchi",
+   "hududidan",
+   "kelib",
+   "ketdi",
+   "kora",
+   "kuni",
+   "noyabr",
+   "oqib",
+   "otuvchi",
+   "saksonota",
+   "soat",
+   "toshkent",
+   "tumanidagi",
+   "tushgan",
+   "tushib",
+   "vaziyatlar",
+   "viloyati",
+   "xabarga",
+   "yoqotishi",
+   "yuqori"
   ]
  }
 ]

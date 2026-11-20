@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "bolganvoqeaarablardanbolganturmushgachiqmagannafsiningyoliga",
-  "sozlar": [
-   "arablardan",
-   "aytib",
-   "biriga",
-   "boldi",
-   "bolgan",
-   "bunga",
-   "chiqmagan",
-   "chorladi",
-   "erkak",
-   "erkaklardan",
-   "ishni",
-   "jinsiy",
-   "keyin",
-   "mana",
-   "nafsining",
-   "oziga",
-   "qilaylik",
-   "qilish",
-   "qoldi",
-   "rozi",
-   "tanish",
-   "turmushga",
-   "uchun",
-   "voqea",
-   "xaqida",
-   "xoxlab",
-   "yaqinlikni",
-   "yoliga",
-   "yotoqga",
-   "yurib",
-   "zino"
-  ]
- },
- {
   "prefiks": "xitoyeronsaudiyaarabistonibilanhurmuzbogozidaerkin",
   "sozlar": [
    "arabistoni",
@@ -13814,6 +13778,44 @@
    "tayyorlamoqda",
    "uchun",
    "yarog"
+  ]
+ },
+ {
+  "prefiks": "trampukrainaboyichazelenskiysizqarorqabulqilmaymanaqsh",
+  "sozlar": [
+   "aqsh",
+   "bilan",
+   "boyicha",
+   "donald",
+   "emasligi",
+   "fikriga",
+   "haqidagi",
+   "ishtirokisiz",
+   "jinping",
+   "kievning",
+   "mumkin",
+   "natijalarini",
+   "otkazilgan",
+   "prezidenti",
+   "putin",
+   "qabul",
+   "qaror",
+   "qarorlarni",
+   "qilish",
+   "qilmayman",
+   "qoshildi",
+   "shuningdek",
+   "tomonlama",
+   "tramp",
+   "uchrashuv",
+   "ukraina",
+   "ukrainadagi",
+   "urushga",
+   "vladimir",
+   "volodimir",
+   "xitoyda",
+   "zelenskiyning",
+   "zelenskiysiz"
   ]
  }
 ]

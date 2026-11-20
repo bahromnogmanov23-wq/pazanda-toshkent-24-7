@@ -1,30 +1,5 @@
 [
  {
-  "prefiks": "sogliqnisaqlashvazirligiqishdatarqaladigankoksakivirusidanogohlantirmoqda",
-  "sozlar": [
-   "atabekov",
-   "belgilari",
-   "epidemiologiya",
-   "kasallik",
-   "koksaki",
-   "nurmat",
-   "ogohlantirmoqda",
-   "qishda",
-   "qomitasi",
-   "sanitariya",
-   "saqlanish",
-   "saqlash",
-   "sogliqni",
-   "tarqaladigan",
-   "tushuntirdi",
-   "undan",
-   "vakili",
-   "vazirligi",
-   "virusidan",
-   "yollarini"
-  ]
- },
- {
   "prefiks": "zbekistonningistalganhududidanozonqandaydaromadolishmumkin",
   "sozlar": [
    "amaliy",
@@ -13807,6 +13782,22 @@
    "xizmatlaridan",
    "xohishlariga",
    "yoki"
+  ]
+ },
+ {
+  "prefiks": "alimentdanqarzdorqogozqutiichidantopildisutkamamuriy",
+  "sozlar": [
+   "alimentdan",
+   "hukm",
+   "ichidan",
+   "mamuriy",
+   "qamoqqa",
+   "qarzdor",
+   "qilindi",
+   "qogoz",
+   "quti",
+   "sutka",
+   "topildi"
   ]
  }
 ]

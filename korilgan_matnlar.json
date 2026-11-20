@@ -1,22 +1,5 @@
 [
  {
-  "prefiks": "dollarkursikotarildinoyabrkuniamalqiladiganaqsh",
-  "sozlar": [
-   "amal",
-   "aqsh",
-   "dollar",
-   "dollarining",
-   "hisoblanadi",
-   "kotarildi",
-   "kuni",
-   "kursi",
-   "noyabr",
-   "qiladigan",
-   "quyidagicha",
-   "rasmiy"
-  ]
- },
- {
   "prefiks": "bolganvoqeaarablardanbolganturmushgachiqmagannafsiningyoliga",
   "sozlar": [
    "arablardan",
@@ -13793,6 +13776,44 @@
    "tosiqlarni",
    "turkiya",
    "uchun"
+  ]
+ },
+ {
+  "prefiks": "germaniyapolsharossiyatahdidigaqarshimudofaanikuchaytiradigermaniya",
+  "sozlar": [
+   "2026",
+   "amalga",
+   "chiqarishni",
+   "germaniya",
+   "hamkorlikni",
+   "harakatlar",
+   "harbiy",
+   "imzolangan",
+   "ishlab",
+   "iyun",
+   "kelishuvini",
+   "kuchaytiradi",
+   "kuchaytirish",
+   "mamlakatlar",
+   "mudofaa",
+   "mudofaani",
+   "mudofaasini",
+   "natoning",
+   "niyatida",
+   "oshirish",
+   "oyida",
+   "polsha",
+   "qanoti",
+   "qarshi",
+   "qoshma",
+   "qurol",
+   "rejasini",
+   "rossiya",
+   "sharqiy",
+   "tahdidiga",
+   "tayyorlamoqda",
+   "uchun",
+   "yarog"
   ]
  }
 ]

@@ -1,42 +1,5 @@
 [
  {
-  "prefiks": "aqsheronyanaurushyoqasidamintaqadavaziyatkeskinlashmoqda",
-  "sozlar": [
-   "aqsh",
-   "berilishi",
-   "bilan",
-   "donald",
-   "dunyo",
-   "ehtimolini",
-   "eron",
-   "eronga",
-   "harbiy",
-   "hujumga",
-   "istisno",
-   "javob",
-   "keskin",
-   "keskinlashmoqda",
-   "kuchlar",
-   "mintaqada",
-   "paytda",
-   "qanday",
-   "qaytarish",
-   "qilmayapti",
-   "qilmoqda",
-   "tahdid",
-   "tehron",
-   "toplanayotgan",
-   "tramp",
-   "urush",
-   "vaziyat",
-   "yana",
-   "yangi",
-   "yirik",
-   "yoqasida",
-   "zarbalar"
-  ]
- },
- {
   "prefiks": "bilishmuhimendikameralarxavfsizlikkamarinitaqmaganlarnianiqlaydi",
   "sozlar": [
    "aniqlaydi",
@@ -13800,6 +13763,45 @@
    "yana",
    "yillarda",
    "zamonaviy"
+  ]
+ },
+ {
+  "prefiks": "toshkentviloyatidagibogchalardakasalliklaritarqaldimiparkenttumanidayoshli",
+  "sozlar": [
+   "alomatlari",
+   "ammo",
+   "aniqlanmagan",
+   "bilan",
+   "bogchaga",
+   "bogchalarda",
+   "bola",
+   "bolaga",
+   "borgan",
+   "farzandida",
+   "kasalligi",
+   "kasalliklari",
+   "katta",
+   "kiritilmagan",
+   "konyunktivit",
+   "korigidan",
+   "korikda",
+   "oilaning",
+   "otasi",
+   "otish",
+   "otkir",
+   "parkent",
+   "qoyilgan",
+   "shifokor",
+   "tarqaldimi",
+   "tashxisi",
+   "tibbiy",
+   "toshkent",
+   "tumanida",
+   "uchun",
+   "uning",
+   "viloyatidagi",
+   "yoshli",
+   "yuborilgan"
   ]
  }
 ]

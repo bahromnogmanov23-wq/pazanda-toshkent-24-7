@@ -1,40 +1,5 @@
 [
  {
-  "prefiks": "favquloddavaziyatlardaogirjarohatolganlargasomgachatolanishimumkin",
-  "sozlar": [
-   "asosida",
-   "aybdor",
-   "beriladi",
-   "favqulodda",
-   "hisobidan",
-   "hokimlarining",
-   "jarohat",
-   "kengashi",
-   "mablag",
-   "mansabdor",
-   "mumkin",
-   "ogir",
-   "olganlarga",
-   "qarorlari",
-   "qoraqalpogiston",
-   "raisi",
-   "shahri",
-   "shaxslar",
-   "shaxslari",
-   "somgacha",
-   "tolab",
-   "tolanishi",
-   "topilgan",
-   "toshkent",
-   "ularning",
-   "vazirlar",
-   "vaziyatlarda",
-   "viloyatlar",
-   "yoki",
-   "yuridik"
-  ]
- },
- {
   "prefiks": "boyliktasodifankelmaydiqashshoqlikrejatalabqilmaydidegan",
   "sozlar": [
    "ammo",
@@ -13761,6 +13726,46 @@
    "tanishlarga",
    "usta",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "turkiyaoziningmahalliykompaniyasitomonidanishlabchiqilganalpay",
+  "sozlar": [
+   "alpay",
+   "bolib",
+   "chiqilgan",
+   "dala",
+   "harakatlana",
+   "hududlarda",
+   "ishlab",
+   "kompaniyasi",
+   "mahalliy",
+   "maqsadida",
+   "minalangan",
+   "minalardan",
+   "moljallangan",
+   "ochish",
+   "ogirlikka",
+   "oldinga",
+   "ozining",
+   "piyoda",
+   "qoshinlarning",
+   "siljishini",
+   "sinovlarini",
+   "soat",
+   "taminlash",
+   "texnika",
+   "tezlikda",
+   "tizim",
+   "tizimining",
+   "tomonidan",
+   "tonna",
+   "tozalash",
+   "turkiya",
+   "uchun",
+   "ushbu",
+   "yakunladi",
+   "yolaklar"
   ]
  }
 ]

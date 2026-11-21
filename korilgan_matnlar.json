@@ -1,36 +1,5 @@
 [
  {
-  "prefiks": "qoshniqirgizistonningtoglihududlarigayogdiqirgizistondagidovonlaribilan",
-  "sozlar": [
-   "atrof",
-   "bilan",
-   "dovonlari",
-   "guruhlarga",
-   "havo",
-   "hududlarida",
-   "hududlariga",
-   "kelmoqda",
-   "kirdi",
-   "kirib",
-   "kutilmoqda",
-   "mamlakatimizning",
-   "oppoq",
-   "ozbekiston",
-   "qirgizistondagi",
-   "qirgizistonning",
-   "qoplanib",
-   "qoshni",
-   "qoying",
-   "sovuq",
-   "togli",
-   "tomon",
-   "tusga",
-   "ulashib",
-   "yogdi",
-   "yogishi"
-  ]
- },
- {
   "prefiks": "favquloddavaziyatlardaogirjarohatolganlargasomgachatolanishimumkin",
   "sozlar": [
    "asosida",
@@ -13780,6 +13749,18 @@
    "videoni",
    "xabar",
    "yangi"
+  ]
+ },
+ {
+  "prefiks": "cheteldaozimizdaustatanishlargayuboribqoyamiz",
+  "sozlar": [
+   "chet",
+   "elda",
+   "ozimizda",
+   "qoyamiz",
+   "tanishlarga",
+   "usta",
+   "yuborib"
   ]
  }
 ]

@@ -1,32 +1,5 @@
 [
  {
-  "prefiks": "qoshnimizqirgizistonbilanqoplandiqirgizistonperevalibilanqoplanibdi",
-  "sozlar": [
-   "bilan",
-   "bizda",
-   "burkangan",
-   "hamma",
-   "havo",
-   "hududlarda",
-   "kelmoqda",
-   "korsatilmaydigan",
-   "kutilmoqda",
-   "oppoq",
-   "ozbekiston",
-   "perevali",
-   "qirgiziston",
-   "qoplandi",
-   "qoplanibdi",
-   "qorga",
-   "qoshnimiz",
-   "sovuq",
-   "televizorda",
-   "togli",
-   "tomon",
-   "yogishi"
-  ]
- },
- {
   "prefiks": "ayolkishieriningpuliniishlatibmazaqiladishuning",
   "sozlar": [
    "ayol",
@@ -13750,6 +13723,35 @@
    "uchun",
    "videoda",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "haqiqatnibirovdanemasozidansoranghayotdahammanarsani",
+  "sozlar": [
+   "bilan",
+   "birovdan",
+   "dostlaringizdan",
+   "emas",
+   "gapiga",
+   "hamma",
+   "haqiqatni",
+   "hayotda",
+   "jahl",
+   "kirib",
+   "kuch",
+   "larning",
+   "mumkin",
+   "narsani",
+   "ochiq",
+   "ogirmang",
+   "ortadagi",
+   "ozidan",
+   "qilish",
+   "sorang",
+   "suhbat",
+   "tulki",
+   "yaqinlaringizdan",
+   "yoki"
   ]
  }
 ]

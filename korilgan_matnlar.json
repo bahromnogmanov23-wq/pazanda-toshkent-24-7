@@ -1,45 +1,5 @@
 [
  {
-  "prefiks": "dronlardanfoydalanishgacheklovlaryumshatilishimumkinprezidentmutasaddilargauchuvchisiz",
-  "sozlar": [
-   "asosida",
-   "aviatsiya",
-   "berdi",
-   "boyicha",
-   "buning",
-   "cheklovlar",
-   "chiqarishni",
-   "doir",
-   "dronlardan",
-   "etish",
-   "foydalanishga",
-   "iqtisodiyot",
-   "ishlab",
-   "joriy",
-   "keng",
-   "mahalliy",
-   "mumkin",
-   "mutasaddilarga",
-   "prezident",
-   "qonunchilikni",
-   "qulay",
-   "rivojlantirish",
-   "sharoit",
-   "tadbirkorlarga",
-   "tajriba",
-   "takliflar",
-   "takomillashtirishga",
-   "tarmoqlariga",
-   "tizimlarini",
-   "topshiriq",
-   "uchun",
-   "uchuvchisiz",
-   "xorijiy",
-   "yaratish",
-   "yumshatilishi"
-  ]
- },
- {
   "prefiks": "aqshdamusulmonayollarmuhimsiyosiylavozimlargasaylandiyoutube",
   "sozlar": [
    "aqshda",
@@ -13739,6 +13699,25 @@
    "xonadonlar",
    "xonadonlarning",
    "yangi"
+  ]
+ },
+ {
+  "prefiks": "chirchiqdafuqaroninguyidannoqonuniysaqlanganqurolpichoqlartopildi",
+  "sozlar": [
+   "berdi",
+   "chirchiqda",
+   "fuqaroning",
+   "haqda",
+   "ichki",
+   "ishlar",
+   "noqonuniy",
+   "pichoqlar",
+   "qurol",
+   "saqlangan",
+   "topildi",
+   "uyidan",
+   "vazirligi",
+   "xabar"
   ]
  }
 ]

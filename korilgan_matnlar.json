@@ -1,19 +1,5 @@
 [
  {
-  "prefiks": "jigarnitiklashuchunlavlagidandayaxshiroqnarsayaqinlaringizgayuborib",
-  "sozlar": [
-   "jigarni",
-   "lavlagidanda",
-   "narsa",
-   "qoying",
-   "tiklash",
-   "uchun",
-   "yaqinlaringizga",
-   "yaxshiroq",
-   "yuborib"
-  ]
- },
- {
   "prefiks": "trampyaqinsharqqahavokoprigikengaytirdiaynidamda",
   "sozlar": [
    "amalga",
@@ -13766,6 +13752,34 @@
    "yogingarchilik",
    "yogishi",
    "yomgir"
+  ]
+ },
+ {
+  "prefiks": "ertatongdahechqachontishingizniyuvmangshifokorlartishlarni",
+  "sozlar": [
+   "boling",
+   "erta",
+   "hech",
+   "kanaliga",
+   "keyin",
+   "korib",
+   "nonushtadan",
+   "obuna",
+   "oling",
+   "qachon",
+   "qilishmoqda",
+   "qoyamiz",
+   "sababini",
+   "shifokorlar",
+   "tavsiya",
+   "tishingizni",
+   "tishlarni",
+   "tongda",
+   "videoda",
+   "yaqinlarga",
+   "yuborib",
+   "yuvishni",
+   "yuvmang"
   ]
  }
 ]

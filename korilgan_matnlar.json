@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "boyliktasodifankelmaydiqashshoqlikrejatalabqilmaydidegan",
-  "sozlar": [
-   "ammo",
-   "boshqacha",
-   "boylik",
-   "daromadingizni",
-   "degan",
-   "degani",
-   "doimiy",
-   "etishmovchilik",
-   "hill",
-   "intizom",
-   "jamgaring",
-   "kamida",
-   "keladi",
-   "kelmaydi",
-   "kerak",
-   "ketadi",
-   "maqsad",
-   "napoleon",
-   "natijada",
-   "nazorat",
-   "qarzlar",
-   "qashshoqlik",
-   "qilmaydi",
-   "reja",
-   "shunchaki",
-   "talab",
-   "tasodifan",
-   "tomon",
-   "xarajatlaringizni",
-   "yashayvering",
-   "zanjiri"
-  ]
- },
- {
   "prefiks": "qoshnimizqirgizistonbilanqoplandiqirgizistonperevalibilanqoplanibdi",
   "sozlar": [
    "bilan",
@@ -13766,6 +13730,26 @@
    "ushbu",
    "yakunladi",
    "yolaklar"
+  ]
+ },
+ {
+  "prefiks": "bolangizniliderbolishinihohlaysizmibuninguchunnimalarqilish",
+  "sozlar": [
+   "batafsil",
+   "bolangizni",
+   "bolishini",
+   "buning",
+   "hohlaysizmi",
+   "kerak",
+   "koring",
+   "lider",
+   "nimalar",
+   "onalarga",
+   "qilish",
+   "qoying",
+   "uchun",
+   "videoda",
+   "yuborib"
   ]
  }
 ]

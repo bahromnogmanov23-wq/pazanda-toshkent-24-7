@@ -1,20 +1,5 @@
 [
  {
-  "prefiks": "baribirmuqaddassanmuqaddaserkakbugunnoyabrbutunjahonerkaklar",
-  "sozlar": [
-   "baribir",
-   "bugun",
-   "butunjahon",
-   "ekan",
-   "erkak",
-   "erkaklar",
-   "kuni",
-   "muqaddas",
-   "muqaddassan",
-   "noyabr"
-  ]
- },
- {
   "prefiks": "yaponiyadaodamlarkasallikkachalinmaslikuchunmanausulniqollashar",
   "sozlar": [
    "aytishar",
@@ -13761,6 +13746,25 @@
    "xonsyu",
    "yaponiyaning",
    "yogishi"
+  ]
+ },
+ {
+  "prefiks": "mashinaniprobeginiqaytaribsotganakalarbozordabilganidanqolmayapti",
+  "sozlar": [
+   "akalar",
+   "bilasiz",
+   "bilganidan",
+   "bozorda",
+   "ekan",
+   "kimga",
+   "mashinani",
+   "probegini",
+   "qaytarib",
+   "qolmayapti",
+   "sigirlarni",
+   "sotgan",
+   "yoshartirishmoqda",
+   "yuborishni"
   ]
  }
 ]

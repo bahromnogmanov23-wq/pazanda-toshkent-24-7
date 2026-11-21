@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "tanzilanorboyevarustamimomaliparlamentlararohamkorliknimuhokamaqildi",
-  "sozlar": [
-   "bilan",
-   "boshchiligidagi",
-   "buyurdi",
-   "delegatsiya",
-   "doirasida",
-   "hamkorligini",
-   "hamkorlikni",
-   "ikki",
-   "imomali",
-   "majlis",
-   "mamlakat",
-   "muhokama",
-   "norboyeva",
-   "oliy",
-   "otkazilib",
-   "ozbekistonga",
-   "palatasi",
-   "parlamenti",
-   "parlamentlararo",
-   "parlamentlari",
-   "qildi",
-   "raisi",
-   "rustam",
-   "senati",
-   "tanzila",
-   "tashrif",
-   "tojikiston",
-   "uchrashuv",
-   "yuqori"
-  ]
- },
- {
   "prefiks": "opangkuchaydiyaqinlargaulashing",
   "sozlar": [
    "kuchaydi",
@@ -13775,6 +13741,21 @@
    "bolishsin",
    "qilishibdi",
    "toyni"
+  ]
+ },
+ {
+  "prefiks": "xitoydagisammitdanqiziqarlikadrlartrampeskalatordatrampuning",
+  "sozlar": [
+   "boldi",
+   "eskalatorda",
+   "kadrlar",
+   "qiziqarli",
+   "qolidan",
+   "sammitdan",
+   "tramp",
+   "tutmoqchi",
+   "uning",
+   "xitoydagi"
   ]
  }
 ]

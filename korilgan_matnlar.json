@@ -1,14 +1,5 @@
 [
  {
-  "prefiks": "opangkuchaydiyaqinlargaulashing",
-  "sozlar": [
-   "kuchaydi",
-   "opang",
-   "ulashing",
-   "yaqinlarga"
-  ]
- },
- {
   "prefiks": "jigarnitiklashuchunlavlagidandayaxshiroqnarsayaqinlaringizgayuborib",
   "sozlar": [
    "jigarni",
@@ -13756,6 +13747,25 @@
    "tutmoqchi",
    "uning",
    "xitoydagi"
+  ]
+ },
+ {
+  "prefiks": "bugunozbekistonningayrimhududlaridayomgiryogishimumkintoshkent",
+  "sozlar": [
+   "ayrim",
+   "bugun",
+   "havo",
+   "hududlarida",
+   "kutilmaydi",
+   "mumkin",
+   "ozbekistonning",
+   "ozgarib",
+   "shahrida",
+   "toshkent",
+   "turadi",
+   "yogingarchilik",
+   "yogishi",
+   "yomgir"
   ]
  }
 ]

@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "issiqlikbolmagankunlaruchunhisoblanganmingxonadongamlrd",
-  "sozlar": [
-   "aholiga",
-   "ammo",
-   "berilmagan",
-   "bolmagan",
-   "hisob",
-   "hisoblangan",
-   "ishlamagan",
-   "issiqlik",
-   "kitob",
-   "kunlar",
-   "ming",
-   "mingta",
-   "mlrd",
-   "organishdan",
-   "otkazgan",
-   "qariyb",
-   "qarz",
-   "qashqadaryoda",
-   "qayta",
-   "qaytariladi",
-   "qilindi",
-   "qomitasi",
-   "qozonxonalar",
-   "raqobat",
-   "song",
-   "uchun",
-   "xonadonga",
-   "xonadonlarga",
-   "yetkazib"
-  ]
- },
- {
   "prefiks": "dronlardanfoydalanishgacheklovlaryumshatilishimumkinprezidentmutasaddilargauchuvchisiz",
   "sozlar": [
    "asosida",
@@ -13740,6 +13706,39 @@
    "holat",
    "komir",
    "savdosi"
+  ]
+ },
+ {
+  "prefiks": "gazlashtirilmaganhududlardagiaholiuchunelektrenergiyasiningbazaviymeyori",
+  "sozlar": [
+   "aholi",
+   "amal",
+   "bazaviy",
+   "bilan",
+   "elektr",
+   "energiyasining",
+   "gazlashtirilmagan",
+   "hisoblanadi",
+   "hududlardagi",
+   "kiritilgan",
+   "meyori",
+   "minlanmagan",
+   "noyabr",
+   "noyabrdan",
+   "oshirildi",
+   "oyidagi",
+   "oylik",
+   "qayta",
+   "qiladi",
+   "royxatga",
+   "soatga",
+   "tabiiy",
+   "tartib",
+   "tolovlari",
+   "uchun",
+   "xonadonlar",
+   "xonadonlarning",
+   "yangi"
   ]
  }
 ]

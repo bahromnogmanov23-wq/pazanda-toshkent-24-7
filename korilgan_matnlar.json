@@ -1,19 +1,5 @@
 [
  {
-  "prefiks": "aqshdamusulmonayollarmuhimsiyosiylavozimlargasaylandiyoutube",
-  "sozlar": [
-   "aqshda",
-   "ayollar",
-   "instagram",
-   "lavozimlarga",
-   "muhim",
-   "musulmon",
-   "saylandi",
-   "siyosiy",
-   "youtube"
-  ]
- },
- {
   "prefiks": "perevalgatumantushganiaytilmoqdatoshkentvodiyqatnaydiganyaqinlarga",
   "sozlar": [
    "aytilmoqda",
@@ -13718,6 +13704,39 @@
    "uyidan",
    "vazirligi",
    "xabar"
+  ]
+ },
+ {
+  "prefiks": "muddatliharbiyxizmatninamunaliotaganayrimaskarlaroliy",
+  "sozlar": [
+   "askarlar",
+   "ayrim",
+   "harbiy",
+   "idoralarga",
+   "kiritgan",
+   "masul",
+   "muassasalariga",
+   "muddatli",
+   "musobaqalari",
+   "namunali",
+   "olimpiadalarida",
+   "oliy",
+   "orasidan",
+   "orinni",
+   "otagan",
+   "qabul",
+   "qilinadi",
+   "qolga",
+   "respublika",
+   "sinovlarisiz",
+   "sport",
+   "talim",
+   "test",
+   "vazirlik",
+   "xalqaro",
+   "xizmatchilar",
+   "xizmatni",
+   "yoki"
   ]
  }
 ]

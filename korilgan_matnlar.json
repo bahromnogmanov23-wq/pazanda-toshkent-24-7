@@ -1,27 +1,5 @@
 [
  {
-  "prefiks": "ayolkishieriningpuliniishlatibmazaqiladishuning",
-  "sozlar": [
-   "ayol",
-   "ayolingizga",
-   "berib",
-   "erining",
-   "ishlatib",
-   "joylarga",
-   "kerakli",
-   "kishi",
-   "maza",
-   "pulini",
-   "pullar",
-   "qiladi",
-   "qoyamiz",
-   "shuning",
-   "turing",
-   "uchun",
-   "yuborib"
-  ]
- },
- {
   "prefiks": "issiqlikbolmagankunlaruchunhisoblanganmingxonadongamlrd",
   "sozlar": [
    "aholiga",
@@ -13752,6 +13730,16 @@
    "tulki",
    "yaqinlaringizdan",
    "yoki"
+  ]
+ },
+ {
+  "prefiks": "komirsavdosihaqidaachinarliholat",
+  "sozlar": [
+   "achinarli",
+   "haqida",
+   "holat",
+   "komir",
+   "savdosi"
   ]
  }
 ]

@@ -1,20 +1,5 @@
 [
  {
-  "prefiks": "uchtepatumanidabuguntongdaqavatliuydachaqnashsodir",
-  "sozlar": [
-   "aytilmoqda",
-   "bolgani",
-   "bugun",
-   "chaqnash",
-   "qavatli",
-   "sodir",
-   "tongda",
-   "tumanida",
-   "uchtepa",
-   "uyda"
-  ]
- },
- {
   "prefiks": "qoshnidavlatdanolibkirilgansomlikpirotexnikaqolgaolindi",
   "sozlar": [
    "bojxona",
@@ -13746,6 +13731,21 @@
    "usulidan",
    "yangi",
    "yaqinlaringiz"
+  ]
+ },
+ {
+  "prefiks": "tuzoqchatgptnegabepulbuningostidaayyorlikyotibdi",
+  "sozlar": [
+   "ayyorlik",
+   "bepul",
+   "buning",
+   "chatgpt",
+   "koramiz",
+   "nega",
+   "ostida",
+   "tuzoq",
+   "videoni",
+   "yotibdi"
   ]
  }
 ]

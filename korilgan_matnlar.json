@@ -1,28 +1,5 @@
 [
  {
-  "prefiks": "akademiyasimagistraturatalimitinglovchilaripoytaxtyhxbroyxatgaolish",
-  "sozlar": [
-   "akademiyasi",
-   "bilan",
-   "diagnostika",
-   "dolzarb",
-   "faoliyati",
-   "hayotiga",
-   "magistratura",
-   "markazi",
-   "olish",
-   "ozbekiston",
-   "poytaxt",
-   "royxatga",
-   "talimi",
-   "tanishdilar",
-   "tinglovchilari",
-   "toshkent",
-   "xabarlar",
-   "yhxb"
-  ]
- },
- {
   "prefiks": "akamizlaboolibminishdanpushaymonbolyaptilar",
   "sozlar": [
    "akamiz",
@@ -13744,6 +13721,22 @@
    "xodimi",
    "yutqazgan",
    "yutqazib"
+  ]
+ },
+ {
+  "prefiks": "maymunmuchalidatugilganinsonlaruchunqiziqarlimalumotlarmuchalda",
+  "sozlar": [
+   "insonlar",
+   "malumotlar",
+   "maymun",
+   "muchalda",
+   "muchalida",
+   "qiziqarli",
+   "qoyamiz",
+   "tanishlarga",
+   "tugilgan",
+   "uchun",
+   "yuborib"
   ]
  }
 ]

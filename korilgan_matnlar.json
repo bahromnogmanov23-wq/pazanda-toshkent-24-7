@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "bankkartangiznihechkimgabermangkartasinidostigaberib",
-  "sozlar": [
-   "bank",
-   "batafsil",
-   "berib",
-   "berish",
-   "bermang",
-   "bilib",
-   "birovga",
-   "boshqa",
-   "dostiga",
-   "hech",
-   "kartangizni",
-   "kartasini",
-   "kelishi",
-   "kimga",
-   "korib",
-   "mumkin",
-   "ogohlantirib",
-   "olib",
-   "oling",
-   "oqibatlarga",
-   "qamalibdi",
-   "qanday",
-   "qoying",
-   "sutkaga",
-   "turgani",
-   "uchun",
-   "videoni",
-   "yaqinlaringizga",
-   "yuborib"
-  ]
- },
- {
   "prefiks": "yangihayotningzimistonkochalariaholinoroziliklariavjigachiqditoshkent",
   "sozlar": [
    "aholi",
@@ -13758,6 +13724,44 @@
    "vayronalar",
    "voqea",
    "yana"
+  ]
+ },
+ {
+  "prefiks": "olimshifokorijodkormahallafaolizaldabundaykengash",
+  "sozlar": [
+   "bolmagan",
+   "bunday",
+   "delegat",
+   "erda",
+   "faoli",
+   "hali",
+   "hududlardan",
+   "ijodkor",
+   "jami",
+   "joylarda",
+   "keladi",
+   "kengash",
+   "kengashiga",
+   "kunlari",
+   "mahalla",
+   "mingga",
+   "muhokama",
+   "nafar",
+   "nafari",
+   "noyabr",
+   "olim",
+   "otadigan",
+   "ozbekistonda",
+   "qilinadi",
+   "saylangan",
+   "shifokor",
+   "shundan",
+   "taklif",
+   "toshkentda",
+   "yaqin",
+   "yigilgan",
+   "zalda",
+   "ziyolilar"
   ]
  }
 ]

@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "xalostoshkentdagiqavatlixonadonidachaqnashisodirbolditoshkent",
-  "sozlar": [
-   "aralashmasi",
-   "birida",
-   "boldi",
-   "bolgan",
-   "bosh",
-   "boshqarmasi",
-   "chaqnash",
-   "chaqnashi",
-   "favqulodda",
-   "havo",
-   "hodisa",
-   "jarohatlandi",
-   "kishi",
-   "kora",
-   "kuni",
-   "malumotiga",
-   "noyabr",
-   "oqibatida",
-   "qavatli",
-   "shahar",
-   "shahrida",
-   "soat",
-   "sodir",
-   "toshkent",
-   "toshkentdagi",
-   "tumanidagi",
-   "uchtepa",
-   "uylardan",
-   "vaziyatlar",
-   "xalos",
-   "xonadonida"
-  ]
- },
- {
   "prefiks": "uchtepatumanidabuguntongdaqavatliuydachaqnashsodir",
   "sozlar": [
    "aytilmoqda",
@@ -13765,6 +13729,23 @@
    "vaqt",
    "yarim",
    "yogi"
+  ]
+ },
+ {
+  "prefiks": "firibgarlarningyangiusulidanehtiyotbolinghushyorbolingaldanib",
+  "sozlar": [
+   "aldanib",
+   "boling",
+   "ehtiyot",
+   "firibgarlarning",
+   "hushyor",
+   "ogohlantirib",
+   "qolmang",
+   "qoying",
+   "tanishlaringizni",
+   "usulidan",
+   "yangi",
+   "yaqinlaringiz"
   ]
  }
 ]

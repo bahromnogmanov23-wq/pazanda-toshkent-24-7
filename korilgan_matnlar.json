@@ -1,31 +1,5 @@
 [
  {
-  "prefiks": "yaponiyadaodamlarkasalliklardansaqlanishuchunusuldanfoydalanisharekan",
-  "sozlar": [
-   "aytishlaricha",
-   "ekan",
-   "foydalanishar",
-   "foydali",
-   "hatto",
-   "himoya",
-   "kasalliklardan",
-   "koring",
-   "kuchli",
-   "odamlar",
-   "oxirigacha",
-   "qiladi",
-   "retsept",
-   "rostdan",
-   "saqlanish",
-   "shamollashdan",
-   "uchun",
-   "usuldan",
-   "usulmi",
-   "videoni",
-   "yaponiyada"
-  ]
- },
- {
   "prefiks": "xalostoshkentdagiqavatlixonadonidachaqnashisodirbolditoshkent",
   "sozlar": [
    "aralashmasi",
@@ -13752,6 +13726,45 @@
    "nomini",
    "qiladigan",
    "taksistlarni"
+  ]
+ },
+ {
+  "prefiks": "asabniasrashsanatijahlniyarimdaqiqadaqandayochirish",
+  "sozlar": [
+   "ammo",
+   "aniqlashgan",
+   "asabni",
+   "asrash",
+   "chiqadi",
+   "chiqib",
+   "chiqqanida",
+   "daqiqa",
+   "daqiqada",
+   "gazab",
+   "holatni",
+   "jahli",
+   "jahlni",
+   "ketar",
+   "ketishi",
+   "kuchli",
+   "moddalari",
+   "mumkin",
+   "ochirish",
+   "odam",
+   "olimlar",
+   "otilib",
+   "qanday",
+   "qiziq",
+   "qonga",
+   "sanati",
+   "soniya",
+   "tanadan",
+   "toliq",
+   "uchun",
+   "ularning",
+   "vaqt",
+   "yarim",
+   "yogi"
   ]
  }
 ]

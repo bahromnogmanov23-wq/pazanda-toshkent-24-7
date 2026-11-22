@@ -1,40 +1,5 @@
 [
  {
-  "prefiks": "portsgroupcapitalozbekistonnixalqarosavdologistikaxabiga",
-  "sozlar": [
-   "asosida",
-   "aylantirish",
-   "capital",
-   "eksport",
-   "etdi",
-   "group",
-   "hajmini",
-   "hamda",
-   "infratuzilmasi",
-   "kamaytirish",
-   "kengaytirish",
-   "korxona",
-   "logistika",
-   "maqsadida",
-   "ozbekistonni",
-   "platforma",
-   "ports",
-   "qaratilgan",
-   "qoshma",
-   "raqamli",
-   "reklama",
-   "rivojlantirishga",
-   "savdo",
-   "tashkil",
-   "transport",
-   "xabiga",
-   "xalqaro",
-   "xarajatlarini",
-   "yonalishlarini",
-   "zamonaviy"
-  ]
- },
- {
   "prefiks": "bankkartangiznihechkimgabermangkartasinidostigaberib",
   "sozlar": [
    "bank",
@@ -13769,6 +13734,30 @@
    "uzatdi",
    "vaziri",
    "videolavhani"
+  ]
+ },
+ {
+  "prefiks": "kievoblastidabeshqavatlivayronboldivoqeajoyidan",
+  "sozlar": [
+   "besh",
+   "boldi",
+   "ikki",
+   "jasadi",
+   "joyidan",
+   "kiev",
+   "kishi",
+   "kishining",
+   "oblastida",
+   "ostida",
+   "qavatli",
+   "qilinmoqda",
+   "qolgani",
+   "taxmin",
+   "topilgan",
+   "vayron",
+   "vayronalar",
+   "voqea",
+   "yana"
   ]
  }
 ]

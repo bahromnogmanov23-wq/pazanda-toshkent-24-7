@@ -1,35 +1,5 @@
 [
  {
-  "prefiks": "yangihayotningzimistonkochalariaholinoroziliklariavjigachiqditoshkent",
-  "sozlar": [
-   "aholi",
-   "avjiga",
-   "berk",
-   "chiqdi",
-   "chiroqlar",
-   "darxon",
-   "dolzarb",
-   "hayotiga",
-   "kochada",
-   "kochalari",
-   "koplab",
-   "mahallasidagi",
-   "noroziliklarga",
-   "noroziliklari",
-   "ozbekiston",
-   "shahar",
-   "tomonidan",
-   "toshkent",
-   "tumanining",
-   "xabarlar",
-   "yangi",
-   "yangihayot",
-   "yangihayotning",
-   "yoqligi",
-   "zimiston"
-  ]
- },
- {
   "prefiks": "krishtianuronalduportugaliyatermasidagifaoliyatinirasmanyakunladiportugaliya",
   "sozlar": [
    "bilan",
@@ -13762,6 +13732,25 @@
    "yigilgan",
    "zalda",
    "ziyolilar"
+  ]
+ },
+ {
+  "prefiks": "latviyalikyoshlitadbirkorsuniyintellektboshqaradiganqanotliraketalar",
+  "sozlar": [
+   "boshqaradigan",
+   "dollar",
+   "intellekt",
+   "investitsiya",
+   "latviyalik",
+   "ming",
+   "oldi",
+   "qanotli",
+   "raketalar",
+   "startapi",
+   "suniy",
+   "tadbirkor",
+   "uchun",
+   "yoshli"
   ]
  }
 ]

@@ -1,29 +1,5 @@
 [
  {
-  "prefiks": "ortavazngaotishimuchunozbekistondaqolibkunieyishim",
-  "sozlar": [
-   "eyishim",
-   "islam",
-   "kerak",
-   "kuni",
-   "maxachev",
-   "orta",
-   "otishim",
-   "ozbekistonda",
-   "qolib",
-   "uchun",
-   "vaznga"
-  ]
- },
- {
-  "prefiks": "pensionerlaruchunxushxabar",
-  "sozlar": [
-   "pensionerlar",
-   "uchun",
-   "xushxabar"
-  ]
- },
- {
   "prefiks": "zohranmamdanivitseprezidentvensnitanqidqildivitse",
   "sozlar": [
    "baho",
@@ -13810,6 +13786,63 @@
    "qildi",
    "vazirligi",
    "yangi"
+  ]
+ },
+ {
+  "prefiks": "qirgizistondagiyongindaikkiozbekistonlikhalokboldiqirgizistonningjalolobod",
+  "sozlar": [
+   "ahvolda",
+   "binosida",
+   "boldi",
+   "chiqqan",
+   "erda",
+   "etib",
+   "halok",
+   "ikki",
+   "ishlagan",
+   "jalolobod",
+   "kishi",
+   "natijada",
+   "ogir",
+   "ozbekistonlik",
+   "qirgizistondagi",
+   "qirgizistonning",
+   "qurilishi",
+   "restoran",
+   "shifoxonaga",
+   "tugallanmagan",
+   "vafot",
+   "viloyatida",
+   "yana",
+   "yongin",
+   "yonginda",
+   "yotqizilgan"
+  ]
+ },
+ {
+  "prefiks": "ozbekistondaqishornigakeldiminoyabrbolishigaqaramaytoshkentda",
+  "sozlar": [
+   "ammo",
+   "avtomobil",
+   "bilan",
+   "bolishiga",
+   "darajani",
+   "datchiklari",
+   "hali",
+   "havo",
+   "keldimi",
+   "kelishi",
+   "kerak",
+   "korinadi",
+   "korsatmoqda",
+   "noyabr",
+   "orniga",
+   "ozbekistonda",
+   "qaramay",
+   "qish",
+   "tashqarida",
+   "toshkentda",
+   "xayrlashmagan"
   ]
  }
 ]

@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "endifirmalarfaoliyatinivaqtinchatoxtatibturishimumkintadbirkorlik",
-  "sozlar": [
-   "1168",
-   "2026",
-   "arizasiga",
-   "asos",
-   "asosan",
-   "avgustdagi",
-   "boladi",
-   "endi",
-   "etishni",
-   "faoliyati",
-   "faoliyatini",
-   "firmalar",
-   "hisoblashni",
-   "hisobotlarini",
-   "mumkin",
-   "nisbatan",
-   "oziga",
-   "ozining",
-   "shuningdek",
-   "soliq",
-   "statistika",
-   "subekti",
-   "tadbirkorlik",
-   "taqdim",
-   "toxtatib",
-   "turilishi",
-   "turish",
-   "turishi",
-   "uchun",
-   "vaqtincha",
-   "xodimiga"
-  ]
- },
- {
   "prefiks": "pensiyagachiqqanlaruchunyangilikjamgaribboriladiganpulihaqida",
   "sozlar": [
    "bilasizmi",
@@ -13825,6 +13789,26 @@
    "ukrainlar",
    "zarba",
    "zelenskiy"
+  ]
+ },
+ {
+  "prefiks": "isroiljanubiylivangayangizarbalarberdilivanmanbalariga",
+  "sozlar": [
+   "artilleriyasi",
+   "atrofiga",
+   "barashit",
+   "berdi",
+   "bergan",
+   "isroil",
+   "janubiy",
+   "kora",
+   "livan",
+   "livandagi",
+   "livanga",
+   "manbalariga",
+   "qishlogi",
+   "yangi",
+   "zarbalar"
   ]
  }
 ]

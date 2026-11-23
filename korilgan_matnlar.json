@@ -1,23 +1,5 @@
 [
  {
-  "prefiks": "olishkunlariharoratdarajagachakotariladitoshkentdanoyabrdakechqurun",
-  "sozlar": [
-   "darajagacha",
-   "harorat",
-   "kechqurun",
-   "kotariladi",
-   "kunlari",
-   "kutilmaydi",
-   "mumkin",
-   "noyabrda",
-   "olish",
-   "toshkentda",
-   "yogingarchilik",
-   "yogishi",
-   "yomgir"
-  ]
- },
- {
   "prefiks": "fohishalargaboribogirkasallikyuqtiribolganerkakendi",
   "sozlar": [
    "asrang",
@@ -13806,6 +13788,39 @@
    "toshkentda",
    "usdt",
    "ushlandi"
+  ]
+ },
+ {
+  "prefiks": "birovlargabankomatdanechibberingplastikkartangizniaslobermang",
+  "sozlar": [
+   "aslo",
+   "bahonasida",
+   "bankomatda",
+   "bankomatdan",
+   "berayotgandek",
+   "bering",
+   "berish",
+   "bermang",
+   "bilib",
+   "birovlarga",
+   "bolishicha",
+   "echib",
+   "guruh",
+   "karta",
+   "kartangizni",
+   "kodini",
+   "korinib",
+   "malum",
+   "mijozlarga",
+   "ogirlagan",
+   "olgan",
+   "olindi",
+   "plastik",
+   "pullarni",
+   "qolga",
+   "ular",
+   "yashirin",
+   "yordam"
   ]
  }
 ]

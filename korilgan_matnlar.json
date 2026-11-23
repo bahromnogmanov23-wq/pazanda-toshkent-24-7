@@ -1,30 +1,5 @@
 [
  {
-  "prefiks": "zohranmamdanivitseprezidentvensnitanqidqildivitse",
-  "sozlar": [
-   "baho",
-   "berayotgandek",
-   "boshqa",
-   "erish",
-   "goyo",
-   "harakatlariga",
-   "hukumatning",
-   "juda",
-   "mamdani",
-   "menga",
-   "prezident",
-   "prezidentning",
-   "qildi",
-   "tanqid",
-   "tuyulmoqda",
-   "vensni",
-   "vitse",
-   "xatti",
-   "yozganlari",
-   "zohran"
-  ]
- },
- {
   "prefiks": "ozbekistondaqurilishkompaniyasishartnomalaridaxaridorlarhuquqlaribuzilayotganianiqlandi",
   "sozlar": [
    "aniqlandi",
@@ -13843,6 +13818,24 @@
    "tashqarida",
    "toshkentda",
    "xayrlashmagan"
+  ]
+ },
+ {
+  "prefiks": "mehribonimopamallohimgamingborashukursizdandoim",
+  "sozlar": [
+   "allohimga",
+   "bora",
+   "doim",
+   "huzur",
+   "konglingiz",
+   "mehribonim",
+   "ming",
+   "ogritsam",
+   "olganman",
+   "opam",
+   "ozimning",
+   "shukur",
+   "sizdan"
   ]
  }
 ]

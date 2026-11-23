@@ -1,45 +1,5 @@
 [
  {
-  "prefiks": "fohishalargaboribogirkasallikyuqtiribolganerkakendi",
-  "sozlar": [
-   "asrang",
-   "aylanmasin",
-   "aytishlaricha",
-   "borib",
-   "bunday",
-   "butun",
-   "chet",
-   "davo",
-   "davosini",
-   "ellik",
-   "endi",
-   "erkak",
-   "fohishalarga",
-   "hirs",
-   "kasalligiga",
-   "kasallik",
-   "lahzalik",
-   "ogir",
-   "ogohlantirib",
-   "olgan",
-   "olishmagan",
-   "ozingizni",
-   "pushaymonga",
-   "sarson",
-   "shifokorlar",
-   "topa",
-   "topolmay",
-   "umrlik",
-   "uning",
-   "uzoq",
-   "yaqinlarga",
-   "yoldan",
-   "yuborib",
-   "yuqtirib",
-   "yuring"
-  ]
- },
- {
   "prefiks": "diqqatqavatliuylaratrofidaginoqonuniyqurilmalarbartarafetiladi",
   "sozlar": [
    "atrofidagi",
@@ -13821,6 +13781,20 @@
    "ular",
    "yashirin",
    "yordam"
+  ]
+ },
+ {
+  "prefiks": "propangazitoldirilganballonlarnikimlarmingsomgaolishi",
+  "sozlar": [
+   "ballonlarni",
+   "gazi",
+   "kimlar",
+   "ming",
+   "mumkin",
+   "olishi",
+   "propan",
+   "somga",
+   "toldirilgan"
   ]
  }
 ]

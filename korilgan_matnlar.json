@@ -1,28 +1,5 @@
 [
  {
-  "prefiks": "uchtepatumanidachaqnashsodirboldibuningoqibatidakishi",
-  "sozlar": [
-   "amal",
-   "boldi",
-   "buning",
-   "chaqnash",
-   "hpvfsizligi",
-   "jarohatini",
-   "kishi",
-   "kuyish",
-   "mavsumida",
-   "oldi",
-   "oqibatida",
-   "qilaylik",
-   "qish",
-   "qoidalariga",
-   "sodir",
-   "tumanida",
-   "uchtepa",
-   "yongin"
-  ]
- },
- {
   "prefiks": "rementaqishesdanchiqmaslikuchunlayfhakhaydovchitanishlarga",
   "sozlar": [
    "chiqmaslik",
@@ -13779,6 +13756,42 @@
    "yana",
    "yangi",
    "yaxshi"
+  ]
+ },
+ {
+  "prefiks": "aqshdabittatizimdaginosozlikminglabaviareyslarnikechiktirdiaqshda",
+  "sozlar": [
+   "aqshda",
+   "arafasida",
+   "aviakompaniyasining",
+   "aviareyslarni",
+   "berdi",
+   "bitta",
+   "davrda",
+   "delta",
+   "hisoblash",
+   "kechikdi",
+   "kechiktirdi",
+   "kelgan",
+   "keskin",
+   "kopayadigan",
+   "kuni",
+   "mamlakatda",
+   "mingdan",
+   "minglab",
+   "muammo",
+   "nosozlik",
+   "ortiq",
+   "reys",
+   "safarlar",
+   "samolyotlar",
+   "shukronalik",
+   "texnik",
+   "tizimdagi",
+   "tizimida",
+   "tufayli",
+   "vaznini",
+   "yuzaga"
   ]
  }
 ]

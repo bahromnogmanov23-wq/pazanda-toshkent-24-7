@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "gazosektoridakuchliyomgirlargumanitarvaziyatniyanadaogirlashtirmoqda",
-  "sozlar": [
-   "aholisining",
-   "bosmoqda",
-   "chodirlarni",
-   "falastinliklar",
-   "gazo",
-   "gumanitar",
-   "holatlari",
-   "ijtimoiy",
-   "kasalliklar",
-   "kochirilgan",
-   "kopayishidan",
-   "kuchli",
-   "ogirlashtirmoqda",
-   "olim",
-   "oqibatida",
-   "sanitariya",
-   "sektorida",
-   "sharoitidagi",
-   "sharoitining",
-   "shifokorlar",
-   "tarmoqlarda",
-   "tarqalishi",
-   "toshqinlari",
-   "vaziyatni",
-   "xavotirda",
-   "yanada",
-   "yashayotgan",
-   "yomgir",
-   "yomgirlar",
-   "yomonlashishi",
-   "yuqumli"
-  ]
- },
- {
   "prefiks": "diqqatradaraeroportyolidankelaverishdaoyoqliradarornatilgan",
   "sozlar": [
    "aeroport",
@@ -13876,6 +13840,28 @@
    "ukrainadagi",
    "urushi",
    "yordamini"
+  ]
+ },
+ {
+  "prefiks": "sindorovdommarajugaqarshipartiyadurangbilantugaditoshkent",
+  "sozlar": [
+   "bahs",
+   "bilan",
+   "boshlangan",
+   "davom",
+   "dommarajuga",
+   "durang",
+   "etdi",
+   "partiya",
+   "qadar",
+   "qariyb",
+   "qarshi",
+   "sindorov",
+   "soat",
+   "tort",
+   "toshkent",
+   "tugadi",
+   "vaqti"
   ]
  }
 ]

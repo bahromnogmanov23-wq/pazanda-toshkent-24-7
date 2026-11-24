@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "qaynonaoglibilankelininixonasigayashirinkameraqoyibdi",
-  "sozlar": [
-   "bilan",
-   "boling",
-   "kamera",
-   "kanaliga",
-   "kelinini",
-   "obuna",
-   "ogli",
-   "qaynona",
-   "qoyibdi",
-   "xonasiga",
-   "yashirin"
-  ]
- },
- {
-  "prefiks": "telegramdayozishmalarnioqibbolganidankeyinavtomatochiribyuboradigan",
-  "sozlar": [
-   "avtomat",
-   "bolganidan",
-   "funktsiyani",
-   "ishlatishni",
-   "keyin",
-   "ochirib",
-   "oling",
-   "oqib",
-   "organib",
-   "qoying",
-   "telegramda",
-   "yaqinlaringizga",
-   "yozishmalarni",
-   "yuboradigan",
-   "yuborib"
-  ]
- },
- {
   "prefiks": "sochiuzunkelinqamaldinilufarhamidovasuddanima",
   "sozlar": [
    "aktrisa",
@@ -13807,6 +13771,82 @@
    "suhbatlar",
    "yuzdan",
    "yuzga"
+  ]
+ },
+ {
+  "prefiks": "ozgidrometgakorabugunnoyabrtoshkentsamarqandjizzaxsirdaryo",
+  "sozlar": [
+   "bolishi",
+   "bugun",
+   "chang",
+   "dispers",
+   "havoda",
+   "jizzax",
+   "joylarda",
+   "kabi",
+   "kora",
+   "kotarilishi",
+   "kuchayganda",
+   "kuchi",
+   "masalan",
+   "mayda",
+   "metrgachaetishi",
+   "mumkin",
+   "noyabr",
+   "ortishiga",
+   "ozgidrometga",
+   "poytaxt",
+   "sabab",
+   "samarqand",
+   "shaharda",
+   "shamol",
+   "sirdaryo",
+   "soniyasiga",
+   "tabiiy",
+   "toshkent",
+   "tozonlari",
+   "viloyatlarida",
+   "yirik",
+   "zarrachalari"
+  ]
+ },
+ {
+  "prefiks": "endiizlovchilargaoygachastajyorbolishhuquqiberilishimumkin",
+  "sozlar": [
+   "amaliy",
+   "berilishi",
+   "birinchi",
+   "bolgan",
+   "bolish",
+   "boshqa",
+   "boyicha",
+   "endi",
+   "etiladi",
+   "huquqi",
+   "izlovchilarga",
+   "joriy",
+   "konikma",
+   "kora",
+   "loyihasi",
+   "marta",
+   "mexanizmi",
+   "muddatda",
+   "muhokamaga",
+   "mumkin",
+   "orttirish",
+   "oygacha",
+   "qaror",
+   "qidirayotgan",
+   "qoyildi",
+   "shaxslar",
+   "shuningdek",
+   "sohada",
+   "stajyor",
+   "taklifga",
+   "tartibda",
+   "tolanmaydigan",
+   "uchun",
+   "yoki"
   ]
  }
 ]

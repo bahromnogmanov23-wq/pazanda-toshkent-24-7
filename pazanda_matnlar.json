@@ -5364,5 +5364,62 @@
    "yaqinlarizga",
    "yuboring"
   ]
+ },
+ {
+  "prefiks": "mazalishirintaomretseptikeraklimasalliqlarqizilbalgariski",
+  "sozlar": [
+   "balgariski",
+   "kartoshka",
+   "kashnich",
+   "kerakli",
+   "masalliqlar",
+   "mazali",
+   "pamidor",
+   "paprika",
+   "piyoz",
+   "qiyma",
+   "qizil",
+   "retsepti",
+   "saryog",
+   "shirin",
+   "taom",
+   "tomat",
+   "tuxum",
+   "yaqinlarizga",
+   "yuboring",
+   "zira"
+  ]
+ },
+ {
+  "prefiks": "turkchataomlarnishoximasalliqlargoshtgoshtipiyozpomidor",
+  "sozlar": [
+   "baqlajon",
+   "bulgori",
+   "chesnok",
+   "dona",
+   "dungan",
+   "garmdori",
+   "gosht",
+   "goshti",
+   "kartoshka",
+   "kora",
+   "masalliqlar",
+   "paprika",
+   "piyoz",
+   "pomidor",
+   "qizil",
+   "saryog",
+   "shoxi",
+   "tabga",
+   "tadan",
+   "taomlarni",
+   "tomat",
+   "turkcha",
+   "unversal",
+   "yaqinlarizga",
+   "yuboring",
+   "zira",
+   "ziravorlar"
+  ]
  }
 ]

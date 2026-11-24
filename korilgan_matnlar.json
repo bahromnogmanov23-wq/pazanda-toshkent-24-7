@@ -1,90 +1,5 @@
 [
  {
-  "prefiks": "pobegchiqibketganorikzorbozoriningkoreysxojayiniofisi",
-  "sozlar": [
-   "bozorining",
-   "chiqib",
-   "ekan",
-   "ketgan",
-   "koreys",
-   "ofisi",
-   "orikzor",
-   "pobeg",
-   "xojayini"
-  ]
- },
- {
-  "prefiks": "chorsubozorioldidaavtobusyonayotganligiaytilmoqda",
-  "sozlar": [
-   "avtobus",
-   "aytilmoqda",
-   "bozori",
-   "chorsu",
-   "oldida",
-   "yonayotganligi"
-  ]
- },
- {
-  "prefiks": "zapravkalargacheklovqoyilishimumkinenergetikavazirligiozgidrometmalumotiga",
-  "sozlar": [
-   "aholi",
-   "ayrim",
-   "boshqa",
-   "cheklov",
-   "darajagacha",
-   "energetika",
-   "harorati",
-   "havo",
-   "hududlarda",
-   "hududlarning",
-   "joylarida",
-   "kechasi",
-   "kora",
-   "kunlarda",
-   "kunlari",
-   "kutilmoqda",
-   "malumotiga",
-   "mumkin",
-   "noyabr",
-   "ozbekistonda",
-   "ozgidromet",
-   "pasayishi",
-   "qoyilishi",
-   "shimolda",
-   "shimoliy",
-   "sovuq",
-   "togli",
-   "vazirligi",
-   "yogishi",
-   "yomgir",
-   "zapravkalarga"
-  ]
- },
- {
-  "prefiks": "haftaichidadayjestiningnavbatdagisonibugunnoyabr",
-  "sozlar": [
-   "00da",
-   "axborot",
-   "bugun",
-   "dayjesti",
-   "hafta",
-   "ichida",
-   "kuni",
-   "mumkin",
-   "navbatdagi",
-   "ning",
-   "noyabr",
-   "qilishingiz",
-   "soat",
-   "soni",
-   "telekanalida",
-   "tomosha",
-   "uzreport",
-   "xizmati",
-   "yhxx"
-  ]
- },
- {
   "prefiks": "generalmayorgeneralleytenantqaysibirikattakanaliga",
   "sozlar": [
    "biri",
@@ -13947,6 +13862,106 @@
    "tutilmoqda",
    "umumiy",
    "yillik"
+  ]
+ },
+ {
+  "prefiks": "yangisidanyanabiznesgoya",
+  "sozlar": [
+   "biznes",
+   "goya",
+   "yana",
+   "yangisidan"
+  ]
+ },
+ {
+  "prefiks": "hovlidabolalarkulgisiyangrasinbugunyurtimizboylabqurilish",
+  "sozlar": [
+   "1018",
+   "aholi",
+   "allaqachon",
+   "barpo",
+   "bolalar",
+   "boylab",
+   "bugun",
+   "dastur",
+   "davlat",
+   "doirasida",
+   "etilmoqda",
+   "foydalanishiga",
+   "hovlida",
+   "hovlilari",
+   "kommunal",
+   "kulgisi",
+   "maqsadlar",
+   "maydoncha",
+   "maydonchalari",
+   "obodonlashtirilib",
+   "ortigi",
+   "qavatli",
+   "qurilish",
+   "qurilmoqda",
+   "sport",
+   "tomonidan",
+   "topshirildi",
+   "uchun",
+   "ularning",
+   "uylar",
+   "vazirligi",
+   "xojaligi",
+   "yangrasin",
+   "yurtimiz"
+  ]
+ },
+ {
+  "prefiks": "isroilgazodaxodiminioldirdihuangnvidiaqaytdidayjesti",
+  "sozlar": [
+   "agentligi",
+   "bilan",
+   "bmtning",
+   "dayjesti",
+   "direktorlar",
+   "falastin",
+   "gazoda",
+   "havo",
+   "huang",
+   "huangni",
+   "ilon",
+   "isroil",
+   "jensen",
+   "jumladan",
+   "kamida",
+   "kengashi",
+   "kishi",
+   "lavozimiga",
+   "maskning",
+   "nvidia",
+   "oldirdi",
+   "oldirildi",
+   "oqibatida",
+   "qaytardi",
+   "qaytdi",
+   "qochqinlariga",
+   "talabi",
+   "tramp",
+   "xodimi",
+   "xodimini",
+   "yordam",
+   "zarbalari"
+  ]
+ },
+ {
+  "prefiks": "dangasalaruchunmatematikadahisoblashusuliorganibolingkerak",
+  "sozlar": [
+   "bolib",
+   "dangasalar",
+   "hisoblash",
+   "kerak",
+   "matematikada",
+   "oling",
+   "organib",
+   "qoladi",
+   "uchun",
+   "usuli"
   ]
  }
 ]

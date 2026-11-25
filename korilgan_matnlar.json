@@ -1,26 +1,5 @@
 [
  {
-  "prefiks": "makkajoxorinurinitiklashuchunfoydalimahsulotbolibozida",
-  "sozlar": [
-   "bolib",
-   "boling",
-   "foydali",
-   "guruh",
-   "kanaliga",
-   "mahsulot",
-   "makkajoxori",
-   "nurini",
-   "obuna",
-   "ozida",
-   "tiklash",
-   "tutadi",
-   "uchun",
-   "ulashing",
-   "vitaminlarni",
-   "yaqinlarga"
-  ]
- },
- {
   "prefiks": "kongressmentomasmassixegsetganisbatanimpichmentelonqilish",
   "sozlar": [
    "aqsh",
@@ -13770,6 +13749,43 @@
    "tumani",
    "xodimlari",
    "yashirin"
+  ]
+ },
+ {
+  "prefiks": "shveytsariyadanqaytadiganyangixaridorlarigaqulaylikmahalliydayjestgulnora",
+  "sozlar": [
+   "barcha",
+   "bilan",
+   "bino",
+   "bogliq",
+   "davlat",
+   "dayjest",
+   "dollar",
+   "epidemiologik",
+   "gulnora",
+   "hujjati",
+   "inshootlar",
+   "joylashtiriladi",
+   "karimovaning",
+   "koksaki",
+   "mablaglaridan",
+   "mahalliy",
+   "mumkin",
+   "noqonuniy",
+   "ozbekistonga",
+   "ozlashtirgan",
+   "portaliga",
+   "qaytadigan",
+   "qaytariladi",
+   "qulaylik",
+   "qurilayotgan",
+   "qurilgan",
+   "shveytsariyadan",
+   "tanishishi",
+   "ular",
+   "virusi",
+   "xaridorlariga",
+   "yangi"
   ]
  }
 ]

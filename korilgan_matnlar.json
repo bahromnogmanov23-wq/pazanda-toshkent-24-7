@@ -1,27 +1,5 @@
 [
  {
-  "prefiks": "diqqatradaraeroportyolidankelaverishdaoyoqliradarornatilgan",
-  "sozlar": [
-   "aeroport",
-   "diqqat",
-   "guruhlarga",
-   "haydovchilardan",
-   "kelaverishda",
-   "ogohlantirib",
-   "ornatilgan",
-   "oyoqli",
-   "qilishni",
-   "qoying",
-   "radar",
-   "rioya",
-   "soraymiz",
-   "tezlikka",
-   "yaqinlaringiz",
-   "yolidan",
-   "yuborib"
-  ]
- },
- {
   "prefiks": "ammammeningsoziqadrliammammeningishonganimsuyukli",
   "sozlar": [
    "amma",
@@ -13862,6 +13840,37 @@
    "toshkent",
    "tugadi",
    "vaqti"
+  ]
+ },
+ {
+  "prefiks": "pentagonukrainagayaqinpatriotraketasiniberishnikechiktirmoqdaaqsh",
+  "sozlar": [
+   "aqsh",
+   "avvaldan",
+   "berish",
+   "berishni",
+   "chiqarishiga",
+   "chozilmoqda",
+   "hanuz",
+   "hegset",
+   "ishlab",
+   "kechiktirmoqda",
+   "kelishilgan",
+   "masalasi",
+   "mudofaa",
+   "mustaqil",
+   "patriot",
+   "pentagon",
+   "raketalarni",
+   "raketasini",
+   "ruxsat",
+   "tasdiqlamagan",
+   "ukrainaga",
+   "ukrainaning",
+   "ushbu",
+   "vaziri",
+   "yaqin",
+   "yetkazib"
   ]
  }
 ]

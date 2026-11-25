@@ -1,71 +1,5 @@
 [
  {
-  "prefiks": "qatareronbilanurushoqibatidaaqshdansotiboluvchi",
-  "sozlar": [
-   "aqshdan",
-   "aylanmoqda",
-   "bilan",
-   "bogozidagi",
-   "bolgan",
-   "dunyodagi",
-   "eksportchisi",
-   "eksportiga",
-   "endi",
-   "eron",
-   "hurmuz",
-   "ikkinchi",
-   "inqiroz",
-   "jiddiy",
-   "korsatdi",
-   "million",
-   "oluvchi",
-   "oqibatida",
-   "qatar",
-   "qatarning",
-   "sotib",
-   "suyultirilgan",
-   "tabiiy",
-   "tasir",
-   "tonna",
-   "urush",
-   "xaridorga",
-   "yiliga",
-   "yirik"
-  ]
- },
- {
-  "prefiks": "erondamilliyvalyutaqadrsizlanibpullarchiqindigatashlanmoqdaijtimoiy",
-  "sozlar": [
-   "aholining",
-   "banknotlari",
-   "chiqindi",
-   "chiqindiga",
-   "davomida",
-   "eron",
-   "eronda",
-   "etkazmoqda",
-   "ijtimoiy",
-   "jamgarmalari",
-   "jiddiy",
-   "milliy",
-   "pullar",
-   "qadrsizlanib",
-   "qadrsizlanishi",
-   "qobiliyatiga",
-   "qutilariga",
-   "tarmoqlarda",
-   "tarqaldi",
-   "tashlangan",
-   "tashlanmoqda",
-   "toplagan",
-   "valyuta",
-   "videolar",
-   "xarid",
-   "yillar",
-   "zarar"
-  ]
- },
- {
   "prefiks": "makkajoxorinurinitiklashuchunfoydalimahsulotbolibozida",
   "sozlar": [
    "bolib",
@@ -13793,6 +13727,49 @@
    "tuzli",
    "vanna",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "zaryadkarozetkagaulabqoysangizelektrtokiketadimiyaqinlarga",
+  "sozlar": [
+   "elektr",
+   "ketadimi",
+   "qoyamiz",
+   "qoysangiz",
+   "rozetkaga",
+   "toki",
+   "ulab",
+   "yaqinlarga",
+   "yuborib",
+   "zaryadka"
+  ]
+ },
+ {
+  "prefiks": "shahrisabzdagiyashirintsexningfaoliyatioshkorboldiboshprokuratura",
+  "sozlar": [
+   "boldi",
+   "bolimi",
+   "bosh",
+   "boshqa",
+   "departamentning",
+   "faoliyati",
+   "hamkorligida",
+   "huquqni",
+   "huzuridagi",
+   "muhofaza",
+   "organ",
+   "oshkor",
+   "otkazildi",
+   "prokuratura",
+   "qiluvchi",
+   "shahrisabz",
+   "shahrisabzdagi",
+   "tadbir",
+   "tezkor",
+   "tsexning",
+   "tumani",
+   "xodimlari",
+   "yashirin"
   ]
  }
 ]

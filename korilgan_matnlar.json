@@ -1,40 +1,5 @@
 [
  {
-  "prefiks": "ammammeningsoziqadrliammammeningishonganimsuyukli",
-  "sozlar": [
-   "amma",
-   "ammam",
-   "dunyodagi",
-   "gozal",
-   "ishonganim",
-   "koraman",
-   "mening",
-   "qadrli",
-   "sizni",
-   "sozi",
-   "suyukli",
-   "yaxshi"
-  ]
- },
- {
-  "prefiks": "meyoridanortiqtozalikzararliekanyakshanbakungiuborkadan",
-  "sozlar": [
-   "ekan",
-   "emas",
-   "kungi",
-   "meyoridan",
-   "ortiq",
-   "qutqardik",
-   "rahmat",
-   "shart",
-   "sizni",
-   "tozalik",
-   "uborkadan",
-   "yakshanba",
-   "zararli"
-  ]
- },
- {
   "prefiks": "hukumattuzilishigatosqinlikqilganlartarixdaisroilniinqirozdanqutqara",
   "sozlar": [
    "ayzenkot",
@@ -13871,6 +13836,44 @@
    "vaziri",
    "yaqin",
    "yetkazib"
+  ]
+ },
+ {
+  "prefiks": "farzandoyliginingonasigabersaishlariyanadayurishibbolib",
+  "sozlar": [
+   "bersa",
+   "bolib",
+   "ekan",
+   "farzand",
+   "farzandlaringizga",
+   "ishlari",
+   "ketar",
+   "onasiga",
+   "oyligining",
+   "qoying",
+   "yanada",
+   "yuborib",
+   "yurishib"
+  ]
+ },
+ {
+  "prefiks": "zelenskiylukashenkogajavobqaytardilukashenkoputinniolibkievga",
+  "sozlar": [
+   "javob",
+   "kafolatlaymiz",
+   "kelsin",
+   "kievga",
+   "kutib",
+   "lukashenko",
+   "lukashenkoga",
+   "olib",
+   "olishni",
+   "putinni",
+   "qaytardi",
+   "uchib",
+   "ularni",
+   "xavfsiz",
+   "zelenskiy"
   ]
  }
 ]

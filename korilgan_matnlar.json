@@ -1,90 +1,5 @@
 [
  {
-  "prefiks": "nilufarhamidovagatayinlangansutkalikmamuriyqamoqjazosiozgarishsiz",
-  "sozlar": [
-   "1978",
-   "bloger",
-   "boyicha",
-   "chiqilgan",
-   "hamidovaga",
-   "huquqbuzarlik",
-   "ijtimoiy",
-   "ishi",
-   "ishlari",
-   "jazosi",
-   "jinoyat",
-   "keng",
-   "kora",
-   "korib",
-   "kuni",
-   "mamuriy",
-   "muhokama",
-   "nilufar",
-   "nisbatan",
-   "noyabr",
-   "ozgarishsiz",
-   "qamoq",
-   "qaroriga",
-   "qilingan",
-   "qoldirildi",
-   "sudida",
-   "sutkalik",
-   "tarmoqlarda",
-   "tayinlangan",
-   "tuman",
-   "yilda",
-   "yunusobod"
-  ]
- },
- {
-  "prefiks": "yosharishniistasangizushbumaxsulotlarniratsioningizdanchiqaribtashlangyaqinlarga",
-  "sozlar": [
-   "boling",
-   "chiqarib",
-   "istasangiz",
-   "kanaliga",
-   "maxsulotlarni",
-   "obuna",
-   "qoyamiz",
-   "ratsioningizdan",
-   "tashlang",
-   "ushbu",
-   "yaqinlarga",
-   "yosharishni",
-   "yuborib"
-  ]
- },
- {
-  "prefiks": "sebzorchorraxasidasvetaforishlamayaptivaziyatninazoratgaolishlarisoraladi",
-  "sozlar": [
-   "bizga",
-   "chorraxasida",
-   "ishlamayapti",
-   "kanal",
-   "katta",
-   "nazoratga",
-   "olishlari",
-   "qoshiling",
-   "sebzor",
-   "soraladi",
-   "svetafor",
-   "toshkentdagi",
-   "vaziyatni"
-  ]
- },
- {
-  "prefiks": "hindistonaholisisonisoniyadaqanchalikkopayishigaqarang",
-  "sozlar": [
-   "aholisi",
-   "hindiston",
-   "kopayishiga",
-   "qanchalik",
-   "qarang",
-   "soni",
-   "soniyada"
-  ]
- },
- {
   "prefiks": "amirsoydachangisezoniboshlanganixabarqilinmoqdayaqinlargatashab",
   "sozlar": [
    "amirsoyda",
@@ -13771,6 +13686,106 @@
    "qoyamiz",
    "shuncha",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "yanadollarolinmoqdaozbekistonhukumatidavlatbyudjetiniqollab",
+  "sozlar": [
+   "aytilmoqda",
+   "bankidan",
+   "bolish",
+   "byudjetini",
+   "davlat",
+   "dollar",
+   "energetika",
+   "hamda",
+   "hukumati",
+   "iqtisodiyotni",
+   "jadallashtirishga",
+   "jahon",
+   "jalb",
+   "jarayonini",
+   "mablaglar",
+   "mamlakatning",
+   "olinmoqda",
+   "orni",
+   "ozbekiston",
+   "qilmoqda",
+   "qollab",
+   "quvvatlashga",
+   "rivojlantirish",
+   "savdo",
+   "tashkilotiga",
+   "yana",
+   "yaratish",
+   "yashil",
+   "yonaltirilishi"
+  ]
+ },
+ {
+  "prefiks": "dekabrdanpensiyaningboshqaturigaotishuchunonlaynariza",
+  "sozlar": [
+   "ariza",
+   "boshqa",
+   "dekabrdan",
+   "dolzarb",
+   "hayotiga",
+   "mumkin",
+   "onlayn",
+   "otish",
+   "ozbekiston",
+   "pensiyaning",
+   "toshkent",
+   "turiga",
+   "uchun",
+   "xabarlar",
+   "yuborish"
+  ]
+ },
+ {
+  "prefiks": "shomurodovninggoliturkiyachempionatidaturningchiroyligolitopildi",
+  "sozlar": [
+   "bilan",
+   "bormoqda",
+   "chempionatida",
+   "chiroyli",
+   "goli",
+   "hujumchi",
+   "orinda",
+   "ozbekistonlik",
+   "poygasida",
+   "shomurodovning",
+   "topildi",
+   "topurarlar",
+   "turkiya",
+   "turning",
+   "uchinchi"
+  ]
+ },
+ {
+  "prefiks": "prezidentmaktubiyoshavlodgamehrmarifatsabogitoshkent",
+  "sozlar": [
+   "avlodga",
+   "etdilar",
+   "etibor",
+   "gamxorlikni",
+   "korsatilayotgan",
+   "maktab",
+   "maktubdagi",
+   "maktubi",
+   "marifat",
+   "mehr",
+   "olmazor",
+   "oquvchilari",
+   "orqali",
+   "prezident",
+   "sabogi",
+   "samimiy",
+   "satrlar",
+   "shahri",
+   "toshkent",
+   "tumanidagi",
+   "yosh"
   ]
  }
 ]

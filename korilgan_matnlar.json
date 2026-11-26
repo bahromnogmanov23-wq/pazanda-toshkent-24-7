@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "amirsoydachangisezoniboshlanganixabarqilinmoqdayaqinlargatashab",
-  "sozlar": [
-   "amirsoyda",
-   "boshlangani",
-   "changi",
-   "qilinmoqda",
-   "qoyamiz",
-   "sezoni",
-   "tashab",
-   "xabar",
-   "yaqinlarga"
-  ]
- },
- {
-  "prefiks": "sergeliyollarimegaprobkayaqinlargatashabqoyamiz",
-  "sozlar": [
-   "mega",
-   "probka",
-   "qoyamiz",
-   "sergeli",
-   "tashab",
-   "yaqinlarga",
-   "yollari"
-  ]
- },
- {
-  "prefiks": "firibgarlardarajagachachiqishmoqda",
-  "sozlar": [
-   "chiqishmoqda",
-   "darajagacha",
-   "firibgarlar"
-  ]
- },
- {
   "prefiks": "2027yildanboshlabyoshlibolalarniyillikmajburiymaktabga",
   "sozlar": [
    "2027",
@@ -13786,6 +13752,92 @@
    "toshkent",
    "tumanidagi",
    "yosh"
+  ]
+ },
+ {
+  "prefiks": "avtomobilingizshinasigaqarabqoyingagarvideodaaytilgandekqoyilmagan",
+  "sozlar": [
+   "agar",
+   "avtomobilingiz",
+   "aytilgandek",
+   "bolsa",
+   "borlarga",
+   "edirilib",
+   "kamayib",
+   "ketadi",
+   "mashinasi",
+   "probeg",
+   "qarab",
+   "qoyilmagan",
+   "qoying",
+   "shinasiga",
+   "videoda",
+   "videoni",
+   "yuboring"
+  ]
+ },
+ {
+  "prefiks": "tolibonyaqinvaqtichidaamudaryodanboshlashinimalumqildi",
+  "sozlar": [
+   "afgoniston",
+   "amudaryodan",
+   "axborot",
+   "bayonoti",
+   "boshlanadi",
+   "boshlashini",
+   "deya",
+   "foizga",
+   "haftadagi",
+   "hamroevning",
+   "ichida",
+   "kanalga",
+   "kanali",
+   "korporatsiyasi",
+   "malum",
+   "milliy",
+   "oqizish",
+   "orada",
+   "otgan",
+   "ozbekiston",
+   "qildi",
+   "qoshtepa",
+   "qurilishi",
+   "shavkat",
+   "taraqqiyot",
+   "tolibon",
+   "vaqt",
+   "vaziri",
+   "xojaligi",
+   "yakunlandi",
+   "yaqin"
+  ]
+ },
+ {
+  "prefiks": "mahallaraisiporabilanqolgatushdizangiotatumanidagi",
+  "sozlar": [
+   "aqsh",
+   "bilan",
+   "birining",
+   "dollari",
+   "fuqaroni",
+   "ishga",
+   "joylashtirish",
+   "mahalla",
+   "mahallalardan",
+   "markaziga",
+   "olayotganda",
+   "pora",
+   "qolga",
+   "raisi",
+   "respublika",
+   "shoshilinch",
+   "tibbiy",
+   "tumanidagi",
+   "tushdi",
+   "uchun",
+   "ushlandi",
+   "yordam",
+   "zangiota"
   ]
  }
 ]

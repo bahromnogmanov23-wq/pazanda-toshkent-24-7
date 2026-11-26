@@ -1,12 +1,4 @@
 [
- "tg:poytaxt_uz/54107",
- "tg:poytaxt_uz/54108",
- "tg:poytaxt_uz/54109",
- "tg:poytaxt_uz/54110",
- "tg:poytaxt_uz/54115",
- "tg:poytaxt_uz/54121",
- "tg:poytaxt_uz/54122",
- "tg:poytaxt_uz/54123",
  "tg:poytaxt_uz/54133",
  "tg:poytaxt_uz/54134",
  "tg:poytaxt_uz/54141",
@@ -264,6 +256,7 @@
  "tg:poytaxt_uz/54760",
  "tg:poytaxt_uz/54761",
  "tg:poytaxt_uz/54762",
+ "tg:poytaxt_uz/54763",
  "tg:qoraxabar/176539",
  "tg:qoraxabar/176540",
  "tg:qoraxabar/176541",
@@ -1506,6 +1499,10 @@
  "tg:qoraxabar/178054",
  "tg:qoraxabar/178058",
  "tg:qoraxabar/178059",
+ "tg:qoraxabar/178060",
+ "tg:qoraxabar/178061",
+ "tg:qoraxabar/178062",
+ "tg:qoraxabar/178063",
  "tg:toshkentliklar/55707",
  "tg:toshkentliklar/55708",
  "tg:toshkentliklar/55709",
@@ -2498,5 +2495,8 @@
  "tg:xabaruzofficial/116924",
  "tg:xabaruzofficial/116925",
  "tg:xabaruzofficial/116926",
- "tg:xabaruzofficial/116927"
+ "tg:xabaruzofficial/116927",
+ "tg:xabaruzofficial/116928",
+ "tg:xabaruzofficial/116929",
+ "tg:xabaruzofficial/116930"
 ]

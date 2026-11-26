@@ -1,24 +1,5 @@
 [
  {
-  "prefiks": "zafarobodtumanidapiyodalarvelosipedchilaruchunalohidayolaklartashkil",
-  "sozlar": [
-   "alohida",
-   "dolzarb",
-   "etilmoqda",
-   "hayotiga",
-   "ozbekiston",
-   "piyodalar",
-   "tashkil",
-   "toshkent",
-   "tumanida",
-   "uchun",
-   "velosipedchilar",
-   "xabarlar",
-   "yolaklar",
-   "zafarobod"
-  ]
- },
- {
   "prefiks": "olmaliqdayoshliktillakonidabelazagdarilibketganligiaytilmoqda",
   "sozlar": [
    "agdarilib",
@@ -13813,6 +13794,30 @@
    "toshkentdan",
    "uchgan",
    "zarralar"
+  ]
+ },
+ {
+  "prefiks": "vodiytoshkentyonalishidaayanchliavariyabolganiinsonvafot",
+  "sozlar": [
+   "avariya",
+   "ayanchli",
+   "bolgani",
+   "bolinglar",
+   "chiqqanlar",
+   "etgani",
+   "inson",
+   "qilinmoqda",
+   "qoyamiz",
+   "sari",
+   "toshkent",
+   "vafot",
+   "vodiy",
+   "xabar",
+   "xushyor",
+   "yaqinlarga",
+   "yolga",
+   "yonalishida",
+   "yuborib"
   ]
  }
 ]

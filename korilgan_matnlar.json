@@ -1,29 +1,5 @@
 [
  {
-  "prefiks": "xitoyliklarningozlarihayronsababidollargaoldimdesaularning",
-  "sozlar": [
-   "arzon",
-   "barobar",
-   "chunki",
-   "desa",
-   "dollarga",
-   "ekan",
-   "hayron",
-   "ikki",
-   "mashina",
-   "ochilib",
-   "ogzi",
-   "oldim",
-   "ozlari",
-   "qariyb",
-   "qolyapti",
-   "sababi",
-   "ularning",
-   "xitoyda",
-   "xitoyliklarning"
-  ]
- },
- {
   "prefiks": "elektrminotinitiklashyichatezkorishlarolibborilmoqda",
   "sozlar": [
    "avval",
@@ -13734,6 +13710,43 @@
    "xizmat",
    "xodimlari",
    "yoqalarida"
+  ]
+ },
+ {
+  "prefiks": "sakkizmillisoniyalikkechikishdiqqatniboshqaraqamgaburdixitoyda",
+  "sozlar": [
+   "aytgan",
+   "boshqa",
+   "boshqarishning",
+   "burdi",
+   "diqqatni",
+   "ekrandagi",
+   "elektr",
+   "faolligini",
+   "ikki",
+   "ishtirokchilar",
+   "javobga",
+   "kechikish",
+   "keyingi",
+   "kulrang",
+   "kuzatgan",
+   "millisoniyalik",
+   "miyaning",
+   "olimlar",
+   "orniga",
+   "otkazilgan",
+   "qoshib",
+   "rangli",
+   "raqam",
+   "raqamga",
+   "raqamni",
+   "sakkiz",
+   "tajribada",
+   "togri",
+   "undan",
+   "xato",
+   "xitoyda",
+   "yuborgan"
   ]
  }
 ]

@@ -1,39 +1,5 @@
 [
  {
-  "prefiks": "shayxontohurdayoshogrilarqolgaolindishayxontohurtumanidatunda",
-  "sozlar": [
-   "avtomashinadan",
-   "borilmoqda",
-   "chet",
-   "fuqarosiga",
-   "harakatlari",
-   "holat",
-   "ichki",
-   "ishlar",
-   "mablaglarini",
-   "ogirlagan",
-   "ogrilar",
-   "olib",
-   "olindi",
-   "organlari",
-   "qolga",
-   "ravishda",
-   "shayxontohur",
-   "shayxontohurda",
-   "tartibda",
-   "tegishli",
-   "tergov",
-   "tomonidan",
-   "tumanida",
-   "tunda",
-   "xodimlari",
-   "yashirin",
-   "yosh",
-   "yoshlar",
-   "yuzasidan"
-  ]
- },
- {
   "prefiks": "xitoyliklarningozlarihayronsababidollargaoldimdesaularning",
   "sozlar": [
    "arzon",
@@ -13745,6 +13711,29 @@
    "urilgan",
    "yoldan",
    "yongin"
+  ]
+ },
+ {
+  "prefiks": "maktablaroldidaharakatxavfsizligitaminlanmoqdaertatongdanxodimlari",
+  "sozlar": [
+   "borib",
+   "boshqa",
+   "erta",
+   "harakat",
+   "joylashgan",
+   "maktablar",
+   "oldida",
+   "olib",
+   "oquvchilar",
+   "piyodalarning",
+   "taminlamoqda",
+   "taminlanmoqda",
+   "tongdan",
+   "xavfsizligi",
+   "xavfsizligini",
+   "xizmat",
+   "xodimlari",
+   "yoqalarida"
   ]
  }
 ]

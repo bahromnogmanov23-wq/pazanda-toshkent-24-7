@@ -1,70 +1,5 @@
 [
  {
-  "prefiks": "izohlardakimdirbuniodatdesakopchilikhayvonlarbunchalik",
-  "sozlar": [
-   "bildirmoqda",
-   "boladimi",
-   "bunchalik",
-   "buni",
-   "desa",
-   "deya",
-   "fikr",
-   "guruhlarga",
-   "hayvonlar",
-   "insonning",
-   "ishni",
-   "izohlarda",
-   "joralari",
-   "kelinning",
-   "kimdir",
-   "kopchilik",
-   "koring",
-   "kuyovning",
-   "nafsi",
-   "odat",
-   "qilgan",
-   "qilmaydi",
-   "qoyamiz",
-   "shunchalik",
-   "tarqatib",
-   "uyida"
-  ]
- },
- {
-  "prefiks": "bolalardavolansinmiyokishifoxonanitozalasinmibolalarombudsmanidanizoh",
-  "sozlar": [
-   "aytishlaricha",
-   "bolalar",
-   "bolgan",
-   "davolansinmi",
-   "holat",
-   "izoh",
-   "kutib",
-   "ombudsmanidan",
-   "qibrayda",
-   "qolamiz",
-   "shifoxonani",
-   "sodir",
-   "tozalasinmi",
-   "ushbu",
-   "yoki"
-  ]
- },
- {
-  "prefiks": "sharmandatoydagiayrimodamlarniqilayotganqiliqlarinikoribhijolat",
-  "sozlar": [
-   "ayrim",
-   "bolasan",
-   "hijolat",
-   "korib",
-   "odamlarni",
-   "qilayotgan",
-   "qiliqlarini",
-   "sharmanda",
-   "toydagi"
-  ]
- },
- {
   "prefiks": "olmaotadadollaryomgiribugunertalabolmaotadagiatlantturarjoy",
   "sozlar": [
    "ammo",
@@ -13842,6 +13777,82 @@
    "yakka",
    "yoshga",
    "yoshgacha"
+  ]
+ },
+ {
+  "prefiks": "ozbekistondatumanshahardagikamidabittamaktabdavoleybolklubi",
+  "sozlar": [
+   "2030",
+   "beshta",
+   "bilan",
+   "bitta",
+   "boyicha",
+   "etakchi",
+   "etiladi",
+   "etkazish",
+   "hamda",
+   "kamida",
+   "kiritish",
+   "klubi",
+   "maktabda",
+   "mamlakati",
+   "maqsad",
+   "nafarga",
+   "osiyoning",
+   "ozbekistonda",
+   "ozbekistonni",
+   "qatoriga",
+   "qilingan",
+   "shahardagi",
+   "shugullanuvchilar",
+   "sonini",
+   "sport",
+   "tashkil",
+   "tuman",
+   "turi",
+   "ushbu",
+   "voleybol",
+   "yilgacha"
+  ]
+ },
+ {
+  "prefiks": "taksihaydovchilariogohbolingfiribgarlartelefonorqalitaksi",
+  "sozlar": [
+   "boling",
+   "chalgitib",
+   "firibgarlar",
+   "haydovchilari",
+   "haydovchilarini",
+   "hushyor",
+   "ishonib",
+   "ketmang",
+   "nomalum",
+   "ogoh",
+   "orqali",
+   "ozlashtirishga",
+   "pullarini",
+   "raqamlarga",
+   "taksi",
+   "telefon",
+   "urinmoqda"
+  ]
+ },
+ {
+  "prefiks": "shveytsariyachimyonchimyondajudakattamaydondayangichangi",
+  "sozlar": [
+   "changi",
+   "chimyon",
+   "chimyonda",
+   "ishga",
+   "juda",
+   "kanatka",
+   "katta",
+   "maydonda",
+   "shveytsariya",
+   "tushmoqda",
+   "uchish",
+   "yangi",
+   "zonasi"
   ]
  }
 ]

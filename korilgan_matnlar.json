@@ -1,18 +1,5 @@
 [
  {
-  "prefiks": "olmaliqdayoshliktillakonidabelazagdarilibketganligiaytilmoqda",
-  "sozlar": [
-   "agdarilib",
-   "aytilmoqda",
-   "belaz",
-   "ketganligi",
-   "konida",
-   "olmaliqda",
-   "tilla",
-   "yoshlik"
-  ]
- },
- {
   "prefiks": "yangitoshkentshahrihokimligitashkiletiladiyangitoshkent",
   "sozlar": [
    "birlik",
@@ -13818,6 +13805,36 @@
    "yolga",
    "yonalishida",
    "yuborib"
+  ]
+ },
+ {
+  "prefiks": "yaqininsonimkiribkelganjumatongimuborakbolsin",
+  "sozlar": [
+   "bilan",
+   "birinchilardan",
+   "bizni",
+   "bolib",
+   "boling",
+   "bolsin",
+   "bugungi",
+   "duoda",
+   "duolaringizda",
+   "etkazganiga",
+   "haqqimizga",
+   "insonim",
+   "juma",
+   "kelgan",
+   "kirib",
+   "kunlarga",
+   "muborak",
+   "salomat",
+   "shukrlar",
+   "tabriklashni",
+   "tinchlikda",
+   "tongi",
+   "unutmang",
+   "yaqin",
+   "yaqinlarni"
   ]
  }
 ]

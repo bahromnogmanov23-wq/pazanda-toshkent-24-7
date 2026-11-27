@@ -1,31 +1,5 @@
 [
  {
-  "prefiks": "yangitoshkentshahrihokimligitashkiletiladiyangitoshkent",
-  "sozlar": [
-   "birlik",
-   "etadi",
-   "etiladi",
-   "etilguniga",
-   "faoliyat",
-   "hokim",
-   "hokimini",
-   "hokimligi",
-   "hududiy",
-   "lavozimidan",
-   "mamuriy",
-   "ozod",
-   "prezident",
-   "qadar",
-   "shahri",
-   "tashkil",
-   "tayinlaydi",
-   "tegishli",
-   "toshkent",
-   "yangi",
-   "yuritadi"
-  ]
- },
- {
   "prefiks": "izohlardakimdirbuniodatdesakopchilikhayvonlarbunchalik",
   "sozlar": [
    "bildirmoqda",
@@ -13835,6 +13809,39 @@
    "unutmang",
    "yaqin",
    "yaqinlarni"
+  ]
+ },
+ {
+  "prefiks": "toifadagishaxsnimamuriyqamoqqaolishmumkinemasozbekiston",
+  "sozlar": [
+   "ayollar",
+   "birinchi",
+   "bolasi",
+   "bolasini",
+   "bolgan",
+   "emas",
+   "guruh",
+   "homilador",
+   "ikkinchi",
+   "kora",
+   "mamuriy",
+   "mjtkning",
+   "moddasiga",
+   "mumkin",
+   "nogironligi",
+   "olish",
+   "ozbekiston",
+   "qamoqqa",
+   "respublikasi",
+   "shaxslar",
+   "shaxslarni",
+   "shaxsni",
+   "tarbiyalayotgan",
+   "toifadagi",
+   "tolmagan",
+   "yakka",
+   "yoshga",
+   "yoshgacha"
   ]
  }
 ]

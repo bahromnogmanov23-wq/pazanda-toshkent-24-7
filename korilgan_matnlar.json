@@ -1,111 +1,5 @@
 [
  {
-  "prefiks": "aytishlarichazarafshonshahriningkichiktumanidayonginsodirbolibti",
-  "sozlar": [
-   "aytishlaricha",
-   "bartaraf",
-   "bolibti",
-   "etilgan",
-   "hozirda",
-   "kichik",
-   "shahrining",
-   "sodir",
-   "toliq",
-   "tumanida",
-   "yongin",
-   "zarafshon"
-  ]
- },
- {
-  "prefiks": "microsoftglobalnosozlikmamlakatniqamraboldimicrosoftservislarida",
-  "sozlar": [
-   "anthropic",
-   "balki",
-   "bergan",
-   "chetlab",
-   "dunyoning",
-   "foydalanuvchilarga",
-   "global",
-   "hududidagi",
-   "kabi",
-   "keng",
-   "kolamli",
-   "kompaniyalarni",
-   "korsatdi",
-   "mamlakat",
-   "mamlakatni",
-   "microsoft",
-   "minglab",
-   "muammo",
-   "nafaqat",
-   "nosozlik",
-   "odamlarni",
-   "oldi",
-   "openai",
-   "otmadi",
-   "qamrab",
-   "servislarida",
-   "texnik",
-   "texnologik",
-   "yirik"
-  ]
- },
- {
-  "prefiks": "tehronmarkaziymaydonlaridanbiridagivaziyatislominqilobiqoriqchilari",
-  "sozlar": [
-   "apparatini",
-   "biridagi",
-   "iiqk",
-   "inqilobi",
-   "islom",
-   "korpusi",
-   "markaziy",
-   "maydonlaridan",
-   "namoyish",
-   "qilmoqda",
-   "qoriqchilari",
-   "raketalari",
-   "shohid",
-   "shuningdek",
-   "tehron",
-   "uchish",
-   "uchuvchisiz",
-   "vaziyat",
-   "xaybar",
-   "xorramshaxr"
-  ]
- },
- {
-  "prefiks": "odinbaribiryozamandeganiekanundaxaydovchiposhel",
-  "sozlar": [
-   "abdumalikovich",
-   "advokat",
-   "baribir",
-   "bilan",
-   "bolgan",
-   "degani",
-   "desa",
-   "ekan",
-   "inspektorlar",
-   "ishlatinglar",
-   "janob",
-   "kelishmadim",
-   "mano",
-   "manosida",
-   "odin",
-   "orniga",
-   "poshel",
-   "qabul",
-   "qanday",
-   "qilasizlarmi",
-   "sozini",
-   "taqdirda",
-   "unda",
-   "xaydovchi",
-   "yozaman"
-  ]
- },
- {
   "prefiks": "vertolyotorninibosuvchi2000kilometrlikdroniyaratildiskyways",
   "sozlar": [
    "2000",
@@ -13869,6 +13763,95 @@
    "xizmatining",
    "xonadonlari",
    "yoki"
+  ]
+ },
+ {
+  "prefiks": "dollarningsomganisbatanyangiqiymatibelgilandifuntsterling",
+  "sozlar": [
+   "belgilandi",
+   "dollarning",
+   "evro",
+   "funt",
+   "nisbatan",
+   "qimmatladi",
+   "qiymati",
+   "somga",
+   "sterling",
+   "yangi"
+  ]
+ },
+ {
+  "prefiks": "toshkentmetrosigabeshvagonlipoezdolibkelinadishuningdek",
+  "sozlar": [
+   "besh",
+   "foydalanilayotgan",
+   "hozirda",
+   "kelinadi",
+   "metrosiga",
+   "olib",
+   "otkaziladi",
+   "poezd",
+   "shuningdek",
+   "tizimga",
+   "tort",
+   "toshkent",
+   "vagonli"
+  ]
+ },
+ {
+  "prefiks": "mashinamoyinialmashtirishvaqtikelganinibilasizmimanaoddiy",
+  "sozlar": [
+   "almashtirish",
+   "bilasizmi",
+   "bilib",
+   "kelgan",
+   "kelganini",
+   "kelmaganini",
+   "mana",
+   "mashina",
+   "motor",
+   "moyini",
+   "oddiy",
+   "oling",
+   "usul",
+   "vaqti",
+   "yordamida"
+  ]
+ },
+ {
+  "prefiks": "meksikadaneftquvuriyaqinidakattayonginsodirboldi",
+  "sozlar": [
+   "avvalroq",
+   "bergan",
+   "biroq",
+   "boldi",
+   "bolgani",
+   "etib",
+   "haqida",
+   "katta",
+   "keyinchalik",
+   "kompaniya",
+   "kompaniyasi",
+   "mahalliy",
+   "malum",
+   "malumotni",
+   "meksikada",
+   "neft",
+   "oavlar",
+   "otlar",
+   "pemex",
+   "portlash",
+   "qildi",
+   "quruq",
+   "quvur",
+   "quvuri",
+   "quvurida",
+   "sodir",
+   "xabar",
+   "yaqinida",
+   "yonganini",
+   "yongin",
+   "yonidagi"
   ]
  }
 ]

@@ -1,37 +1,5 @@
 [
  {
-  "prefiks": "farzandinibogchayokimaktabganavbatgaqoymoqchibolganlargakerakli",
-  "sozlar": [
-   "ariza",
-   "bogcha",
-   "bolganlarga",
-   "bolmaydi",
-   "buning",
-   "echimi",
-   "farzandini",
-   "foydadan",
-   "ilovasiga",
-   "juda",
-   "kerakli",
-   "kirasiz",
-   "kiritib",
-   "maktabga",
-   "malumotlarni",
-   "navbatga",
-   "oson",
-   "qabul",
-   "qoymoqchi",
-   "tanlaysiz",
-   "ulashing",
-   "video",
-   "xizmatini",
-   "xoli",
-   "yaqinlarga",
-   "yoki",
-   "yuborasiz"
-  ]
- },
- {
   "prefiks": "avstraliyadaoltiormondaqolibketganosmirtiriktopildi",
   "sozlar": [
    "avstraliyada",
@@ -13885,6 +13853,26 @@
    "ushbu",
    "yakunlanganidan",
    "yoki"
+  ]
+ },
+ {
+  "prefiks": "karmanatumanidagisonliumumtalimmaktabidaoquvchiyoshlarishtirokida",
+  "sozlar": [
+   "bilimdoni",
+   "etildi",
+   "harakati",
+   "intellektual",
+   "ishtirokida",
+   "karmana",
+   "maktabida",
+   "oquvchi",
+   "oyini",
+   "sonli",
+   "tashkil",
+   "tumanidagi",
+   "umumtalim",
+   "yoshlar",
+   "zakovat"
   ]
  }
 ]

@@ -1,42 +1,5 @@
 [
  {
-  "prefiks": "sokinganjoylariyanataksistbilanjanjaltaksihaydovchisining",
-  "sozlar": [
-   "baho",
-   "berilishini",
-   "bilan",
-   "bolmoqda",
-   "harakatlarida",
-   "harakatlariga",
-   "haydovchilari",
-   "haydovchisining",
-   "huquqiy",
-   "jamoatchilik",
-   "janjal",
-   "joylari",
-   "kelib",
-   "kelishmovchiliklar",
-   "mijozlar",
-   "muhokamalariga",
-   "ortasida",
-   "paytlarda",
-   "provokatsiya",
-   "sabab",
-   "sokingan",
-   "songgi",
-   "soraymiz",
-   "taksi",
-   "taksist",
-   "tarqalgan",
-   "turli",
-   "videoda",
-   "xatti",
-   "xosh",
-   "yana",
-   "yuzaga"
-  ]
- },
- {
   "prefiks": "faqatkulmangkayfiyatuchunulashibqoyamiz",
   "sozlar": [
    "faqat",
@@ -13863,6 +13826,27 @@
    "tibbiy",
    "topshirish",
    "uchun"
+  ]
+ },
+ {
+  "prefiks": "toshkentviloyatihududidaotkazilayotgankunduzgitungireydtadbirlarida",
+  "sozlar": [
+   "aniqlanib",
+   "choralar",
+   "holatlari",
+   "hududida",
+   "korilmoqda",
+   "kunduzgi",
+   "nechta",
+   "otkazilayotgan",
+   "qoidabuzarlik",
+   "qonuniy",
+   "qopol",
+   "reyd",
+   "tadbirlarida",
+   "toshkent",
+   "tungi",
+   "viloyati"
   ]
  }
 ]

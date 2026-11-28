@@ -1,29 +1,5 @@
 [
  {
-  "prefiks": "baadaonlabtransportozarotoqnashdikishihalokboldi",
-  "sozlar": [
-   "baada",
-   "boldi",
-   "boyicha",
-   "halok",
-   "hodisa",
-   "huquqni",
-   "ishlarini",
-   "jarohatlangan",
-   "kishi",
-   "muhofaza",
-   "onlab",
-   "organlari",
-   "otkazmoqda",
-   "ozaro",
-   "qilish",
-   "tergov",
-   "toqnashdi",
-   "transport",
-   "yana"
-  ]
- },
- {
   "prefiks": "toshkentdadekabrdanevakuatorjarimamaydonchalariyangitartibdaishlaydi",
   "sozlar": [
    "avtomobil",
@@ -13856,6 +13832,16 @@
    "ushlandi",
    "vada",
    "xaridor"
+  ]
+ },
+ {
+  "prefiks": "qozogistondahaqiqiyqahratonqishboshlandi",
+  "sozlar": [
+   "boshlandi",
+   "haqiqiy",
+   "qahraton",
+   "qish",
+   "qozogistonda"
   ]
  }
 ]

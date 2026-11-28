@@ -1,41 +1,5 @@
 [
  {
-  "prefiks": "toshkentdadekabrdanevakuatorjarimamaydonchalariyangitartibdaishlaydi",
-  "sozlar": [
-   "avtomobil",
-   "avtomobillar",
-   "dekabrdan",
-   "etishi",
-   "evakuator",
-   "evakuatsiya",
-   "ichida",
-   "ishlaydi",
-   "jarima",
-   "joylarda",
-   "ketiladi",
-   "ketilmasa",
-   "majburiy",
-   "maydonchalari",
-   "maydonchasiga",
-   "ming",
-   "mumkin",
-   "olib",
-   "qarzdorlik",
-   "qoldirilgan",
-   "saqlash",
-   "shuningdek",
-   "somgacha",
-   "sutka",
-   "taqiqlangan",
-   "tartibda",
-   "tolovi",
-   "toshkentda",
-   "uchun",
-   "xarajati",
-   "yangi"
-  ]
- },
- {
   "prefiks": "toshkentdamingdollarlikqalbakipullarnisotganshaxsushlandi",
   "sozlar": [
    "aqsh",
@@ -13842,6 +13806,42 @@
    "qahraton",
    "qish",
    "qozogistonda"
+  ]
+ },
+ {
+  "prefiks": "toshkentdamaydoninirasmiylashtiribberishevazigadollartalabqilgan",
+  "sozlar": [
+   "berish",
+   "berishni",
+   "boshqarmasi",
+   "dollar",
+   "evaziga",
+   "gektar",
+   "maydonini",
+   "ming",
+   "nomiga",
+   "nurafshon",
+   "oldindan",
+   "olgan",
+   "olib",
+   "qilgan",
+   "qurilishga",
+   "rasmiylashtirib",
+   "ruxsatnoma",
+   "shahridagi",
+   "shaxsdan",
+   "soliq",
+   "soliqchi",
+   "talab",
+   "tezkor",
+   "toshkent",
+   "toshkentda",
+   "ushlandi",
+   "vaqtida",
+   "viloyati",
+   "xaridor",
+   "xodimi",
+   "yuridik"
   ]
  }
 ]

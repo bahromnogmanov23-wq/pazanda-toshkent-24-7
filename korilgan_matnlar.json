@@ -1,20 +1,5 @@
 [
  {
-  "prefiks": "aeroportdagituzoqbirovningnarsasigategmangqolingizgaolmangyaqinlarga",
-  "sozlar": [
-   "aeroportdagi",
-   "birovning",
-   "narsasiga",
-   "olmang",
-   "qolingizga",
-   "qoying",
-   "tegmang",
-   "tuzoq",
-   "yaqinlarga",
-   "yuborib"
-  ]
- },
- {
   "prefiks": "farzandinibogchayokimaktabganavbatgaqoymoqchibolganlargakerakli",
   "sozlar": [
    "ariza",
@@ -13860,6 +13845,46 @@
    "uzreport",
    "xizmati",
    "yhxx"
+  ]
+ },
+ {
+  "prefiks": "jarayonidaadvokatlarningrolikuchaymoqdasenatmaqullaganqonungakora",
+  "sozlar": [
+   "advokatlarning",
+   "ayblovga",
+   "boladi",
+   "chaqirilishi",
+   "dalillar",
+   "dastlabki",
+   "endi",
+   "engillashtiruvchi",
+   "etish",
+   "fikri",
+   "himoya",
+   "himoyachilar",
+   "holatlar",
+   "hujjatda",
+   "huquqiga",
+   "ichida",
+   "jarayonida",
+   "jazoni",
+   "keyin",
+   "kora",
+   "kuchaymoqda",
+   "maqullagan",
+   "munosabat",
+   "qonunga",
+   "roli",
+   "senat",
+   "soralayotgan",
+   "sudga",
+   "surishtiruv",
+   "sutka",
+   "taqdim",
+   "tergov",
+   "ushbu",
+   "yakunlanganidan",
+   "yoki"
   ]
  }
 ]
